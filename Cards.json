@@ -23,7 +23,8 @@
     "pac": "Core Set",
     "traits": [
       "Genius"
-    ]
+    ],
+    "Nemesis": false
   },
   "01002": {
     "id": "01002",
@@ -42,7 +43,8 @@
     "pac": "Core Set",
     "traits": [
       "Hero for Hire"
-    ]
+    ],
+    "Nemesis": false
   },
   "01003": {
     "id": "01003",
@@ -62,7 +64,8 @@
     "traits": [
       "Defense",
       "Skill"
-    ]
+    ],
+    "Nemesis": false
   },
   "01004": {
     "id": "01004",
@@ -81,7 +84,8 @@
     "pac": "Core Set",
     "traits": [
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01005": {
     "id": "01005",
@@ -102,7 +106,8 @@
       "Aerial",
       "Attack",
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01006": {
     "id": "01006",
@@ -121,7 +126,8 @@
     "pac": "Core Set",
     "traits": [
       "Persona"
-    ]
+    ],
+    "Nemesis": false
   },
   "01007": {
     "id": "01007",
@@ -141,7 +147,8 @@
     "traits": [
       "Item",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01008": {
     "id": "01008",
@@ -161,7 +168,8 @@
     "traits": [
       "Item",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01009": {
     "id": "01009",
@@ -180,7 +188,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": false
   },
   "01010a": {
     "id": "01010a",
@@ -212,7 +221,8 @@
       "L",
       "D",
       "Soldier"
-    ]
+    ],
+    "Nemesis": false
   },
   "01011": {
     "id": "01011",
@@ -232,7 +242,8 @@
     "traits": [
       "Avenger",
       "Spy"
-    ]
+    ],
+    "Nemesis": false
   },
   "01012": {
     "id": "01012",
@@ -251,7 +262,8 @@
     "pac": "Core Set",
     "traits": [
       "Thwart"
-    ]
+    ],
+    "Nemesis": false
   },
   "01013": {
     "id": "01013",
@@ -271,7 +283,8 @@
     "traits": [
       "Attack",
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01014": {
     "id": "01014",
@@ -288,7 +301,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01015": {
     "id": "01015",
@@ -313,7 +327,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01016": {
     "id": "01016",
@@ -333,7 +348,8 @@
     "traits": [
       "Armor",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01017": {
     "id": "01017",
@@ -352,7 +368,8 @@
     "pac": "Core Set",
     "traits": [
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01018": {
     "id": "01018",
@@ -371,7 +388,8 @@
     "pac": "Core Set",
     "traits": [
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01019a": {
     "id": "01019a",
@@ -398,7 +416,8 @@
     "traits": [
       "Attorney",
       "Gamma"
-    ]
+    ],
+    "Nemesis": false
   },
   "01020": {
     "id": "01020",
@@ -417,7 +436,8 @@
     "pac": "Core Set",
     "traits": [
       "Avenger"
-    ]
+    ],
+    "Nemesis": false
   },
   "01021": {
     "id": "01021",
@@ -437,7 +457,8 @@
     "traits": [
       "Attack",
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01022": {
     "id": "01022",
@@ -456,7 +477,8 @@
     "pac": "Core Set",
     "traits": [
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01023": {
     "id": "01023",
@@ -476,7 +498,8 @@
     "traits": [
       "Skill",
       "Thwart"
-    ]
+    ],
+    "Nemesis": false
   },
   "01024": {
     "id": "01024",
@@ -495,7 +518,8 @@
     "pac": "Core Set",
     "traits": [
       "Skill"
-    ]
+    ],
+    "Nemesis": false
   },
   "01025": {
     "id": "01025",
@@ -512,7 +536,8 @@
     "type": "Event",
     "cost": 3,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01026": {
     "id": "01026",
@@ -531,7 +556,8 @@
     "pac": "Core Set",
     "traits": [
       "Location"
-    ]
+    ],
+    "Nemesis": false
   },
   "01027": {
     "id": "01027",
@@ -550,7 +576,8 @@
     "pac": "Core Set",
     "traits": [
       "Skill"
-    ]
+    ],
+    "Nemesis": false
   },
   "01028": {
     "id": "01028",
@@ -569,7 +596,8 @@
     "pac": "Core Set",
     "traits": [
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01029a": {
     "id": "01029a",
@@ -595,7 +623,8 @@
     "pac": "Core Set",
     "traits": [
       "Genius"
-    ]
+    ],
+    "Nemesis": false
   },
   "01030": {
     "id": "01030",
@@ -620,7 +649,8 @@
       "L",
       "D",
       "Soldier"
-    ]
+    ],
+    "Nemesis": false
   },
   "01031": {
     "id": "01031",
@@ -640,7 +670,8 @@
     "traits": [
       "Attack",
       "Superpower"
-    ]
+    ],
+    "Nemesis": false
   },
   "01032": {
     "id": "01032",
@@ -659,7 +690,8 @@
     "pac": "Core Set",
     "traits": [
       "Attack"
-    ]
+    ],
+    "Nemesis": false
   },
   "01033": {
     "id": "01033",
@@ -678,7 +710,8 @@
     "pac": "Core Set",
     "traits": [
       "Persona"
-    ]
+    ],
+    "Nemesis": false
   },
   "01034": {
     "id": "01034",
@@ -697,7 +730,8 @@
     "pac": "Core Set",
     "traits": [
       "Location"
-    ]
+    ],
+    "Nemesis": false
   },
   "01035": {
     "id": "01035",
@@ -717,7 +751,8 @@
     "traits": [
       "Item",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01036": {
     "id": "01036",
@@ -737,7 +772,8 @@
     "traits": [
       "Armor",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01037": {
     "id": "01037",
@@ -757,7 +793,8 @@
     "traits": [
       "Armor",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01038": {
     "id": "01038",
@@ -777,7 +814,8 @@
     "traits": [
       "Armor",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01039": {
     "id": "01039",
@@ -797,7 +835,8 @@
     "traits": [
       "Armor",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01040a": {
     "id": "01040a",
@@ -824,7 +863,8 @@
     "traits": [
       "King",
       "Wakanda"
-    ]
+    ],
+    "Nemesis": false
   },
   "01041": {
     "id": "01041",
@@ -844,7 +884,8 @@
     "traits": [
       "Genius",
       "Wakanda"
-    ]
+    ],
+    "Nemesis": false
   },
   "01042": {
     "id": "01042",
@@ -861,7 +902,8 @@
     "type": "Event",
     "cost": 1,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01043a": {
     "id": "01043a",
@@ -880,7 +922,8 @@
     "pac": "Core Set",
     "traits": [
       "Tactic"
-    ]
+    ],
+    "Nemesis": false
   },
   "01043b": {
     "id": "01043b",
@@ -899,7 +942,8 @@
     "pac": "Core Set",
     "traits": [
       "Tactic"
-    ]
+    ],
+    "Nemesis": false
   },
   "01043c": {
     "id": "01043c",
@@ -918,7 +962,8 @@
     "pac": "Core Set",
     "traits": [
       "Tactic"
-    ]
+    ],
+    "Nemesis": false
   },
   "01043d": {
     "id": "01043d",
@@ -937,7 +982,8 @@
     "pac": "Core Set",
     "traits": [
       "Tactic"
-    ]
+    ],
+    "Nemesis": false
   },
   "01044": {
     "id": "01044",
@@ -954,7 +1000,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01045": {
     "id": "01045",
@@ -974,7 +1021,8 @@
     "traits": [
       "Location",
       "Wakanda"
-    ]
+    ],
+    "Nemesis": false
   },
   "01046": {
     "id": "01046",
@@ -994,7 +1042,8 @@
     "traits": [
       "Black Panther",
       "Weapon"
-    ]
+    ],
+    "Nemesis": false
   },
   "01047": {
     "id": "01047",
@@ -1014,7 +1063,8 @@
     "traits": [
       "Black Panther",
       "Weapon"
-    ]
+    ],
+    "Nemesis": false
   },
   "01048": {
     "id": "01048",
@@ -1034,7 +1084,8 @@
     "traits": [
       "Black Panther",
       "Skill"
-    ]
+    ],
+    "Nemesis": false
   },
   "01049": {
     "id": "01049",
@@ -1054,7 +1105,8 @@
     "traits": [
       "Armor",
       "Black Panther"
-    ]
+    ],
+    "Nemesis": false
   },
   "01050": {
     "id": "01050",
@@ -1074,7 +1126,8 @@
     "traits": [
       "Avenger",
       "Gamma"
-    ]
+    ],
+    "Nemesis": false
   },
   "01051": {
     "id": "01051",
@@ -1093,7 +1146,8 @@
     "pac": "Core Set",
     "traits": [
       "Avenger"
-    ]
+    ],
+    "Nemesis": false
   },
   "01052": {
     "id": "01052",
@@ -1112,7 +1166,8 @@
     "pac": "Core Set",
     "traits": [
       "Thwart"
-    ]
+    ],
+    "Nemesis": false
   },
   "01053": {
     "id": "01053",
@@ -1131,7 +1186,8 @@
     "pac": "Core Set",
     "traits": [
       "Attack"
-    ]
+    ],
+    "Nemesis": false
   },
   "01054": {
     "id": "01054",
@@ -1150,7 +1206,8 @@
     "pac": "Core Set",
     "traits": [
       "Attack"
-    ]
+    ],
+    "Nemesis": false
   },
   "01055": {
     "id": "01055",
@@ -1167,7 +1224,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01056": {
     "id": "01056",
@@ -1191,7 +1249,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01057": {
     "id": "01057",
@@ -1210,7 +1269,8 @@
     "pac": "Core Set",
     "traits": [
       "Skill"
-    ]
+    ],
+    "Nemesis": false
   },
   "01058": {
     "id": "01058",
@@ -1229,7 +1289,8 @@
     "pac": "Core Set",
     "traits": [
       "Defender"
-    ]
+    ],
+    "Nemesis": false
   },
   "01059": {
     "id": "01059",
@@ -1248,7 +1309,8 @@
     "pac": "Core Set",
     "traits": [
       "Defender"
-    ]
+    ],
+    "Nemesis": false
   },
   "01060": {
     "id": "01060",
@@ -1267,7 +1329,8 @@
     "pac": "Core Set",
     "traits": [
       "Thwart"
-    ]
+    ],
+    "Nemesis": false
   },
   "01061": {
     "id": "01061",
@@ -1284,7 +1347,8 @@
     "type": "Event",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01062": {
     "id": "01062",
@@ -1301,7 +1365,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01063": {
     "id": "01063",
@@ -1320,7 +1385,8 @@
     "pac": "Core Set",
     "traits": [
       "Location"
-    ]
+    ],
+    "Nemesis": false
   },
   "01064": {
     "id": "01064",
@@ -1344,7 +1410,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01065": {
     "id": "01065",
@@ -1363,7 +1430,8 @@
     "pac": "Core Set",
     "traits": [
       "Skill"
-    ]
+    ],
+    "Nemesis": false
   },
   "01066": {
     "id": "01066",
@@ -1382,7 +1450,8 @@
     "pac": "Core Set",
     "traits": [
       "Avenger"
-    ]
+    ],
+    "Nemesis": false
   },
   "01067": {
     "id": "01067",
@@ -1406,7 +1475,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01068": {
     "id": "01068",
@@ -1426,7 +1496,8 @@
     "traits": [
       "Android",
       "Avenger"
-    ]
+    ],
+    "Nemesis": false
   },
   "01069": {
     "id": "01069",
@@ -1443,7 +1514,8 @@
     "type": "Event",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01070": {
     "id": "01070",
@@ -1462,7 +1534,8 @@
     "pac": "Core Set",
     "traits": [
       "Tactic"
-    ]
+    ],
+    "Nemesis": false
   },
   "01071": {
     "id": "01071",
@@ -1479,7 +1552,8 @@
     "type": "Event",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01072": {
     "id": "01072",
@@ -1496,7 +1570,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01073": {
     "id": "01073",
@@ -1521,7 +1596,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01074": {
     "id": "01074",
@@ -1540,7 +1616,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": false
   },
   "01075": {
     "id": "01075",
@@ -1565,7 +1642,8 @@
       "L",
       "D",
       "Spy"
-    ]
+    ],
+    "Nemesis": false
   },
   "01076": {
     "id": "01076",
@@ -1584,7 +1662,8 @@
     "pac": "Core Set",
     "traits": [
       "Defender"
-    ]
+    ],
+    "Nemesis": false
   },
   "01077": {
     "id": "01077",
@@ -1603,7 +1682,8 @@
     "pac": "Core Set",
     "traits": [
       "Attack"
-    ]
+    ],
+    "Nemesis": false
   },
   "01078": {
     "id": "01078",
@@ -1620,7 +1700,8 @@
     "type": "Event",
     "cost": 1,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01079": {
     "id": "01079",
@@ -1637,7 +1718,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01080": {
     "id": "01080",
@@ -1661,7 +1743,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01081": {
     "id": "01081",
@@ -1680,7 +1763,8 @@
     "pac": "Core Set",
     "traits": [
       "Armor"
-    ]
+    ],
+    "Nemesis": false
   },
   "01082": {
     "id": "01082",
@@ -1699,7 +1783,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": false
   },
   "01083": {
     "id": "01083",
@@ -1724,7 +1809,8 @@
       "L",
       "D",
       "Spy"
-    ]
+    ],
+    "Nemesis": false
   },
   "01084": {
     "id": "01084",
@@ -1749,7 +1835,8 @@
       "L",
       "D",
       "Spy"
-    ]
+    ],
+    "Nemesis": false
   },
   "01085": {
     "id": "01085",
@@ -1768,7 +1855,8 @@
     "pac": "Core Set",
     "traits": [
       "Thwart"
-    ]
+    ],
+    "Nemesis": false
   },
   "01086": {
     "id": "01086",
@@ -1785,7 +1873,8 @@
     "type": "Event",
     "cost": 1,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01087": {
     "id": "01087",
@@ -1804,7 +1893,8 @@
     "pac": "Core Set",
     "traits": [
       "Attack"
-    ]
+    ],
+    "Nemesis": false
   },
   "01088": {
     "id": "01088",
@@ -1821,7 +1911,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01089": {
     "id": "01089",
@@ -1838,7 +1929,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01090": {
     "id": "01090",
@@ -1855,7 +1947,8 @@
     "type": "Resource",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01091": {
     "id": "01091",
@@ -1875,7 +1968,8 @@
     "traits": [
       "Avenger",
       "Location"
-    ]
+    ],
+    "Nemesis": false
   },
   "01092": {
     "id": "01092",
@@ -1900,7 +1994,8 @@
       "E",
       "L",
       "D"
-    ]
+    ],
+    "Nemesis": false
   },
   "01093": {
     "id": "01093",
@@ -1919,7 +2014,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": false
   },
   "01094": {
     "id": "01094",
@@ -1939,7 +2035,8 @@
     "traits": [
       "Brute",
       "Criminal"
-    ]
+    ],
+    "Nemesis": false
   },
   "01095": {
     "id": "01095",
@@ -1959,7 +2056,8 @@
     "traits": [
       "Brute",
       "Criminal"
-    ]
+    ],
+    "Nemesis": false
   },
   "01096": {
     "id": "01096",
@@ -1979,7 +2077,8 @@
     "traits": [
       "Brute",
       "Criminal"
-    ]
+    ],
+    "Nemesis": false
   },
   "01097": {
     "id": "01097",
@@ -2002,7 +2101,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01097a": {
     "id": "01097a",
@@ -2019,7 +2119,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01098": {
     "id": "01098",
@@ -2038,7 +2139,8 @@
     "pac": "Core Set",
     "traits": [
       "Armor"
-    ]
+    ],
+    "Nemesis": false
   },
   "01099": {
     "id": "01099",
@@ -2055,7 +2157,8 @@
     "type": "Attachment",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01100": {
     "id": "01100",
@@ -2074,7 +2177,8 @@
     "pac": "Core Set",
     "traits": [
       "Weapon"
-    ]
+    ],
+    "Nemesis": false
   },
   "01101": {
     "id": "01101",
@@ -2093,7 +2197,8 @@
     "pac": "Core Set",
     "traits": [
       "Hydra"
-    ]
+    ],
+    "Nemesis": false
   },
   "01102": {
     "id": "01102",
@@ -2113,7 +2218,8 @@
     "traits": [
       "Criminal",
       "Elite"
-    ]
+    ],
+    "Nemesis": false
   },
   "01103": {
     "id": "01103",
@@ -2132,7 +2238,8 @@
     "pac": "Core Set",
     "traits": [
       "Criminal"
-    ]
+    ],
+    "Nemesis": false
   },
   "01104": {
     "id": "01104",
@@ -2149,7 +2256,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01105": {
     "id": "01105",
@@ -2166,7 +2274,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01106": {
     "id": "01106",
@@ -2183,7 +2292,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01107": {
     "id": "01107",
@@ -2200,7 +2310,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01108": {
     "id": "01108",
@@ -2217,7 +2328,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01109": {
     "id": "01109",
@@ -2234,7 +2346,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01110": {
     "id": "01110",
@@ -2253,7 +2366,8 @@
     "pac": "Core Set",
     "traits": [
       "Hydra"
-    ]
+    ],
+    "Nemesis": false
   },
   "01111": {
     "id": "01111",
@@ -2270,7 +2384,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01112": {
     "id": "01112",
@@ -2287,7 +2402,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01113": {
     "id": "01113",
@@ -2306,7 +2422,8 @@
     "pac": "Core Set",
     "traits": [
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01114": {
     "id": "01114",
@@ -2325,7 +2442,8 @@
     "pac": "Core Set",
     "traits": [
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01115": {
     "id": "01115",
@@ -2344,7 +2462,8 @@
     "pac": "Core Set",
     "traits": [
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01116": {
     "id": "01116",
@@ -2367,7 +2486,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01116a": {
     "id": "01116a",
@@ -2384,7 +2504,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01117": {
     "id": "01117",
@@ -2407,7 +2528,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01117a": {
     "id": "01117a",
@@ -2424,7 +2546,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01118": {
     "id": "01118",
@@ -2443,7 +2566,8 @@
     "pac": "Core Set",
     "traits": [
       "Weapon"
-    ]
+    ],
+    "Nemesis": false
   },
   "01119": {
     "id": "01119",
@@ -2462,7 +2586,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": false
   },
   "01120": {
     "id": "01120",
@@ -2481,7 +2606,8 @@
     "pac": "Core Set",
     "traits": [
       "Mercenary"
-    ]
+    ],
+    "Nemesis": false
   },
   "01121": {
     "id": "01121",
@@ -2500,7 +2626,8 @@
     "pac": "Core Set",
     "traits": [
       "Mercenary"
-    ]
+    ],
+    "Nemesis": false
   },
   "01122": {
     "id": "01122",
@@ -2517,7 +2644,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01123": {
     "id": "01123",
@@ -2534,7 +2662,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01124": {
     "id": "01124",
@@ -2551,7 +2680,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01125": {
     "id": "01125",
@@ -2568,7 +2698,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01126": {
     "id": "01126",
@@ -2585,7 +2716,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01127": {
     "id": "01127",
@@ -2602,7 +2734,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01128": {
     "id": "01128",
@@ -2619,7 +2752,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01129": {
     "id": "01129",
@@ -2639,7 +2773,8 @@
     "traits": [
       "Elite",
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01130": {
     "id": "01130",
@@ -2658,7 +2793,8 @@
     "pac": "Core Set",
     "traits": [
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01131": {
     "id": "01131",
@@ -2677,7 +2813,8 @@
     "pac": "Core Set",
     "traits": [
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01132": {
     "id": "01132",
@@ -2696,7 +2833,8 @@
     "pac": "Core Set",
     "traits": [
       "Masters of Evil"
-    ]
+    ],
+    "Nemesis": false
   },
   "01133": {
     "id": "01133",
@@ -2713,7 +2851,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01134": {
     "id": "01134",
@@ -2732,7 +2871,8 @@
     "pac": "Core Set",
     "traits": [
       "Android"
-    ]
+    ],
+    "Nemesis": false
   },
   "01135": {
     "id": "01135",
@@ -2751,7 +2891,8 @@
     "pac": "Core Set",
     "traits": [
       "Android"
-    ]
+    ],
+    "Nemesis": false
   },
   "01136": {
     "id": "01136",
@@ -2770,7 +2911,8 @@
     "pac": "Core Set",
     "traits": [
       "Android"
-    ]
+    ],
+    "Nemesis": false
   },
   "01137": {
     "id": "01137",
@@ -2793,7 +2935,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01137a": {
     "id": "01137a",
@@ -2810,7 +2953,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01138": {
     "id": "01138",
@@ -2833,7 +2977,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01138a": {
     "id": "01138a",
@@ -2850,7 +2995,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01139": {
     "id": "01139",
@@ -2873,7 +3019,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01139a": {
     "id": "01139a",
@@ -2890,7 +3037,8 @@
     "type": "Main Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01140": {
     "id": "01140",
@@ -2907,7 +3055,8 @@
     "type": "Environment",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01141": {
     "id": "01141",
@@ -2927,7 +3076,8 @@
     "traits": [
       "Item",
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01142": {
     "id": "01142",
@@ -2946,7 +3096,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": false
   },
   "01143": {
     "id": "01143",
@@ -2965,7 +3116,8 @@
     "pac": "Core Set",
     "traits": [
       "Drone"
-    ]
+    ],
+    "Nemesis": false
   },
   "01144": {
     "id": "01144",
@@ -2982,7 +3134,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01144a": {
     "id": "01144a",
@@ -2999,7 +3152,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01144b": {
     "id": "01144b",
@@ -3016,7 +3170,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01144c": {
     "id": "01144c",
@@ -3033,7 +3188,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01145": {
     "id": "01145",
@@ -3050,7 +3206,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01146": {
     "id": "01146",
@@ -3067,7 +3224,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01147": {
     "id": "01147",
@@ -3084,7 +3242,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01148": {
     "id": "01148",
@@ -3101,7 +3260,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01149": {
     "id": "01149",
@@ -3118,7 +3278,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01150": {
     "id": "01150",
@@ -3135,7 +3296,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01151": {
     "id": "01151",
@@ -3152,7 +3314,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01152": {
     "id": "01152",
@@ -3171,7 +3334,8 @@
     "pac": "Core Set",
     "traits": [
       "Armor"
-    ]
+    ],
+    "Nemesis": false
   },
   "01153": {
     "id": "01153",
@@ -3190,7 +3354,8 @@
     "pac": "Core Set",
     "traits": [
       "Weapon"
-    ]
+    ],
+    "Nemesis": false
   },
   "01154": {
     "id": "01154",
@@ -3207,7 +3372,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01155": {
     "id": "01155",
@@ -3224,7 +3390,8 @@
     "type": "Obligation",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01156": {
     "id": "01156",
@@ -3241,7 +3408,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01157": {
     "id": "01157",
@@ -3262,7 +3430,8 @@
       "Assassin",
       "Elite",
       "Mercenary"
-    ]
+    ],
+    "Nemesis": true
   },
   "01158": {
     "id": "01158",
@@ -3279,7 +3448,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01159": {
     "id": "01159",
@@ -3296,7 +3466,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01160": {
     "id": "01160",
@@ -3313,7 +3484,8 @@
     "type": "Obligation",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01161": {
     "id": "01161",
@@ -3330,7 +3502,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01162": {
     "id": "01162",
@@ -3350,7 +3523,8 @@
     "traits": [
       "Brute",
       "Elite"
-    ]
+    ],
+    "Nemesis": true
   },
   "01163": {
     "id": "01163",
@@ -3369,7 +3543,8 @@
     "pac": "Core Set",
     "traits": [
       "Condition"
-    ]
+    ],
+    "Nemesis": true
   },
   "01164": {
     "id": "01164",
@@ -3386,7 +3561,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01165": {
     "id": "01165",
@@ -3403,7 +3579,8 @@
     "type": "Obligation",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01166": {
     "id": "01166",
@@ -3420,7 +3597,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01167": {
     "id": "01167",
@@ -3439,7 +3617,8 @@
     "pac": "Core Set",
     "traits": [
       "Criminal"
-    ]
+    ],
+    "Nemesis": true
   },
   "01168": {
     "id": "01168",
@@ -3456,7 +3635,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01169": {
     "id": "01169",
@@ -3473,7 +3653,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01170": {
     "id": "01170",
@@ -3490,7 +3671,8 @@
     "type": "Obligation",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01171": {
     "id": "01171",
@@ -3507,7 +3689,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01172": {
     "id": "01172",
@@ -3524,7 +3707,8 @@
     "type": "Minion",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01173": {
     "id": "01173",
@@ -3541,7 +3725,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01174": {
     "id": "01174",
@@ -3558,7 +3743,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01175": {
     "id": "01175",
@@ -3575,7 +3761,8 @@
     "type": "Obligation",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01176": {
     "id": "01176",
@@ -3592,7 +3779,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01177": {
     "id": "01177",
@@ -3612,7 +3800,8 @@
     "traits": [
       "Elite",
       "Kree"
-    ]
+    ],
+    "Nemesis": true
   },
   "01178": {
     "id": "01178",
@@ -3629,7 +3818,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01179": {
     "id": "01179",
@@ -3646,7 +3836,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": true
   },
   "01180": {
     "id": "01180",
@@ -3663,7 +3854,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01181": {
     "id": "01181",
@@ -3683,7 +3875,8 @@
     "traits": [
       "Elite",
       "Hydra"
-    ]
+    ],
+    "Nemesis": false
   },
   "01182": {
     "id": "01182",
@@ -3702,7 +3895,8 @@
     "pac": "Core Set",
     "traits": [
       "Hydra"
-    ]
+    ],
+    "Nemesis": false
   },
   "01183": {
     "id": "01183",
@@ -3719,7 +3913,8 @@
     "type": "Side Scheme",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01184": {
     "id": "01184",
@@ -3739,7 +3934,8 @@
     "traits": [
       "Cyborg",
       "Elite"
-    ]
+    ],
+    "Nemesis": false
   },
   "01185": {
     "id": "01185",
@@ -3758,7 +3954,8 @@
     "pac": "Core Set",
     "traits": [
       "Tech"
-    ]
+    ],
+    "Nemesis": false
   },
   "01186": {
     "id": "01186",
@@ -3775,7 +3972,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01187": {
     "id": "01187",
@@ -3792,7 +3990,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01188": {
     "id": "01188",
@@ -3809,7 +4008,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01189": {
     "id": "01189",
@@ -3826,7 +4026,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01190": {
     "id": "01190",
@@ -3843,7 +4044,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01191": {
     "id": "01191",
@@ -3860,7 +4062,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01192": {
     "id": "01192",
@@ -3877,7 +4080,8 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   },
   "01193": {
     "id": "01193",
@@ -3894,6 +4098,7 @@
     "type": "Treachery",
     "cost": 0,
     "pac": "Core Set",
-    "traits": []
+    "traits": [],
+    "Nemesis": false
   }
 }
