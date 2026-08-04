@@ -1989,7 +1989,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01097.png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "type": "Main Scheme",
@@ -2012,7 +2012,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The Break-In!",
@@ -2193,7 +2193,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01107.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Breakin' & Takin'",
@@ -2210,7 +2210,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01108.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Crowd Control",
@@ -2227,7 +2227,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01109.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Bomb Scare",
@@ -2354,7 +2354,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01116.png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "type": "Main Scheme",
@@ -2377,7 +2377,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Underground Distribution",
@@ -2394,7 +2394,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01117.png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "type": "Main Scheme",
@@ -2417,7 +2417,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Secret Rendezvous",
@@ -2561,7 +2561,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01125.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Defense Network",
@@ -2578,7 +2578,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01126.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Illegal Arms Factory",
@@ -2595,7 +2595,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01127.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The \"Immortal\" Klaw",
@@ -2612,7 +2612,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01128.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The Masters of Evil",
@@ -2780,7 +2780,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01137.png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "type": "Main Scheme",
@@ -2803,7 +2803,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The Crimson Cowl",
@@ -2820,7 +2820,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01138.png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "type": "Main Scheme",
@@ -2843,7 +2843,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Assault on NORAD",
@@ -2860,7 +2860,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01139.png",
-        "isHorizontal": false
+        "isHorizontal": true
       },
       "back": {
         "type": "Main Scheme",
@@ -2883,7 +2883,7 @@
         "type": "Main Scheme",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Countdown to Oblivion",
@@ -3094,7 +3094,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01148.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Drone Factory",
@@ -3111,7 +3111,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01149.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Invasive AI",
@@ -3128,7 +3128,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01150.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Ultron's Imperative",
@@ -3145,7 +3145,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01151.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Under Attack",
@@ -3234,7 +3234,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01156.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Usurp The Throne",
@@ -3323,7 +3323,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01161.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Personal Challenge",
@@ -3413,7 +3413,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01166.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Highway Robbery",
@@ -3500,7 +3500,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01171.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Imminent Overload",
@@ -3585,7 +3585,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01176.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The Psyche-Magnitron",
@@ -3656,7 +3656,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01180.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Legions of Hydra",
@@ -3712,7 +3712,7 @@
         "type": "Side Scheme",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01183.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The Doomsday Chair",
