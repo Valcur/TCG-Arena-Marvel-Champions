@@ -8760,6 +8760,13 @@
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/26002a.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Dense",
+        "type": "Upgrade",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/26002b.png",
+        "isHorizontal": false
       }
     },
     "name": "Intangible",
@@ -30925,29 +30932,17 @@
     "id": "01001a",
     "face": {
       "front": {
-        "name": "Spider-Man",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Spider-Man",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Core Set",
-    "traits": [
-      "Avenger"
-    ]
-  },
-  "01001b": {
-    "id": "01001b",
-    "face": {
-      "front": {
         "name": "Peter Parker",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Spider-Man",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/01001a.png",
         "isHorizontal": false
       }
     },
@@ -31120,30 +31115,17 @@
     "id": "01010a",
     "face": {
       "front": {
-        "name": "Captain Marvel",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01010a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Captain Marvel",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Core Set",
-    "traits": [
-      "Avenger",
-      "Soldier"
-    ]
-  },
-  "01010b": {
-    "id": "01010b",
-    "face": {
-      "front": {
         "name": "Carol Danvers",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01010b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Captain Marvel",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/01010a.png",
         "isHorizontal": false
       }
     },
@@ -31324,30 +31306,17 @@
     "id": "01019a",
     "face": {
       "front": {
-        "name": "She-Hulk",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01019a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "She-Hulk",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Core Set",
-    "traits": [
-      "Avenger",
-      "Gamma"
-    ]
-  },
-  "01019b": {
-    "id": "01019b",
-    "face": {
-      "front": {
         "name": "Jennifer Walters",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01019b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "She-Hulk",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/01019a.png",
         "isHorizontal": false
       }
     },
@@ -31535,29 +31504,17 @@
     "id": "01029a",
     "face": {
       "front": {
-        "name": "Iron Man",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01029a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Iron Man",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Core Set",
-    "traits": [
-      "Avenger"
-    ]
-  },
-  "01029b": {
-    "id": "01029b",
-    "face": {
-      "front": {
         "name": "Tony Stark",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01029b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Iron Man",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/01029a.png",
         "isHorizontal": false
       }
     },
@@ -31775,30 +31732,17 @@
     "id": "01040a",
     "face": {
       "front": {
-        "name": "Black Panther",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01040a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Black Panther",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Core Set",
-    "traits": [
-      "Avenger",
-      "Wakanda"
-    ]
-  },
-  "01040b": {
-    "id": "01040b",
-    "face": {
-      "front": {
         "name": "T'Challa",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/01040b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Black Panther",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/01040a.png",
         "isHorizontal": false
       }
     },
@@ -32103,30 +32047,17 @@
     "id": "03001a",
     "face": {
       "front": {
-        "name": "Captain America",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/03001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Captain America",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Captain America",
-    "traits": [
-      "Avenger",
-      "Soldier"
-    ]
-  },
-  "03001b": {
-    "id": "03001b",
-    "face": {
-      "front": {
         "name": "Steve Rogers",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/03001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Captain America",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/03001a.png",
         "isHorizontal": false
       }
     },
@@ -32286,30 +32217,17 @@
     "id": "05001a",
     "face": {
       "front": {
-        "name": "Ms. Marvel",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/05001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ms. Marvel",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Ms. Marvel",
-    "traits": [
-      "Champion",
-      "Inhuman"
-    ]
-  },
-  "05001b": {
-    "id": "05001b",
-    "face": {
-      "front": {
         "name": "Kamala Khan",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/05001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ms. Marvel",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/05001a.png",
         "isHorizontal": false
       }
     },
@@ -32501,30 +32419,17 @@
     "id": "06001a",
     "face": {
       "front": {
-        "name": "Thor",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/06001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Thor",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Thor",
-    "traits": [
-      "Asgard",
-      "Avenger"
-    ]
-  },
-  "06001b": {
-    "id": "06001b",
-    "face": {
-      "front": {
         "name": "Odinson",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/06001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Thor",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/06001a.png",
         "isHorizontal": false
       }
     },
@@ -32911,30 +32816,17 @@
     "id": "08001a",
     "face": {
       "front": {
-        "name": "Black Widow",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/08001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Black Widow",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Black Widow",
-    "traits": [
-      "Avenger",
-      "Spy"
-    ]
-  },
-  "08001b": {
-    "id": "08001b",
-    "face": {
-      "front": {
         "name": "Natasha Romanoff",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/08001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Black Widow",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/08001a.png",
         "isHorizontal": false
       }
     },
@@ -33036,30 +32928,17 @@
     "id": "09001a",
     "face": {
       "front": {
-        "name": "Doctor Strange",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/09001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Doctor Strange",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Doctor Strange",
-    "traits": [
-      "Avenger",
-      "Mystic"
-    ]
-  },
-  "09001b": {
-    "id": "09001b",
-    "face": {
-      "front": {
         "name": "Stephen Strange",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/09001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Doctor Strange",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/09001a.png",
         "isHorizontal": false
       }
     },
@@ -33267,30 +33146,17 @@
     "id": "10001a",
     "face": {
       "front": {
-        "name": "Hulk",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/10001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hulk",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Hulk",
-    "traits": [
-      "Avenger",
-      "Gamma"
-    ]
-  },
-  "10001b": {
-    "id": "10001b",
-    "face": {
-      "front": {
         "name": "Bruce Banner",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/10001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hulk",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/10001a.png",
         "isHorizontal": false
       }
     },
@@ -33326,29 +33192,17 @@
     "id": "04001a",
     "face": {
       "front": {
-        "name": "Hawkeye",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/04001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hawkeye",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "The Rise of Red Skull",
-    "traits": [
-      "Avenger"
-    ]
-  },
-  "04001b": {
-    "id": "04001b",
-    "face": {
-      "front": {
         "name": "Clint Barton",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/04001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hawkeye",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/04001a.png",
         "isHorizontal": false
       }
     },
@@ -33550,30 +33404,17 @@
     "id": "04031a",
     "face": {
       "front": {
-        "name": "Spider-Woman",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/04031a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Spider-Woman",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "The Rise of Red Skull",
-    "traits": [
-      "Avenger",
-      "Spy"
-    ]
-  },
-  "04031b": {
-    "id": "04031b",
-    "face": {
-      "front": {
         "name": "Jessica Drew",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/04031b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Spider-Woman",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/04031a.png",
         "isHorizontal": false
       }
     },
@@ -33652,30 +33493,17 @@
     "id": "12001a",
     "face": {
       "front": {
-        "name": "Ant-Man",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/12001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ant-Man",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Ant-Man",
-    "traits": [
-      "Avenger",
-      "Tiny"
-    ]
-  },
-  "12001b": {
-    "id": "12001b",
-    "face": {
-      "front": {
         "name": "Scott Lang",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/12001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ant-Man",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/12001a.png",
         "isHorizontal": false
       }
     },
@@ -33711,29 +33539,17 @@
     "id": "14001a",
     "face": {
       "front": {
+        "name": "Pietro Maximoff",
+        "type": "Alter-Ego",
+        "cost": 0,
+        "image": "https://marvelcdb.comnull",
+        "isHorizontal": false
+      },
+      "back": {
         "name": "Quicksilver",
         "type": "Hero",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/14001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Quicksilver",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Quicksilver",
-    "traits": [
-      "Avenger"
-    ]
-  },
-  "14001b": {
-    "id": "14001b",
-    "face": {
-      "front": {
-        "name": "Pietro Maximoff",
-        "type": "Alter-Ego",
-        "cost": 0,
-        "image": "https://marvelcdb.comundefined",
         "isHorizontal": false
       }
     },
@@ -33749,30 +33565,17 @@
     "id": "13001a",
     "face": {
       "front": {
-        "name": "Wasp",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/13001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wasp",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Wasp",
-    "traits": [
-      "Avenger",
-      "Tiny"
-    ]
-  },
-  "13001b": {
-    "id": "13001b",
-    "face": {
-      "front": {
         "name": "Nadia Van Dyne",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/13001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Wasp",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/13001a.png",
         "isHorizontal": false
       }
     },
@@ -33808,30 +33611,17 @@
     "id": "15001a",
     "face": {
       "front": {
-        "name": "Scarlet Witch",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/15001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Scarlet Witch",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Scarlet Witch",
-    "traits": [
-      "Avenger",
-      "Mystic"
-    ]
-  },
-  "15001b": {
-    "id": "15001b",
-    "face": {
-      "front": {
         "name": "Wanda Maximoff",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/15001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Scarlet Witch",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/15001a.png",
         "isHorizontal": false
       }
     },
@@ -33848,28 +33638,16 @@
     "face": {
       "front": {
         "name": "Groot",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/16001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Groot",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "The Galaxy's Most Wanted",
-    "traits": [
-      "Guardian"
-    ]
-  },
-  "16001b": {
-    "id": "16001b",
-    "face": {
-      "front": {
-        "name": "Groot",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/16001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Groot",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/16001a.png",
         "isHorizontal": false
       }
     },
@@ -33886,28 +33664,16 @@
     "face": {
       "front": {
         "name": "Rocket Raccoon",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/16029a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Rocket Raccoon",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "The Galaxy's Most Wanted",
-    "traits": [
-      "Guardian"
-    ]
-  },
-  "16029b": {
-    "id": "16029b",
-    "face": {
-      "front": {
-        "name": "Rocket Raccoon",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/16029b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Rocket Raccoon",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/16029a.png",
         "isHorizontal": false
       }
     },
@@ -33925,28 +33691,16 @@
     "face": {
       "front": {
         "name": "Gamora",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/18001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gamora",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Gamora",
-    "traits": [
-      "Guardian"
-    ]
-  },
-  "18001b": {
-    "id": "18001b",
-    "face": {
-      "front": {
-        "name": "Gamora",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/18001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Gamora",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/18001a.png",
         "isHorizontal": false
       }
     },
@@ -33962,29 +33716,17 @@
     "id": "17001a",
     "face": {
       "front": {
-        "name": "Star-Lord",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/17001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Star-Lord",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Star-Lord",
-    "traits": [
-      "Guardian"
-    ]
-  },
-  "17001b": {
-    "id": "17001b",
-    "face": {
-      "front": {
         "name": "Peter Quill",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/17001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Star-Lord",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/17001a.png",
         "isHorizontal": false
       }
     },
@@ -34001,28 +33743,16 @@
     "face": {
       "front": {
         "name": "Drax",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/19001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Drax",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Drax",
-    "traits": [
-      "Guardian"
-    ]
-  },
-  "19001b": {
-    "id": "19001b",
-    "face": {
-      "front": {
-        "name": "Drax",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/19001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Drax",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/19001a.png",
         "isHorizontal": false
       }
     },
@@ -34038,30 +33768,17 @@
     "id": "20001a",
     "face": {
       "front": {
-        "name": "Venom",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/20001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Venom",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Venom",
-    "traits": [
-      "Guardian",
-      "Space Knight"
-    ]
-  },
-  "20001b": {
-    "id": "20001b",
-    "face": {
-      "front": {
         "name": "Flash Thompson",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/20001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Venom",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/20001a.png",
         "isHorizontal": false
       }
     },
@@ -34077,30 +33794,17 @@
     "id": "21001a",
     "face": {
       "front": {
-        "name": "Spectrum",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/21001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Spectrum",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "The Mad Titan's Shadow",
-    "traits": [
-      "Aerial",
-      "Avenger"
-    ]
-  },
-  "21001b": {
-    "id": "21001b",
-    "face": {
-      "front": {
         "name": "Monica Rambeau",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/21001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Spectrum",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/21001a.png",
         "isHorizontal": false
       }
     },
@@ -34117,29 +33821,16 @@
     "face": {
       "front": {
         "name": "Adam Warlock",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/21031a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Adam Warlock",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "The Mad Titan's Shadow",
-    "traits": [
-      "Guardian",
-      "Mystic"
-    ]
-  },
-  "21031b": {
-    "id": "21031b",
-    "face": {
-      "front": {
-        "name": "Adam Warlock",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/21031b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Adam Warlock",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/21031a.png",
         "isHorizontal": false
       }
     },
@@ -34156,28 +33847,16 @@
     "face": {
       "front": {
         "name": "Nebula",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/22001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Nebula",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Nebula",
-    "traits": [
-      "Guardian"
-    ]
-  },
-  "22001b": {
-    "id": "22001b",
-    "face": {
-      "front": {
-        "name": "Nebula",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/22001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Nebula",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/22001a.png",
         "isHorizontal": false
       }
     },
@@ -34193,30 +33872,17 @@
     "id": "23001a",
     "face": {
       "front": {
-        "name": "War Machine",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/23001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "War Machine",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "War Machine",
-    "traits": [
-      "Avenger",
-      "Soldier"
-    ]
-  },
-  "23001b": {
-    "id": "23001b",
-    "face": {
-      "front": {
         "name": "James Rhodes",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/23001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "War Machine",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/23001a.png",
         "isHorizontal": false
       }
     },
@@ -34238,30 +33904,17 @@
     "id": "25001a",
     "face": {
       "front": {
-        "name": "Valkyrie",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/25001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Valkyrie",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Valkyrie",
-    "traits": [
-      "Asgard",
-      "Avenger"
-    ]
-  },
-  "25001b": {
-    "id": "25001b",
-    "face": {
-      "front": {
         "name": "Brunnhilde",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/25001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Valkyrie",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/25001a.png",
         "isHorizontal": false
       }
     },
@@ -34278,29 +33931,16 @@
     "face": {
       "front": {
         "name": "Vision",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/26001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Vision",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Vision",
-    "traits": [
-      "Android",
-      "Avenger"
-    ]
-  },
-  "26001b": {
-    "id": "26001b",
-    "face": {
-      "front": {
-        "name": "Vision",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/26001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Vision",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/26001a.png",
         "isHorizontal": false
       }
     },
@@ -34316,29 +33956,17 @@
     "id": "27001a",
     "face": {
       "front": {
-        "name": "Ghost-Spider",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/27001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ghost-Spider",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Sinister Motives",
-    "traits": [
-      "Web-Warrior"
-    ]
-  },
-  "27001b": {
-    "id": "27001b",
-    "face": {
-      "front": {
         "name": "Gwen Stacy",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/27001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ghost-Spider",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/27001a.png",
         "isHorizontal": false
       }
     },
@@ -34354,30 +33982,17 @@
     "id": "27030a",
     "face": {
       "front": {
-        "name": "Spider-Man",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/27030a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Spider-Man",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Sinister Motives",
-    "traits": [
-      "Champion",
-      "Web-Warrior"
-    ]
-  },
-  "27030b": {
-    "id": "27030b",
-    "face": {
-      "front": {
         "name": "Miles Morales",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/27030b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Spider-Man",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/27030a.png",
         "isHorizontal": false
       }
     },
@@ -34393,30 +34008,17 @@
     "id": "29001a",
     "face": {
       "front": {
-        "name": "Ironheart",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/29001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ironheart",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Ironheart",
-    "traits": [
-      "Champion",
-      "Version 1"
-    ]
-  },
-  "29001b": {
-    "id": "29001b",
-    "face": {
-      "front": {
         "name": "Riri Williams",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/29001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ironheart",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/29001a.png",
         "isHorizontal": false
       }
     },
@@ -34432,29 +34034,15 @@
     "id": "29002a",
     "face": {
       "front": {
-        "name": "Ironheart",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ironheart",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Ironheart",
-    "traits": [
-      "Aerial",
-      "Champion",
-      "Version 2"
-    ]
-  },
-  "29002b": {
-    "id": "29002b",
-    "face": {
-      "front": {
         "name": "Riri Williams",
         "type": "Alter-Ego",
+        "cost": 0,
+        "image": "https://marvelcdb.comnull",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ironheart",
+        "type": "Hero",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
         "isHorizontal": false
@@ -34472,29 +34060,15 @@
     "id": "29003a",
     "face": {
       "front": {
-        "name": "Ironheart",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ironheart",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Ironheart",
-    "traits": [
-      "Aerial",
-      "Champion",
-      "Version 3"
-    ]
-  },
-  "29003b": {
-    "id": "29003b",
-    "face": {
-      "front": {
         "name": "Riri Williams",
         "type": "Alter-Ego",
+        "cost": 0,
+        "image": "https://marvelcdb.comnull",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ironheart",
+        "type": "Hero",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
         "isHorizontal": false
@@ -34512,29 +34086,17 @@
     "id": "28001a",
     "face": {
       "front": {
-        "name": "Nova",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/28001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Nova",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Nova",
-    "traits": [
-      "Champion"
-    ]
-  },
-  "28001b": {
-    "id": "28001b",
-    "face": {
-      "front": {
         "name": "Sam Alexander",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/28001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Nova",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/28001a.png",
         "isHorizontal": false
       }
     },
@@ -34629,30 +34191,17 @@
     "id": "30001a",
     "face": {
       "front": {
-        "name": "Spider-Ham",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/30001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Spider-Ham",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Spider-Ham",
-    "traits": [
-      "Cartoon",
-      "Web-Warrior"
-    ]
-  },
-  "30001b": {
-    "id": "30001b",
-    "face": {
-      "front": {
         "name": "Peter Porker",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/30001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Spider-Ham",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/30001a.png",
         "isHorizontal": false
       }
     },
@@ -34669,29 +34218,17 @@
     "id": "33001a",
     "face": {
       "front": {
-        "name": "Cyclops",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/33001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Cyclops",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Cyclops",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "33001b": {
-    "id": "33001b",
-    "face": {
-      "front": {
         "name": "Scott Summers",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/33001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Cyclops",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/33001a.png",
         "isHorizontal": false
       }
     },
@@ -34707,29 +34244,17 @@
     "id": "32001a",
     "face": {
       "front": {
-        "name": "Colossus",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/32001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Colossus",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Mutant Genesis",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "32001b": {
-    "id": "32001b",
-    "face": {
-      "front": {
         "name": "Piotr Rasputin",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/32001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Colossus",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/32001a.png",
         "isHorizontal": false
       }
     },
@@ -34745,29 +34270,17 @@
     "id": "32030a",
     "face": {
       "front": {
-        "name": "Shadowcat",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/32030a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Shadowcat",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Mutant Genesis",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "32030b": {
-    "id": "32030b",
-    "face": {
-      "front": {
         "name": "Kitty Pryde",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/32030b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Shadowcat",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/32030a.png",
         "isHorizontal": false
       }
     },
@@ -34817,30 +34330,17 @@
     "id": "34001a",
     "face": {
       "front": {
-        "name": "Phoenix",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/34001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Phoenix",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Phoenix",
-    "traits": [
-      "Psionic",
-      "X-Men"
-    ]
-  },
-  "34001b": {
-    "id": "34001b",
-    "face": {
-      "front": {
         "name": "Jean Grey",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/34001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Phoenix",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/34001a.png",
         "isHorizontal": false
       }
     },
@@ -34895,29 +34395,17 @@
     "id": "36001a",
     "face": {
       "front": {
-        "name": "Storm",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/36001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Storm",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Storm",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "36001b": {
-    "id": "36001b",
-    "face": {
-      "front": {
         "name": "Ororo Munroe",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/36001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Storm",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/36001a.png",
         "isHorizontal": false
       }
     },
@@ -34933,29 +34421,17 @@
     "id": "35001a",
     "face": {
       "front": {
-        "name": "Wolverine",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/35001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wolverine",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Wolverine",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "35001b": {
-    "id": "35001b",
-    "face": {
-      "front": {
         "name": "Logan",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/35001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Wolverine",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/35001a.png",
         "isHorizontal": false
       }
     },
@@ -34971,30 +34447,17 @@
     "id": "37001a",
     "face": {
       "front": {
-        "name": "Gambit",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/37001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Gambit",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Gambit",
-    "traits": [
-      "Thief",
-      "X-Men"
-    ]
-  },
-  "37001b": {
-    "id": "37001b",
-    "face": {
-      "front": {
         "name": "Remy LeBeau",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/37001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Gambit",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/37001a.png",
         "isHorizontal": false
       }
     },
@@ -35011,29 +34474,17 @@
     "id": "38001a",
     "face": {
       "front": {
-        "name": "Rogue",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/38001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Rogue",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Rogue",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "38001b": {
-    "id": "38001b",
-    "face": {
-      "front": {
         "name": "Anna Marie",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/38001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Rogue",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/38001a.png",
         "isHorizontal": false
       }
     },
@@ -35049,30 +34500,17 @@
     "id": "40001a",
     "face": {
       "front": {
-        "name": "Cable",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/40001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Cable",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "NeXt Evolution",
-    "traits": [
-      "Soldier",
-      "X-Force"
-    ]
-  },
-  "40001b": {
-    "id": "40001b",
-    "face": {
-      "front": {
         "name": "Nathan Summers",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/40001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Cable",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/40001a.png",
         "isHorizontal": false
       }
     },
@@ -35089,30 +34527,17 @@
     "id": "40037a",
     "face": {
       "front": {
-        "name": "Domino",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/40037a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Domino",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "NeXt Evolution",
-    "traits": [
-      "Posse",
-      "X-Force"
-    ]
-  },
-  "40037b": {
-    "id": "40037b",
-    "face": {
-      "front": {
         "name": "Neena Thurman",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/40037b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Domino",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/40037a.png",
         "isHorizontal": false
       }
     },
@@ -35128,30 +34553,17 @@
     "id": "42001a",
     "face": {
       "front": {
-        "name": "Angel",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/42001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Angel",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Angel",
-    "traits": [
-      "Aerial",
-      "X-Force"
-    ]
-  },
-  "42001b": {
-    "id": "42001b",
-    "face": {
-      "front": {
         "name": "Warren Worthington III",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/42001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Angel",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/42001a.png",
         "isHorizontal": false
       }
     },
@@ -35187,30 +34599,17 @@
     "id": "41001a",
     "face": {
       "front": {
-        "name": "Psylocke",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/41001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Psylocke",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Psylocke",
-    "traits": [
-      "Psionic",
-      "X-Force"
-    ]
-  },
-  "41001b": {
-    "id": "41001b",
-    "face": {
-      "front": {
         "name": "Betsy Braddock",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/41001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Psylocke",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/41001a.png",
         "isHorizontal": false
       }
     },
@@ -35267,30 +34666,17 @@
     "id": "44001a",
     "face": {
       "front": {
-        "name": "Deadpool",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/44001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Deadpool",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Deadpool",
-    "traits": [
-      "Deadpool Corps",
-      "X-Force"
-    ]
-  },
-  "44001b": {
-    "id": "44001b",
-    "face": {
-      "front": {
         "name": "Wade Wilson",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/44001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Deadpool",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/44001a.png",
         "isHorizontal": false
       }
     },
@@ -35307,29 +34693,17 @@
     "id": "43001a",
     "face": {
       "front": {
-        "name": "X-23",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/43001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "X-23",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "X-23",
-    "traits": [
-      "X-Force"
-    ]
-  },
-  "43001b": {
-    "id": "43001b",
-    "face": {
-      "front": {
         "name": "Laura Kinney",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/43001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "X-23",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/43001a.png",
         "isHorizontal": false
       }
     },
@@ -35345,30 +34719,17 @@
     "id": "45001a",
     "face": {
       "front": {
-        "name": "Bishop",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/45001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Bishop",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Age of Apocalypse",
-    "traits": [
-      "Temporal",
-      "X-Men"
-    ]
-  },
-  "45001b": {
-    "id": "45001b",
-    "face": {
-      "front": {
         "name": "Lucas Bishop",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/45001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Bishop",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/45001a.png",
         "isHorizontal": false
       }
     },
@@ -35385,30 +34746,17 @@
     "id": "45030a",
     "face": {
       "front": {
-        "name": "Magik",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/45030a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Magik",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Age of Apocalypse",
-    "traits": [
-      "Mystic",
-      "X-Men"
-    ]
-  },
-  "45030b": {
-    "id": "45030b",
-    "face": {
-      "front": {
         "name": "Illyana Rasputin",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/45030b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Magik",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/45030a.png",
         "isHorizontal": false
       }
     },
@@ -35425,30 +34773,17 @@
     "id": "46001a",
     "face": {
       "front": {
-        "name": "Iceman",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/46001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Iceman",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Iceman",
-    "traits": [
-      "Ice",
-      "X-Men"
-    ]
-  },
-  "46001b": {
-    "id": "46001b",
-    "face": {
-      "front": {
         "name": "Bobby Drake",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/46001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Iceman",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/46001a.png",
         "isHorizontal": false
       }
     },
@@ -35464,29 +34799,17 @@
     "id": "47001a",
     "face": {
       "front": {
-        "name": "Jubilee",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/47001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Jubilee",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Jubilee",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "47001b": {
-    "id": "47001b",
-    "face": {
-      "front": {
         "name": "Jubilation Lee",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/47001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Jubilee",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/47001a.png",
         "isHorizontal": false
       }
     },
@@ -35673,29 +34996,17 @@
     "id": "48001a",
     "face": {
       "front": {
-        "name": "Nightcrawler",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/48001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Nightcrawler",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Nightcrawler",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "48001b": {
-    "id": "48001b",
-    "face": {
-      "front": {
         "name": "Kurt Wagner",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/48001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Nightcrawler",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/48001a.png",
         "isHorizontal": false
       }
     },
@@ -35711,29 +35022,17 @@
     "id": "49001a",
     "face": {
       "front": {
-        "name": "Magneto",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/49001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Magneto",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Magneto",
-    "traits": [
-      "X-Men"
-    ]
-  },
-  "49001b": {
-    "id": "49001b",
-    "face": {
-      "front": {
         "name": "Erik Lehnsherr",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/49001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Magneto",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/49001a.png",
         "isHorizontal": false
       }
     },
@@ -35750,34 +35049,16 @@
     "face": {
       "front": {
         "name": "Maria Hill",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/50001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Maria Hill",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Agents of S.H.I.E.L.D.",
-    "traits": [
-      "S",
-      "H",
-      "I",
-      "E",
-      "L",
-      "D",
-      "Spy"
-    ]
-  },
-  "50001b": {
-    "id": "50001b",
-    "face": {
-      "front": {
-        "name": "Maria Hill",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/50001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Maria Hill",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/50001a.png",
         "isHorizontal": false
       }
     },
@@ -35800,35 +35081,16 @@
     "face": {
       "front": {
         "name": "Nick Fury",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/50034a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Nick Fury",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Agents of S.H.I.E.L.D.",
-    "traits": [
-      "S",
-      "H",
-      "I",
-      "E",
-      "L",
-      "D",
-      "Soldier",
-      "Spy"
-    ]
-  },
-  "50034b": {
-    "id": "50034b",
-    "face": {
-      "front": {
-        "name": "Nick Fury",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/50034b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Nick Fury",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/50034a.png",
         "isHorizontal": false
       }
     },
@@ -35891,29 +35153,17 @@
     "id": "51001a",
     "face": {
       "front": {
-        "name": "Black Panther",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/51001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Black Panther",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Black Panther",
-    "traits": [
-      "Wakanda"
-    ]
-  },
-  "51001b": {
-    "id": "51001b",
-    "face": {
-      "front": {
         "name": "Shuri",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/51001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Black Panther",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/51001a.png",
         "isHorizontal": false
       }
     },
@@ -35930,29 +35180,17 @@
     "id": "52001a",
     "face": {
       "front": {
-        "name": "Silk",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/52001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Silk",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Silk",
-    "traits": [
-      "Web-Warrior"
-    ]
-  },
-  "52001b": {
-    "id": "52001b",
-    "face": {
-      "front": {
         "name": "Cindy Moon",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/52001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Silk",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/52001a.png",
         "isHorizontal": false
       }
     },
@@ -35968,30 +35206,17 @@
     "id": "53001a",
     "face": {
       "front": {
-        "name": "Falcon",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/53001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Falcon",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Falcon",
-    "traits": [
-      "Aerial",
-      "Avenger"
-    ]
-  },
-  "53001b": {
-    "id": "53001b",
-    "face": {
-      "front": {
         "name": "Sam Wilson",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/53001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Falcon",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/53001a.png",
         "isHorizontal": false
       }
     },
@@ -36012,35 +35237,17 @@
     "id": "54001a",
     "face": {
       "front": {
-        "name": "Winter Soldier",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/54001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Winter Soldier",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Winter Soldier",
-    "traits": [
-      "S",
-      "H",
-      "I",
-      "E",
-      "L",
-      "D",
-      "Soldier"
-    ]
-  },
-  "54001b": {
-    "id": "54001b",
-    "face": {
-      "front": {
         "name": "Bucky Barnes",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/54001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Winter Soldier",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/54001a.png",
         "isHorizontal": false
       }
     },
@@ -36062,29 +35269,17 @@
     "id": "56001a",
     "face": {
       "front": {
-        "name": "Tigra",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/56001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Tigra",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Civil War",
-    "traits": [
-      "Avenger"
-    ]
-  },
-  "56001b": {
-    "id": "56001b",
-    "face": {
-      "front": {
         "name": "Greer Nelson",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/56001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Tigra",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/56001a.png",
         "isHorizontal": false
       }
     },
@@ -36100,31 +35295,17 @@
     "id": "56029a",
     "face": {
       "front": {
-        "name": "Hulkling",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/56029a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hulkling",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Civil War",
-    "traits": [
-      "Avenger",
-      "Kree",
-      "Skrull"
-    ]
-  },
-  "56029b": {
-    "id": "56029b",
-    "face": {
-      "front": {
         "name": "Teddy Altman",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/56029b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hulkling",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/56029a.png",
         "isHorizontal": false
       }
     },
@@ -36142,29 +35323,16 @@
     "face": {
       "front": {
         "name": "Hercules",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/59001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hercules",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Hercules",
-    "traits": [
-      "Avenger",
-      "Olympus"
-    ]
-  },
-  "59001b": {
-    "id": "59001b",
-    "face": {
-      "front": {
-        "name": "Hercules",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/59001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Hercules",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/59001a.png",
         "isHorizontal": false
       }
     },
@@ -36180,30 +35348,17 @@
     "id": "58001a",
     "face": {
       "front": {
-        "name": "Wonder Man",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/58001a.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Wonder Man",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Wonder Man",
-    "traits": [
-      "Aerial",
-      "Avenger"
-    ]
-  },
-  "58001b": {
-    "id": "58001b",
-    "face": {
-      "front": {
         "name": "Simon Williams",
         "type": "Alter-Ego",
         "cost": 0,
         "image": "https://marvelcdb.com/bundles/cards/58001b.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Wonder Man",
+        "type": "Hero",
+        "cost": 0,
+        "image": "https://marvelcdb.com/bundles/cards/58001a.png",
         "isHorizontal": false
       }
     },
@@ -36219,28 +35374,15 @@
     "id": "60001a",
     "face": {
       "front": {
-        "name": "Daredevil",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
-      }
-    },
-    "name": "Daredevil",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Fear No Evil",
-    "traits": [
-      "Defender",
-      "Martial Artist"
-    ]
-  },
-  "60001b": {
-    "id": "60001b",
-    "face": {
-      "front": {
         "name": "Matt Murdock",
         "type": "Alter-Ego",
+        "cost": 0,
+        "image": "https://marvelcdb.comnull",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Daredevil",
+        "type": "Hero",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
         "isHorizontal": false
@@ -36258,28 +35400,15 @@
     "id": "60037a",
     "face": {
       "front": {
-        "name": "Echo",
-        "type": "Hero",
-        "cost": 0,
-        "image": "https://marvelcdb.comundefined",
-        "isHorizontal": false
-      }
-    },
-    "name": "Echo",
-    "type": "Hero",
-    "cost": 0,
-    "pac": "Fear No Evil",
-    "traits": [
-      "Defender",
-      "Martial Artist"
-    ]
-  },
-  "60037b": {
-    "id": "60037b",
-    "face": {
-      "front": {
         "name": "Maya Lopez",
         "type": "Alter-Ego",
+        "cost": 0,
+        "image": "https://marvelcdb.comnull",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Echo",
+        "type": "Hero",
         "cost": 0,
         "image": "https://marvelcdb.comundefined",
         "isHorizontal": false

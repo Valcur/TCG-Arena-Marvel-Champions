@@ -46,7 +46,7 @@
                                 {
                                     "section": "EngagedEnnemies",
                                     "style": {
-                                        "width": "32vh"
+                                        "width": "50vh"
                                     }
                                 },
                                 {
@@ -60,13 +60,13 @@
                                 {
                                     "section": "Identity",
                                     "style": {
-                                        "width": "10vh"
+                                        "width": "15vh"
                                     }
                                 },
                                 {
                                     "section": "Allies",
                                     "style": {
-                                        "width": "22vh"
+                                        "width": "35vh"
                                     }
                                 },
                                 {
@@ -103,42 +103,42 @@
                 "sectionsDict": {
                     "Identity": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": 15,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "noQuickActions": true
                     },
                     "Allies": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": 15,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "noQuickActions": true
                     },
                     "Upgrades": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": 15,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "noQuickActions": true
                     },
                     "Supports": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": 15,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "noQuickActions": true
                     },
                     "EngagedEnnemies": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": 15,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Engaged Ennemies",
                         "noQuickActions": true
                     },
                     "EncounterDeck": {
-                        "height": "MEDIUM",
+                        "height": "15",
                         "alignment": "Deck",
                         "opponentAlignment": "START",
                         "displayedTitle": "Encounter Deck",
