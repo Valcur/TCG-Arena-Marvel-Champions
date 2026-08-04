@@ -2,9 +2,7 @@
     "name": "Marvel Champions",
     "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg",
     "deckBuilding": {
-        "mainFilters": [
-
-        ],
+        "mainFilters": [],
         "formats": [
             {
                 "title": "Hero",
@@ -39,14 +37,17 @@
                     "Others"
                 ],
                 "layout": {
-                    "direction": "row",
+                    "direction": "column",
                     "isSymetricalForOpponents": true,
                     "content": [
                         {
-                            "direction": "column",
+                            "direction": "row",
                             "content": [
                                 {
-                                    "section": "Ground"
+                                    "section": "EngagedEnnemies",
+                                    "style": {
+                                        "width": "32vh"
+                                    }
                                 },
                                 {
                                     "section": "Mana"
@@ -54,41 +55,32 @@
                             ]
                         },
                         {
-                            "direction": "column",
-                            "style": {
-                                "width": "22vh",
-                                "justify-content": "start"
-                            },
+                            "direction": "row",
                             "content": [
                                 {
-                                    "section": "Base"
-                                },
-                                {
-                                    "section": "Leader"
-                                }
-                            ]
-                        },
-                        {
-                            "direction": "column",
-                            "content": [
-                                {
-                                    "section": "Space"
-                                },
-                                {
-                                    "section": "Others",
-                                    "isSymetricalForOpponents": true,
+                                    "section": "Identity",
                                     "style": {
-                                        "marginLeft": "auto",
-                                        "width": "40%"
+                                        "width": "10vh"
                                     }
+                                },
+                                {
+                                    "section": "Allies",
+                                    "style": {
+                                        "width": "22vh"
+                                    }
+                                },
+                                {
+                                    "section": "Upgrades"
+                                },
+                                {
+                                    "section": "Supports"
                                 }
                             ]
                         }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Leader",
-                    "Base"
+                    "Identity"
                 ],
                 "autoPlayFromHand": {
                     "Unit - Ground": "Ground",
@@ -109,67 +101,79 @@
                     "Credit Token": "Others"
                 },
                 "sectionsDict": {
-                    "Stack": {
-                        "isDefaultSection": true,
-                        "title": "Stack",
-                        "isHidden": "no",
-                        "height": "HUGE",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true,
-                        "displayedTitle": "Pile"
-                    },
-                    "Ground": {
-                        "title": "Ground",
+                    "Identity": {
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
-                        "enterTapped": true,
-                        "displayedTitle": "Ground units"
+                        "noQuickActions": true
                     },
-                    "Space": {
-                        "title": "Space",
+                    "Allies": {
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
-                        "enterTapped": true,
-                        "displayedTitle": "Space units"
+                        "noQuickActions": true
                     },
-                    "Leader": {
-                        "title": "Leader",
+                    "Upgrades": {
                         "isHidden": "no",
-                        "height": "DEFAULT",
+                        "height": "MEDIUM",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "noQuickActions": true
                     },
-                    "Base": {
-                        "title": "Base",
+                    "Supports": {
                         "isHidden": "no",
-                        "height": "DEFAULT",
+                        "height": "MEDIUM",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
                         "noQuickActions": true
                     },
-                    "Mana": {
-                        "title": "Mana",
-                        "isHidden": "yes",
-                        "height": "SMALL",
-                        "alignment": "START",
-                        "opponentAlignment": "END",
-                        "noAutoPayTo": "true",
-                        "isHorizontalAllowed": false,
-                        "displayedTitle": "Ressources"
-                    },
-                    "Others": {
-                        "title": "Others",
+                    "EngagedEnnemies": {
                         "isHidden": "no",
-                        "height": "SMALL",
-                        "alignment": "END",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Engaged Ennemies",
+                        "noQuickActions": true
+                    },
+                    "EncounterDeck": {
+                        "height": "MEDIUM",
+                        "alignment": "Deck",
                         "opponentAlignment": "START",
-                        "displayedTitle": "Others",
+                        "displayedTitle": "Encounter Deck",
+                        "noQuickActions": true
+                    },
+                    "EncounterDiscard": {
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Encounter Discard",
+                        "noQuickActions": true
+                    },
+                    "MainScheme": {
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "heightReference": "horizontal",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Main Scheme",
+                        "noQuickActions": true
+                    },
+                    "SideSchemes": {
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "heightReference": "horizontal",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Side Schemes",
+                        "noQuickActions": true
+                    },
+                    "Villain": {
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
                         "noQuickActions": true
                     }
                 }
@@ -177,9 +181,7 @@
         }
     },
     "defaultRessources": {
-        "backgrounds": [
-
-        ],
+        "backgrounds": [],
         "decksUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Decks.json"
     },
     "customHelp": "Marvel champiosn WIP",
