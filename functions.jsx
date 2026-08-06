@@ -1,14 +1,86 @@
+const { cards, functions, gamedata } = null
+
 function gameStart() {
   players.forEach(p => {
     moveCard("evictoin", "deck")
   });
 }
 
+function getVillainDeckTopCard() {
+  return cards.VillainDeck[0]
+}
+
+function playVilainDeck() {
+  const card = getVillainDeckTopCard()
+  const cardData = functions.getCardData(card)
+  gamedata.villain.boost.value = cardData.boost
+  if (cardData.starIcon) {
+    gamedata.villain.star.value = true
+    // create trigger effect to stack ? unowned stack effect a voir
+  }
+  functions.moveCard(card, "PlayedCards")
+  functions.repositionCards()
+}
+
+function dealEncounter() {
+  const player = gamedata.myId
+  const card = getVillainDeckTopCard()
+  const cardData = functions.getCardData(card)
+  if (cardData.type === "Minion") {
+    card.position.playerSide = player
+    functions.moveCard(card, "EngagedEnemies")
+  } else if (cardData.type === "Attachment") {
+    functions.moveCard(card, "VillainAttachment")
+  } else if (cardData.type === "SideScheme") {
+    functions.moveCard(card, "SideScheme")
+  } else {
+    functions.moveCard(card, "Stack")
+  }
+  functions.repositionCards()
+}
+
+const gameData = {
+  villain: {
+    boost: null,
+    star: false,
+    lifepoints: 20,
+  },
+  player: {
+    face: "alterego",
+    totalScheme: 0,
+    totalAttack: 0
+  }
+}
+
+// on cardUpdate
+function displayedEngagedEnemiesValue() {
+  const identityCard = card.Identity[0]
+  if (!identityCard) return
+  const face = identityCard.isFlipped ? "hero" : "alterego"
+  // si je suis alterego: j'affiche le total scheme des minions sur moi, attque si je suis en héro
+  if (face !== gameData.player.face) {
+
+    gameData.player.face = face
+    if (face === "hero") {
+
+    } else {
+
+    }
+  }
+}
+
+// onCardEnter -> movecard, destintaion == ma section && destintaion !== original
+function addedEngagedEnnemies(card) {
+  const cardData = functions
+}
+
+// onCardLeave -> movecard, original == ma section && destintaion !== original
+
 function turnEnd() {
   /*
-  Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme.
+  ✅ Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme.
   If any acceleration icons or tokens are active, additional threat equal to the number of such icons and tokens is also placed at this time.
-
+  -> manuel, on l'automatise pas
 
   The villain activates once per player. For each activation, any minions engaged with that player also activate.
   Deal one encounter card to each player. Deal one additional card for each hazard symbol on a card in play. 
@@ -16,8 +88,49 @@ function turnEnd() {
   Players reveal their dealt encounter cards. 
   The first player reveals each of their encounter cards, one card at a time, resolving each card based on its card type. 
   Each player repeats this process in player order, until no dealt encounter cards remain.
-  
+  -> bouton play top: montre la carte et affiche le nombre de boos jolimnet ou symbole etoile
+  -> bouton send played cards to discard pour la fin de la phase (ou auto si on peut)
+    -> on vide quand le bouton deal encounter cliqué par tous les joueurs ET stack vide
+          OU au debut du tour en backup
+  -> bouton deal encounter card to the clicking player:
+        - Minion — When a minion is revealed, it enters play
+        engaged with the player who revealed the card. Place
+        the minion near that player to show that it is engaged. -> to engaged enemies of clicking player tapped
+        - Treachery — When a treachery is revealed, resolve its
+        effect and then place it in the encounter discard pile. -> to stack
+        - Attachment — When an attachment is revealed, it
+        enters play attached to the villain. -> nouvelle zone vilain attachement
+        - Side Scheme — When a side scheme is revealed from
+        the encounter deck, it enters play near the main scheme. -> to side schemes
+
+
+  -> si je suis alterego: j'affiche le total scheme des minions sur moi, attque si je suis en héro
+
   Pass the first player token to the next clockwise player and end the round.*/
+}
+
+function iniVilainDeck() {
+  // Set starting life
+  const card = cards.Villain[0]
+  const cardData = functions.getCardData(card)
+  gamedata.villain.lifepoints = cardData.startingLifepoints
+
+  // wait until all obligations are here
+  // Shuffle obligation card into villain deck
+  functions.shuffleSection("VillainDeck")
+  functions.repositionCards()
+}
+
+
+// all players have picked their deck
+function allPlayerReady() {
+  if (isHost) {
+    iniVilainDeck()
+  }
+  const card = cards.Identity
+  const cardData = functions.getCardData(card)
+  functions.draw(cardData.handmax)
+  functions.setPlayerCounter(0, cardData.startLife)
 }
 
 /*
@@ -45,10 +158,10 @@ en bas de sa carte Identité.
 collectivement le premier joueur et placent le pion
 Premier Joueur en face de ce joueur.
 
-4. Mettre de côté les obligations. Mettez de côté la
+4. ✅Mettre de côté les obligations. Mettez de côté la
 carte Obligation de chaque héros joué.
 
-5. Mettre de côté les sets de Némésis. Pour chaque
+5. ✅Mettre de côté les sets de Némésis. Pour chaque
 héros joué, mettez de côté sa Némésis et les cartes
 Rencontre de cette Némésis.
 

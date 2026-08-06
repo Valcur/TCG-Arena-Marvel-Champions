@@ -17,10 +17,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Peter Parker",
     "type": "Alter-Ego",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Genius"
     ]
@@ -36,10 +38,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Black Cat",
     "type": "Ally",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Hero for Hire"
     ]
@@ -55,10 +59,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Backflip",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Defense",
       "Skill"
@@ -75,10 +81,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Enhanced Spider-Sense",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Superpower"
     ]
@@ -94,10 +102,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Swinging Web Kick",
     "type": "Event",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Aerial",
       "Attack",
@@ -115,10 +125,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Aunt May",
     "type": "Support",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Persona"
     ]
@@ -134,10 +146,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Spider-Tracer",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Item",
       "Tech"
@@ -154,10 +168,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Web-Shooter",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Item",
       "Tech"
@@ -174,10 +190,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Webbed Up",
     "type": "Upgrade",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -200,10 +218,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Carol Danvers",
     "type": "Alter-Ego",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -225,10 +245,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Spider-Woman",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Avenger",
       "Spy"
@@ -245,10 +267,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Crisis Interdiction",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Thwart"
     ]
@@ -264,10 +288,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Photonic Blast",
     "type": "Event",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Attack",
       "Superpower"
@@ -284,10 +310,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Energy Absorption",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": []
   },
   "01015": {
@@ -301,10 +329,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Alpha Flight Station",
     "type": "Support",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Location",
       "S",
@@ -326,10 +356,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Captain Marvel's Helmet",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Armor",
       "Tech"
@@ -346,10 +378,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Cosmic Flight",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Superpower"
     ]
@@ -365,10 +399,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Energy Channel",
     "type": "Upgrade",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": [
       "Superpower"
     ]
@@ -391,10 +427,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Jennifer Walters",
     "type": "Alter-Ego",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Attorney",
       "Gamma"
@@ -411,10 +449,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hellcat",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Avenger"
     ]
@@ -430,10 +470,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Gamma Slam",
     "type": "Event",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Attack",
       "Superpower"
@@ -450,10 +492,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ground Stomp",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Superpower"
     ]
@@ -469,10 +513,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Legal Practice",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Skill",
       "Thwart"
@@ -489,10 +535,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "One-Two Punch",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Skill"
     ]
@@ -508,10 +556,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Split Personality",
     "type": "Event",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": []
   },
   "01026": {
@@ -525,10 +575,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Superhuman Law Division",
     "type": "Support",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Location"
     ]
@@ -544,10 +596,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Focused Rage",
     "type": "Upgrade",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Skill"
     ]
@@ -563,10 +617,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Superhuman Strength",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": [
       "Superpower"
     ]
@@ -589,10 +645,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Tony Stark",
     "type": "Alter-Ego",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Genius"
     ]
@@ -608,10 +666,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "War Machine",
     "type": "Ally",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -633,10 +693,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Repulsor Blast",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Attack",
       "Superpower"
@@ -653,10 +715,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Supersonic Punch",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Attack"
     ]
@@ -672,10 +736,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Pepper Potts",
     "type": "Support",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Persona"
     ]
@@ -691,10 +757,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Stark Tower",
     "type": "Support",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Location"
     ]
@@ -710,10 +778,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Arc Reactor",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Item",
       "Tech"
@@ -730,10 +800,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Mark V Armor",
     "type": "Upgrade",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Armor",
       "Tech"
@@ -750,10 +822,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Mark V Helmet",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Armor",
       "Tech"
@@ -770,10 +844,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Powered Gauntlets",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Armor",
       "Tech"
@@ -790,10 +866,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Rocket Boots",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": [
       "Armor",
       "Tech"
@@ -817,10 +895,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "T'Challa",
     "type": "Alter-Ego",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "King",
       "Wakanda"
@@ -837,10 +917,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Shuri",
     "type": "Ally",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Genius",
       "Wakanda"
@@ -857,10 +939,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ancestral Knowledge",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": []
   },
   "01043a": {
@@ -874,10 +958,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Wakanda Forever!",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Tactic"
     ]
@@ -893,10 +979,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Wakanda Forever!",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Tactic"
     ]
@@ -912,10 +1000,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Wakanda Forever!",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Tactic"
     ]
@@ -931,10 +1021,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Wakanda Forever!",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Tactic"
     ]
@@ -950,10 +1042,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Vibranium",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": []
   },
   "01045": {
@@ -967,10 +1061,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Golden City",
     "type": "Support",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Location",
       "Wakanda"
@@ -987,10 +1083,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Energy Daggers",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1007,10 +1105,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Panther Claws",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1027,10 +1127,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Tactical Genius",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Black Panther",
       "Skill"
@@ -1047,10 +1149,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Vibranium Suit",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": [
       "Armor",
       "Black Panther"
@@ -1067,10 +1171,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hulk",
     "type": "Ally",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Avenger",
       "Gamma"
@@ -1087,10 +1193,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Tigra",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Avenger"
     ]
@@ -1106,10 +1214,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Chase Them Down",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Thwart"
     ]
@@ -1125,10 +1235,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Relentless Assault",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Attack"
     ]
@@ -1144,10 +1256,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Uppercut",
     "type": "Event",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Attack"
     ]
@@ -1163,10 +1277,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Power of Aggression",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01056": {
@@ -1180,10 +1296,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Tac Team",
     "type": "Support",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1204,10 +1322,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Combat Training",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Skill"
     ]
@@ -1223,10 +1343,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Daredevil",
     "type": "Ally",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Defender"
     ]
@@ -1242,10 +1364,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Jessica Jones",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Defender"
     ]
@@ -1261,10 +1385,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "For Justice!",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Thwart"
     ]
@@ -1280,10 +1406,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Great Responsibility",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01062": {
@@ -1297,10 +1425,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Power of Justice",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01063": {
@@ -1314,10 +1444,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Interrogation Room",
     "type": "Support",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Location"
     ]
@@ -1333,10 +1465,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Surveillance Team",
     "type": "Support",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1357,10 +1491,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Heroic Intuition",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Skill"
     ]
@@ -1376,10 +1512,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hawkeye",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Avenger"
     ]
@@ -1395,10 +1533,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Maria Hill",
     "type": "Ally",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1419,10 +1559,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Vision",
     "type": "Ally",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Android",
       "Avenger"
@@ -1439,10 +1581,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Get Ready",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01070": {
@@ -1456,10 +1600,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Lead from the Front",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Tactic"
     ]
@@ -1475,10 +1621,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Make the Call",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01072": {
@@ -1492,10 +1640,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Power of Leadership",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01073": {
@@ -1509,10 +1659,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Triskelion",
     "type": "Support",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Location",
       "S",
@@ -1534,10 +1686,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Inspired",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -1553,10 +1707,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Black Widow",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1578,10 +1734,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Luke Cage",
     "type": "Ally",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Defender"
     ]
@@ -1597,10 +1755,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Counter-Punch",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Attack"
     ]
@@ -1616,10 +1776,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Get Behind Me!",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01079": {
@@ -1633,10 +1795,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Power of Protection",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01080": {
@@ -1650,10 +1814,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Med Team",
     "type": "Support",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1674,10 +1840,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Armored Vest",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Armor"
     ]
@@ -1693,10 +1861,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Indomitable",
     "type": "Upgrade",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -1712,10 +1882,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Mockingbird",
     "type": "Ally",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1737,10 +1909,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Nick Fury",
     "type": "Ally",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "S",
       "H",
@@ -1762,10 +1936,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Emergency",
     "type": "Event",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Thwart"
     ]
@@ -1781,10 +1957,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "First Aid",
     "type": "Event",
     "cost": 1,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01087": {
@@ -1798,10 +1976,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Haymaker",
     "type": "Event",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Attack"
     ]
@@ -1817,10 +1997,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Energy",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01089": {
@@ -1834,10 +2016,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Genius",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01090": {
@@ -1851,10 +2035,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Strength",
     "type": "Resource",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": []
   },
   "01091": {
@@ -1868,10 +2054,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Avengers Mansion",
     "type": "Support",
     "cost": 4,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Avenger",
       "Location"
@@ -1888,10 +2076,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Helicarrier",
     "type": "Support",
     "cost": 3,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Location",
       "S",
@@ -1913,10 +2103,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Tenacity",
     "type": "Upgrade",
     "cost": 2,
-    "pac": "Core Set",
+    "set": "UNKNOWN",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -1932,10 +2124,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Rhino",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Brute",
       "Criminal"
@@ -1952,10 +2146,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Rhino",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Brute",
       "Criminal"
@@ -1972,10 +2168,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Rhino",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Brute",
       "Criminal"
@@ -1998,10 +2196,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": true,
     "name": "The Break-In!",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01097a": {
@@ -2015,10 +2215,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "The Break-In!",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01098": {
@@ -2032,10 +2234,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Armored Rhino Suit",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Armor"
     ]
@@ -2051,10 +2255,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Charge",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01100": {
@@ -2068,10 +2274,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Enhanced Ivory Horn",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Weapon"
     ]
@@ -2087,10 +2295,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hydra Mercenary",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Hydra"
     ]
@@ -2106,10 +2316,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Sandman",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Criminal",
       "Elite"
@@ -2126,10 +2338,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Shocker",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": [
       "Criminal"
     ]
@@ -2145,10 +2359,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hard to Keep Down",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01105": {
@@ -2162,10 +2378,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "\"I'm Tough\"",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01106": {
@@ -2179,10 +2397,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Stampede",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01107": {
@@ -2196,10 +2416,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Breakin' & Takin'",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01108": {
@@ -2213,10 +2435,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Crowd Control",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Rhino",
+    "pack": "Core Set",
     "traits": []
   },
   "01109": {
@@ -2230,10 +2454,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Bomb Scare",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Bomb Scare",
+    "pack": "Core Set",
     "traits": []
   },
   "01110": {
@@ -2247,10 +2473,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hydra Bomber",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Bomb Scare",
+    "pack": "Core Set",
     "traits": [
       "Hydra"
     ]
@@ -2266,10 +2494,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Explosion",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Bomb Scare",
+    "pack": "Core Set",
     "traits": []
   },
   "01112": {
@@ -2283,10 +2513,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "False Alarm",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Bomb Scare",
+    "pack": "Core Set",
     "traits": []
   },
   "01113": {
@@ -2300,10 +2532,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Klaw",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Masters of Evil"
     ]
@@ -2319,10 +2553,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Klaw",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Masters of Evil"
     ]
@@ -2338,10 +2574,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Klaw",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Masters of Evil"
     ]
@@ -2363,10 +2601,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": true,
     "name": "Underground Distribution",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01116a": {
@@ -2380,10 +2620,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Underground Distribution",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01117": {
@@ -2403,10 +2645,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": true,
     "name": "Secret Rendezvous",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01117a": {
@@ -2420,10 +2664,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Secret Rendezvous",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01118": {
@@ -2437,10 +2683,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Sonic Converter",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Weapon"
     ]
@@ -2456,10 +2704,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Solid-Sound Body",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -2475,10 +2725,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Armored Guard",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Mercenary"
     ]
@@ -2494,10 +2746,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Weapons Runner",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": [
       "Mercenary"
     ]
@@ -2513,10 +2767,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Klaw's Vengeance",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01123": {
@@ -2530,10 +2786,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Sonic Boom",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01124": {
@@ -2547,10 +2805,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Sound Manipulation",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01125": {
@@ -2564,10 +2824,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Defense Network",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01126": {
@@ -2581,10 +2843,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Illegal Arms Factory",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01127": {
@@ -2598,10 +2862,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "The \"Immortal\" Klaw",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Klaw",
+    "pack": "Core Set",
     "traits": []
   },
   "01128": {
@@ -2615,10 +2881,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "The Masters of Evil",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Masters of Evil",
+    "pack": "Core Set",
     "traits": []
   },
   "01129": {
@@ -2632,10 +2900,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Radioactive Man",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Masters of Evil",
+    "pack": "Core Set",
     "traits": [
       "Elite",
       "Masters of Evil"
@@ -2652,10 +2922,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Whirlwind",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Masters of Evil",
+    "pack": "Core Set",
     "traits": [
       "Masters of Evil"
     ]
@@ -2671,10 +2943,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Tiger Shark",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Masters of Evil",
+    "pack": "Core Set",
     "traits": [
       "Masters of Evil"
     ]
@@ -2690,10 +2964,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Melter",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Masters of Evil",
+    "pack": "Core Set",
     "traits": [
       "Masters of Evil"
     ]
@@ -2709,10 +2985,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Masters of Mayhem",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Masters of Evil",
+    "pack": "Core Set",
     "traits": []
   },
   "01134": {
@@ -2726,10 +3004,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ultron",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": [
       "Android"
     ]
@@ -2745,10 +3025,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ultron",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": [
       "Android"
     ]
@@ -2764,10 +3046,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ultron",
     "type": "Villain",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": [
       "Android"
     ]
@@ -2789,10 +3073,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": true,
     "name": "The Crimson Cowl",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01137a": {
@@ -2806,10 +3092,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "The Crimson Cowl",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01138": {
@@ -2829,10 +3117,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": true,
     "name": "Assault on NORAD",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01138a": {
@@ -2846,10 +3136,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Assault on NORAD",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01139": {
@@ -2869,10 +3161,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": true,
     "name": "Countdown to Oblivion",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01139a": {
@@ -2886,10 +3180,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Countdown to Oblivion",
     "type": "Main Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01140": {
@@ -2903,10 +3199,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ultron Drones",
     "type": "Environment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01141": {
@@ -2920,10 +3218,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Program Transmitter",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": [
       "Item",
       "Tech"
@@ -2940,10 +3240,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Upgraded Drones",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -2959,10 +3261,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Advanced Ultron Drone",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": [
       "Drone"
     ]
@@ -2978,10 +3282,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Android Efficiency",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01144a": {
@@ -2995,10 +3301,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Android Efficiency",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01144b": {
@@ -3012,10 +3320,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Android Efficiency",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01144c": {
@@ -3029,10 +3339,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Android Efficiency",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01145": {
@@ -3046,10 +3358,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Rage of Ultron",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01146": {
@@ -3063,10 +3377,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Repair Sequence",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01147": {
@@ -3080,10 +3396,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Swarm Attack",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01148": {
@@ -3097,10 +3415,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Drone Factory",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01149": {
@@ -3114,10 +3434,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Invasive AI",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01150": {
@@ -3131,10 +3453,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Ultron's Imperative",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Ultron",
+    "pack": "Core Set",
     "traits": []
   },
   "01151": {
@@ -3148,10 +3472,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Under Attack",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Under Attack",
+    "pack": "Core Set",
     "traits": []
   },
   "01152": {
@@ -3165,10 +3491,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Vibranium Armor",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Under Attack",
+    "pack": "Core Set",
     "traits": [
       "Armor"
     ]
@@ -3184,10 +3512,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Concussion Blasters",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Under Attack",
+    "pack": "Core Set",
     "traits": [
       "Weapon"
     ]
@@ -3203,10 +3533,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Concussive Blast",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Under Attack",
+    "pack": "Core Set",
     "traits": []
   },
   "01155": {
@@ -3220,10 +3552,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Affairs of State",
     "type": "Obligation",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther",
+    "pack": "Core Set",
     "traits": []
   },
   "01156": {
@@ -3237,10 +3571,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Usurp The Throne",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01157": {
@@ -3254,10 +3590,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Killmonger",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther Nemesis",
+    "pack": "Core Set",
     "traits": [
       "Assassin",
       "Elite",
@@ -3275,10 +3613,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Heart-Shaped Herb",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01159": {
@@ -3292,10 +3632,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Ritual Combat",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Black Panther Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01160": {
@@ -3309,10 +3651,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Legal Work",
     "type": "Obligation",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk",
+    "pack": "Core Set",
     "traits": []
   },
   "01161": {
@@ -3326,10 +3670,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Personal Challenge",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01162": {
@@ -3343,10 +3689,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Titania",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk Nemesis",
+    "pack": "Core Set",
     "traits": [
       "Brute",
       "Elite"
@@ -3363,10 +3711,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Genetically Enhanced",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk Nemesis",
+    "pack": "Core Set",
     "traits": [
       "Condition"
     ]
@@ -3382,10 +3732,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Titania's Fury",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "She-Hulk Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01165": {
@@ -3399,10 +3751,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Eviction Notice",
     "type": "Obligation",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man",
+    "pack": "Core Set",
     "traits": []
   },
   "01166": {
@@ -3416,10 +3770,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Highway Robbery",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01167": {
@@ -3433,10 +3789,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Vulture",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man Nemesis",
+    "pack": "Core Set",
     "traits": [
       "Criminal"
     ]
@@ -3452,10 +3810,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Sweeping Swoop",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01169": {
@@ -3469,10 +3829,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "The Vulture's Plans",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Spider-Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01170": {
@@ -3486,10 +3848,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Business Problems",
     "type": "Obligation",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Iron Man",
+    "pack": "Core Set",
     "traits": []
   },
   "01171": {
@@ -3503,10 +3867,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Imminent Overload",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Iron Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01172": {
@@ -3520,10 +3886,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Whiplash",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Iron Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01173": {
@@ -3537,10 +3905,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Electric Whip Attack",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Iron Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01174": {
@@ -3554,10 +3924,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Electromagnetic Backlash",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Iron Man Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01175": {
@@ -3571,10 +3943,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Family Emergency",
     "type": "Obligation",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel",
+    "pack": "Core Set",
     "traits": []
   },
   "01176": {
@@ -3588,10 +3962,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "The Psyche-Magnitron",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01177": {
@@ -3605,10 +3981,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Yon-Rogg",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel Nemesis",
+    "pack": "Core Set",
     "traits": [
       "Elite",
       "Kree"
@@ -3625,10 +4003,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Kree Manipulator",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01179": {
@@ -3642,10 +4022,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Yon-Rogg's Treason",
     "type": "Nemesis",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Captain Marvel Nemesis",
+    "pack": "Core Set",
     "traits": []
   },
   "01180": {
@@ -3659,10 +4041,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "Legions of Hydra",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Legions of Hydra",
+    "pack": "Core Set",
     "traits": []
   },
   "01181": {
@@ -3676,10 +4060,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Madame Hydra",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Legions of Hydra",
+    "pack": "Core Set",
     "traits": [
       "Elite",
       "Hydra"
@@ -3696,10 +4082,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Hydra Soldier",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Legions of Hydra",
+    "pack": "Core Set",
     "traits": [
       "Hydra"
     ]
@@ -3715,10 +4103,12 @@
         "isHorizontal": true
       }
     },
+    "isHorizontal": true,
     "name": "The Doomsday Chair",
     "type": "Side Scheme",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "The Doomsday Chair",
+    "pack": "Core Set",
     "traits": []
   },
   "01184": {
@@ -3732,10 +4122,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "M.O.D.O.K.",
     "type": "Minion",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "The Doomsday Chair",
+    "pack": "Core Set",
     "traits": [
       "Cyborg",
       "Elite"
@@ -3752,10 +4144,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Biomechanical Upgrades",
     "type": "Attachment",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "The Doomsday Chair",
+    "pack": "Core Set",
     "traits": [
       "Tech"
     ]
@@ -3771,10 +4165,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Advance",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Standard",
+    "pack": "Core Set",
     "traits": []
   },
   "01187": {
@@ -3788,10 +4184,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Assault",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Standard",
+    "pack": "Core Set",
     "traits": []
   },
   "01188": {
@@ -3805,10 +4203,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Caught Off Guard",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Standard",
+    "pack": "Core Set",
     "traits": []
   },
   "01189": {
@@ -3822,10 +4222,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Gang-Up",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Standard",
+    "pack": "Core Set",
     "traits": []
   },
   "01190": {
@@ -3839,10 +4241,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Shadow of the Past",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Standard",
+    "pack": "Core Set",
     "traits": []
   },
   "01191": {
@@ -3856,10 +4260,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Exhaustion",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Expert",
+    "pack": "Core Set",
     "traits": []
   },
   "01192": {
@@ -3873,10 +4279,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Masterplan",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Expert",
+    "pack": "Core Set",
     "traits": []
   },
   "01193": {
@@ -3890,10 +4298,12 @@
         "isHorizontal": false
       }
     },
+    "isHorizontal": false,
     "name": "Under Fire",
     "type": "Treachery",
     "cost": 0,
-    "pac": "Core Set",
+    "set": "Expert",
+    "pack": "Core Set",
     "traits": []
   }
 }
