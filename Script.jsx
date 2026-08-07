@@ -35,8 +35,13 @@ for (const card of cards) {
     const cardCost = frontSource.cost ?? 0
 
     const isHorizontal = (type) => {
-        return ["Side Scheme", "Main Scheme"].includes(type)
-    }
+        const normalized = String(type ?? "")
+            .trim()
+            .toLowerCase()
+            .replace(/\s+/g, " ");
+
+        return normalized === "side scheme" || normalized === "main scheme";
+    };
 
     const finalCard = {
         id: card.code,
