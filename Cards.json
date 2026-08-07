@@ -2179,31 +2179,6 @@
       "Criminal"
     ]
   },
-  "01097": {
-    "id": "01097",
-    "face": {
-      "front": {
-        "name": "The Break-In!",
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01097.png",
-        "isHorizontal": true
-      },
-      "back": {
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01097b.png",
-        "isHorizontal": false
-      }
-    },
-    "isHorizontal": true,
-    "name": "The Break-In!",
-    "type": "Main Scheme",
-    "cost": 0,
-    "set": "Rhino",
-    "pack": "Core Set",
-    "traits": []
-  },
   "01097a": {
     "id": "01097a",
     "face": {
@@ -2211,7 +2186,14 @@
         "name": "The Break-In!",
         "type": "Main Scheme",
         "cost": 0,
-        "image": "https://marvelcdb.comundefined",
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01097a.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "The Break-In!",
+        "type": "Main Scheme",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01097a-back.png",
         "isHorizontal": true
       }
     },
@@ -2584,31 +2566,6 @@
       "Masters of Evil"
     ]
   },
-  "01116": {
-    "id": "01116",
-    "face": {
-      "front": {
-        "name": "Underground Distribution",
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01116.png",
-        "isHorizontal": true
-      },
-      "back": {
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01116b.png",
-        "isHorizontal": false
-      }
-    },
-    "isHorizontal": true,
-    "name": "Underground Distribution",
-    "type": "Main Scheme",
-    "cost": 0,
-    "set": "Klaw",
-    "pack": "Core Set",
-    "traits": []
-  },
   "01116a": {
     "id": "01116a",
     "face": {
@@ -2616,37 +2573,19 @@
         "name": "Underground Distribution",
         "type": "Main Scheme",
         "cost": 0,
-        "image": "https://marvelcdb.comundefined",
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01116a.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Underground Distribution",
+        "type": "Main Scheme",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01116a-back.png",
         "isHorizontal": true
       }
     },
     "isHorizontal": true,
     "name": "Underground Distribution",
-    "type": "Main Scheme",
-    "cost": 0,
-    "set": "Klaw",
-    "pack": "Core Set",
-    "traits": []
-  },
-  "01117": {
-    "id": "01117",
-    "face": {
-      "front": {
-        "name": "Secret Rendezvous",
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01117.png",
-        "isHorizontal": true
-      },
-      "back": {
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01117b.png",
-        "isHorizontal": false
-      }
-    },
-    "isHorizontal": true,
-    "name": "Secret Rendezvous",
     "type": "Main Scheme",
     "cost": 0,
     "set": "Klaw",
@@ -2660,7 +2599,14 @@
         "name": "Secret Rendezvous",
         "type": "Main Scheme",
         "cost": 0,
-        "image": "https://marvelcdb.comundefined",
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01117a.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Secret Rendezvous",
+        "type": "Main Scheme",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01117a-back.png",
         "isHorizontal": true
       }
     },
@@ -3056,31 +3002,6 @@
       "Android"
     ]
   },
-  "01137": {
-    "id": "01137",
-    "face": {
-      "front": {
-        "name": "The Crimson Cowl",
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01137.png",
-        "isHorizontal": true
-      },
-      "back": {
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01137b.png",
-        "isHorizontal": false
-      }
-    },
-    "isHorizontal": true,
-    "name": "The Crimson Cowl",
-    "type": "Main Scheme",
-    "cost": 0,
-    "set": "Ultron",
-    "pack": "Core Set",
-    "traits": []
-  },
   "01137a": {
     "id": "01137a",
     "face": {
@@ -3088,37 +3009,19 @@
         "name": "The Crimson Cowl",
         "type": "Main Scheme",
         "cost": 0,
-        "image": "https://marvelcdb.comundefined",
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01137a.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "The Crimson Cowl",
+        "type": "Main Scheme",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01137a-back.png",
         "isHorizontal": true
       }
     },
     "isHorizontal": true,
     "name": "The Crimson Cowl",
-    "type": "Main Scheme",
-    "cost": 0,
-    "set": "Ultron",
-    "pack": "Core Set",
-    "traits": []
-  },
-  "01138": {
-    "id": "01138",
-    "face": {
-      "front": {
-        "name": "Assault on NORAD",
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01138.png",
-        "isHorizontal": true
-      },
-      "back": {
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01138b.png",
-        "isHorizontal": false
-      }
-    },
-    "isHorizontal": true,
-    "name": "Assault on NORAD",
     "type": "Main Scheme",
     "cost": 0,
     "set": "Ultron",
@@ -3132,37 +3035,19 @@
         "name": "Assault on NORAD",
         "type": "Main Scheme",
         "cost": 0,
-        "image": "https://marvelcdb.comundefined",
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01138a.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Assault on NORAD",
+        "type": "Main Scheme",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01138a-back.png",
         "isHorizontal": true
       }
     },
     "isHorizontal": true,
     "name": "Assault on NORAD",
-    "type": "Main Scheme",
-    "cost": 0,
-    "set": "Ultron",
-    "pack": "Core Set",
-    "traits": []
-  },
-  "01139": {
-    "id": "01139",
-    "face": {
-      "front": {
-        "name": "Countdown to Oblivion",
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01139.png",
-        "isHorizontal": true
-      },
-      "back": {
-        "type": "Main Scheme",
-        "cost": 0,
-        "image": "https://marvelcdb.com/bundles/cards/01139b.png",
-        "isHorizontal": false
-      }
-    },
-    "isHorizontal": true,
-    "name": "Countdown to Oblivion",
     "type": "Main Scheme",
     "cost": 0,
     "set": "Ultron",
@@ -3176,7 +3061,14 @@
         "name": "Countdown to Oblivion",
         "type": "Main Scheme",
         "cost": 0,
-        "image": "https://marvelcdb.comundefined",
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01139a.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Countdown to Oblivion",
+        "type": "Main Scheme",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Cards/01139a-back.png",
         "isHorizontal": true
       }
     },
