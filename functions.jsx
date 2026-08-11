@@ -1,6 +1,7 @@
 
 function getVillainDeckTopCard() {
   console.log(cards)
+  console.log("EncounterDeck:", cards?.EncounterDeck)
   return cards.EncounterDeck[0]
 }
 
@@ -127,9 +128,9 @@ async function iniVilainDeck() {
   await functions.shuffleSection("EncounterDeck");
   await functions.repositionCards();
 
-     /*const card = cards.Villain[0]
-  const cardData = await functions.getCardData(card)
-  gamedata.villain.lifepoints = cardData.startingLifepoints*/
+  /*const card = cards.Villain[0]
+const cardData = await functions.getCardData(card)
+gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
 
