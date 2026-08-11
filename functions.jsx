@@ -158,7 +158,7 @@ async function iniVilainDeck() {
   await spawnDeck(villainDecks.rhino);
   await spawnDeck(encounterSets.standard);
   await spawnDeck(modularEncounterSets.bombScare);
-  await functions.shuffleSection("VillainDeck");
+  await functions.shuffleSection("EncounterDeck");
   await functions.repositionCards();
 }
 
