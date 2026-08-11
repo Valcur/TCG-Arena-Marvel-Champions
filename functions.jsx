@@ -25,7 +25,7 @@ function dealEncounter() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = functions.getCardData(card)?.face?.front ?? {}
-  console.log(cardData)
+  console.log(functions.getCardData(card), functions.getCardData)
   if (cardData.type === "Minion") {
     //card.position.playerSide = player
     functions.moveCard(card, "EngagedEnemies")
