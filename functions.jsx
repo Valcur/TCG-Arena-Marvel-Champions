@@ -10,10 +10,10 @@ function getVillainDeckTopCard() {
 async function playVilainDeck() {
   const card = getVillainDeckTopCard()
   if (!card) return
-  const cardData = functions.getCardData(card)
-  gamedata.villain.boost.value = cardData.boost
+  const cardData = await functions.getCardData(card)
+  gamedata.data.GameplayManager.boost = 2
   if (cardData.starIcon) {
-    gamedata.villain.star.value = true
+    gamedata.data.GameplayManager.star = true
     // create trigger effect to stack ? unowned stack effect a voir
   }
   await functions.moveCard(card, "PlayedCards")
@@ -26,11 +26,11 @@ async function dealEncounter() {
   const cardData = await functions.getCardData(card)
   const type = cardData?.face?.front?.type
   let destination = "Stack"
-  if (type == "Minion") {
+  if (type === "Minion") {
     destination = "EngagedEnemies"
-  } else if (type == "Attachment") {
+  } else if (type === "Attachment") {
     destination = "VillainAttachments"
-  } else if (type == "SideScheme") {
+  } else if (type === "SideScheme") {
     destination = "SideSchemes"
   }
 
