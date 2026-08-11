@@ -130,6 +130,8 @@ for (const card of cards) {
         cost: cardCost,
         set: card.card_set_name ?? "UNKNOWN",
         pack: card.pack_name,
+        boost: card.boost ?? 0,
+        star: card.boost_star === true,
 
         traits: frontSource.traits
             ? frontSource.traits

@@ -23,6 +23,8 @@
     "cost": 0,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Genius"
     ]
@@ -44,6 +46,8 @@
     "cost": 2,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Hero for Hire"
     ]
@@ -65,6 +69,8 @@
     "cost": 0,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Defense",
       "Skill"
@@ -87,6 +93,8 @@
     "cost": 1,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Superpower"
     ]
@@ -108,6 +116,8 @@
     "cost": 3,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Aerial",
       "Attack",
@@ -131,6 +141,8 @@
     "cost": 1,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Persona"
     ]
@@ -152,6 +164,8 @@
     "cost": 1,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Item",
       "Tech"
@@ -174,6 +188,8 @@
     "cost": 1,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Item",
       "Tech"
@@ -196,6 +212,8 @@
     "cost": 4,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -224,6 +242,8 @@
     "cost": 0,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -251,6 +271,8 @@
     "cost": 3,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Avenger",
       "Spy"
@@ -273,6 +295,8 @@
     "cost": 2,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Thwart"
     ]
@@ -294,6 +318,8 @@
     "cost": 3,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack",
       "Superpower"
@@ -316,6 +342,8 @@
     "cost": 0,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01015": {
@@ -335,6 +363,8 @@
     "cost": 1,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location",
       "S",
@@ -362,6 +392,8 @@
     "cost": 2,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor",
       "Tech"
@@ -384,6 +416,8 @@
     "cost": 2,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Superpower"
     ]
@@ -405,6 +439,8 @@
     "cost": 0,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Superpower"
     ]
@@ -433,6 +469,8 @@
     "cost": 0,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attorney",
       "Gamma"
@@ -455,6 +493,8 @@
     "cost": 3,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Avenger"
     ]
@@ -476,6 +516,8 @@
     "cost": 4,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack",
       "Superpower"
@@ -498,6 +540,8 @@
     "cost": 2,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Superpower"
     ]
@@ -519,6 +563,8 @@
     "cost": 0,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Skill",
       "Thwart"
@@ -541,6 +587,8 @@
     "cost": 1,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Skill"
     ]
@@ -562,6 +610,8 @@
     "cost": 3,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01026": {
@@ -581,6 +631,8 @@
     "cost": 1,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location"
     ]
@@ -602,6 +654,8 @@
     "cost": 3,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Skill"
     ]
@@ -623,6 +677,8 @@
     "cost": 2,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Superpower"
     ]
@@ -651,6 +707,8 @@
     "cost": 0,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Genius"
     ]
@@ -672,6 +730,8 @@
     "cost": 4,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -699,6 +759,8 @@
     "cost": 1,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack",
       "Superpower"
@@ -721,6 +783,8 @@
     "cost": 2,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack"
     ]
@@ -742,6 +806,8 @@
     "cost": 3,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Persona"
     ]
@@ -763,6 +829,8 @@
     "cost": 2,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location"
     ]
@@ -784,6 +852,8 @@
     "cost": 2,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Item",
       "Tech"
@@ -806,6 +876,8 @@
     "cost": 3,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor",
       "Tech"
@@ -828,6 +900,8 @@
     "cost": 1,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor",
       "Tech"
@@ -850,6 +924,8 @@
     "cost": 2,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor",
       "Tech"
@@ -872,6 +948,8 @@
     "cost": 1,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor",
       "Tech"
@@ -901,6 +979,8 @@
     "cost": 0,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "King",
       "Wakanda"
@@ -923,6 +1003,8 @@
     "cost": 2,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Genius",
       "Wakanda"
@@ -945,6 +1027,8 @@
     "cost": 1,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01043a": {
@@ -964,6 +1048,8 @@
     "cost": 1,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Tactic"
     ]
@@ -985,6 +1071,8 @@
     "cost": 1,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Tactic"
     ]
@@ -1006,6 +1094,8 @@
     "cost": 1,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Tactic"
     ]
@@ -1027,6 +1117,8 @@
     "cost": 1,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Tactic"
     ]
@@ -1048,6 +1140,8 @@
     "cost": 0,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01045": {
@@ -1067,6 +1161,8 @@
     "cost": 2,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location",
       "Wakanda"
@@ -1089,6 +1185,8 @@
     "cost": 2,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1111,6 +1209,8 @@
     "cost": 2,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1133,6 +1233,8 @@
     "cost": 2,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Black Panther",
       "Skill"
@@ -1155,6 +1257,8 @@
     "cost": 2,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor",
       "Black Panther"
@@ -1177,6 +1281,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Avenger",
       "Gamma"
@@ -1199,6 +1305,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Avenger"
     ]
@@ -1220,6 +1328,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Thwart"
     ]
@@ -1241,6 +1351,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack"
     ]
@@ -1262,6 +1374,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack"
     ]
@@ -1283,6 +1397,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01056": {
@@ -1302,6 +1418,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1328,6 +1446,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Skill"
     ]
@@ -1349,6 +1469,8 @@
     "cost": 4,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Defender"
     ]
@@ -1370,6 +1492,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Defender"
     ]
@@ -1391,6 +1515,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Thwart"
     ]
@@ -1412,6 +1538,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01062": {
@@ -1431,6 +1559,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01063": {
@@ -1450,6 +1580,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location"
     ]
@@ -1471,6 +1603,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1497,6 +1631,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Skill"
     ]
@@ -1518,6 +1654,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Avenger"
     ]
@@ -1539,6 +1677,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1565,6 +1705,8 @@
     "cost": 4,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Android",
       "Avenger"
@@ -1587,6 +1729,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01070": {
@@ -1606,6 +1750,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Tactic"
     ]
@@ -1627,6 +1773,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01072": {
@@ -1646,6 +1794,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01073": {
@@ -1665,6 +1815,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location",
       "S",
@@ -1692,6 +1844,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -1713,6 +1867,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1740,6 +1896,8 @@
     "cost": 4,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Defender"
     ]
@@ -1761,6 +1919,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack"
     ]
@@ -1782,6 +1942,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01079": {
@@ -1801,6 +1963,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01080": {
@@ -1820,6 +1984,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1846,6 +2012,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor"
     ]
@@ -1867,6 +2035,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -1888,6 +2058,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1915,6 +2087,8 @@
     "cost": 4,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "S",
       "H",
@@ -1942,6 +2116,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Thwart"
     ]
@@ -1963,6 +2139,8 @@
     "cost": 1,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01087": {
@@ -1982,6 +2160,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Attack"
     ]
@@ -2003,6 +2183,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01089": {
@@ -2022,6 +2204,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01090": {
@@ -2041,6 +2225,8 @@
     "cost": 0,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01091": {
@@ -2060,6 +2246,8 @@
     "cost": 4,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Avenger",
       "Location"
@@ -2082,6 +2270,8 @@
     "cost": 3,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Location",
       "S",
@@ -2109,6 +2299,8 @@
     "cost": 2,
     "set": "UNKNOWN",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -2130,6 +2322,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Brute",
       "Criminal"
@@ -2152,6 +2346,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Brute",
       "Criminal"
@@ -2174,6 +2370,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Brute",
       "Criminal"
@@ -2203,6 +2401,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01098": {
@@ -2222,6 +2422,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Armor"
     ]
@@ -2243,6 +2445,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01100": {
@@ -2262,6 +2466,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Weapon"
     ]
@@ -2283,6 +2489,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Hydra"
     ]
@@ -2304,6 +2512,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Criminal",
       "Elite"
@@ -2326,6 +2536,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Criminal"
     ]
@@ -2347,6 +2559,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01105": {
@@ -2366,6 +2580,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01106": {
@@ -2385,6 +2601,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01107": {
@@ -2404,6 +2622,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01108": {
@@ -2423,6 +2643,8 @@
     "cost": 0,
     "set": "Rhino",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01109": {
@@ -2442,6 +2664,8 @@
     "cost": 0,
     "set": "Bomb Scare",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01110": {
@@ -2461,6 +2685,8 @@
     "cost": 0,
     "set": "Bomb Scare",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Hydra"
     ]
@@ -2482,6 +2708,8 @@
     "cost": 0,
     "set": "Bomb Scare",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01112": {
@@ -2501,6 +2729,8 @@
     "cost": 0,
     "set": "Bomb Scare",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01113": {
@@ -2520,6 +2750,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Masters of Evil"
     ]
@@ -2541,6 +2773,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Masters of Evil"
     ]
@@ -2562,6 +2796,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Masters of Evil"
     ]
@@ -2590,6 +2826,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01117a": {
@@ -2616,6 +2854,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01118": {
@@ -2635,6 +2875,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": [
       "Weapon"
     ]
@@ -2656,6 +2898,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -2677,6 +2921,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Mercenary"
     ]
@@ -2698,6 +2944,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": [
       "Mercenary"
     ]
@@ -2719,6 +2967,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01123": {
@@ -2738,6 +2988,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01124": {
@@ -2757,6 +3009,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01125": {
@@ -2776,6 +3030,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01126": {
@@ -2795,6 +3051,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01127": {
@@ -2814,6 +3072,8 @@
     "cost": 0,
     "set": "Klaw",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01128": {
@@ -2833,6 +3093,8 @@
     "cost": 0,
     "set": "Masters of Evil",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01129": {
@@ -2852,6 +3114,8 @@
     "cost": 0,
     "set": "Masters of Evil",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": [
       "Elite",
       "Masters of Evil"
@@ -2874,6 +3138,8 @@
     "cost": 0,
     "set": "Masters of Evil",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": [
       "Masters of Evil"
     ]
@@ -2895,6 +3161,8 @@
     "cost": 0,
     "set": "Masters of Evil",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": [
       "Masters of Evil"
     ]
@@ -2916,6 +3184,8 @@
     "cost": 0,
     "set": "Masters of Evil",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": [
       "Masters of Evil"
     ]
@@ -2937,6 +3207,8 @@
     "cost": 0,
     "set": "Masters of Evil",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01134": {
@@ -2956,6 +3228,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Android"
     ]
@@ -2977,6 +3251,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Android"
     ]
@@ -2998,6 +3274,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Android"
     ]
@@ -3026,6 +3304,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01138a": {
@@ -3052,6 +3332,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01139a": {
@@ -3078,6 +3360,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01140": {
@@ -3097,6 +3381,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01141": {
@@ -3116,6 +3402,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Item",
       "Tech"
@@ -3138,6 +3426,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -3159,6 +3449,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Drone"
     ]
@@ -3180,6 +3472,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01144a": {
@@ -3199,6 +3493,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01144b": {
@@ -3218,6 +3514,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01144c": {
@@ -3237,6 +3535,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01145": {
@@ -3256,6 +3556,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01146": {
@@ -3275,6 +3577,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 1,
+    "star": true,
     "traits": []
   },
   "01147": {
@@ -3294,6 +3598,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01148": {
@@ -3313,6 +3619,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01149": {
@@ -3332,6 +3640,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01150": {
@@ -3351,6 +3661,8 @@
     "cost": 0,
     "set": "Ultron",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01151": {
@@ -3370,6 +3682,8 @@
     "cost": 0,
     "set": "Under Attack",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01152": {
@@ -3389,6 +3703,8 @@
     "cost": 0,
     "set": "Under Attack",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Armor"
     ]
@@ -3410,6 +3726,8 @@
     "cost": 0,
     "set": "Under Attack",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Weapon"
     ]
@@ -3431,6 +3749,8 @@
     "cost": 0,
     "set": "Under Attack",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01155": {
@@ -3450,6 +3770,8 @@
     "cost": 0,
     "set": "Black Panther",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01156": {
@@ -3469,6 +3791,8 @@
     "cost": 0,
     "set": "Black Panther Nemesis",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01157": {
@@ -3488,6 +3812,8 @@
     "cost": 0,
     "set": "Black Panther Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Assassin",
       "Elite",
@@ -3511,6 +3837,8 @@
     "cost": 0,
     "set": "Black Panther Nemesis",
     "pack": "Core Set",
+    "boost": 1,
+    "star": true,
     "traits": []
   },
   "01159": {
@@ -3530,6 +3858,8 @@
     "cost": 0,
     "set": "Black Panther Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01160": {
@@ -3549,6 +3879,8 @@
     "cost": 0,
     "set": "She-Hulk",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01161": {
@@ -3568,6 +3900,8 @@
     "cost": 0,
     "set": "She-Hulk Nemesis",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01162": {
@@ -3587,6 +3921,8 @@
     "cost": 0,
     "set": "She-Hulk Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Brute",
       "Elite"
@@ -3609,6 +3945,8 @@
     "cost": 0,
     "set": "She-Hulk Nemesis",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Condition"
     ]
@@ -3630,6 +3968,8 @@
     "cost": 0,
     "set": "She-Hulk Nemesis",
     "pack": "Core Set",
+    "boost": 1,
+    "star": true,
     "traits": []
   },
   "01165": {
@@ -3649,6 +3989,8 @@
     "cost": 0,
     "set": "Spider-Man",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01166": {
@@ -3668,6 +4010,8 @@
     "cost": 0,
     "set": "Spider-Man Nemesis",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01167": {
@@ -3687,6 +4031,8 @@
     "cost": 0,
     "set": "Spider-Man Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Criminal"
     ]
@@ -3708,6 +4054,8 @@
     "cost": 0,
     "set": "Spider-Man Nemesis",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01169": {
@@ -3727,6 +4075,8 @@
     "cost": 0,
     "set": "Spider-Man Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01170": {
@@ -3746,6 +4096,8 @@
     "cost": 0,
     "set": "Iron Man",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01171": {
@@ -3765,6 +4117,8 @@
     "cost": 0,
     "set": "Iron Man Nemesis",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01172": {
@@ -3784,6 +4138,8 @@
     "cost": 0,
     "set": "Iron Man Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01173": {
@@ -3803,6 +4159,8 @@
     "cost": 0,
     "set": "Iron Man Nemesis",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01174": {
@@ -3822,6 +4180,8 @@
     "cost": 0,
     "set": "Iron Man Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01175": {
@@ -3841,6 +4201,8 @@
     "cost": 0,
     "set": "Captain Marvel",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01176": {
@@ -3860,6 +4222,8 @@
     "cost": 0,
     "set": "Captain Marvel Nemesis",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01177": {
@@ -3879,6 +4243,8 @@
     "cost": 0,
     "set": "Captain Marvel Nemesis",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Elite",
       "Kree"
@@ -3901,6 +4267,8 @@
     "cost": 0,
     "set": "Captain Marvel Nemesis",
     "pack": "Core Set",
+    "boost": 0,
+    "star": true,
     "traits": []
   },
   "01179": {
@@ -3920,6 +4288,8 @@
     "cost": 0,
     "set": "Captain Marvel Nemesis",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01180": {
@@ -3939,6 +4309,8 @@
     "cost": 0,
     "set": "Legions of Hydra",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01181": {
@@ -3958,6 +4330,8 @@
     "cost": 0,
     "set": "Legions of Hydra",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Elite",
       "Hydra"
@@ -3980,6 +4354,8 @@
     "cost": 0,
     "set": "Legions of Hydra",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Hydra"
     ]
@@ -4001,6 +4377,8 @@
     "cost": 0,
     "set": "The Doomsday Chair",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   },
   "01184": {
@@ -4020,6 +4398,8 @@
     "cost": 0,
     "set": "The Doomsday Chair",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": [
       "Cyborg",
       "Elite"
@@ -4042,6 +4422,8 @@
     "cost": 0,
     "set": "The Doomsday Chair",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": [
       "Tech"
     ]
@@ -4063,6 +4445,8 @@
     "cost": 0,
     "set": "Standard",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01187": {
@@ -4082,6 +4466,8 @@
     "cost": 0,
     "set": "Standard",
     "pack": "Core Set",
+    "boost": 0,
+    "star": false,
     "traits": []
   },
   "01188": {
@@ -4101,6 +4487,8 @@
     "cost": 0,
     "set": "Standard",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01189": {
@@ -4120,6 +4508,8 @@
     "cost": 0,
     "set": "Standard",
     "pack": "Core Set",
+    "boost": 1,
+    "star": false,
     "traits": []
   },
   "01190": {
@@ -4139,6 +4529,8 @@
     "cost": 0,
     "set": "Standard",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01191": {
@@ -4158,6 +4550,8 @@
     "cost": 0,
     "set": "Expert",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01192": {
@@ -4177,6 +4571,8 @@
     "cost": 0,
     "set": "Expert",
     "pack": "Core Set",
+    "boost": 2,
+    "star": false,
     "traits": []
   },
   "01193": {
@@ -4196,6 +4592,8 @@
     "cost": 0,
     "set": "Expert",
     "pack": "Core Set",
+    "boost": 3,
+    "star": false,
     "traits": []
   }
 }
