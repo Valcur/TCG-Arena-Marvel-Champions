@@ -1,9 +1,20 @@
 const { cards, functions, gamedata } = null
 
+function spawnDeck(decklist) {
+  decklist.categoriesOrder.forEach(cat => {
+    decklist[cat]?.forEach(card => {
+      for (let i = 0; i < card.count; i++) {
+        functions.createCard(card.id)
+      }
+    })
+  })
+}
+
 function gameStart() {
-  players.forEach(p => {
-    moveCard("evictoin", "deck")
-  });
+  spawnDeck(villainDecks.rhino);
+  spawnDeck(encounterSets.standard);
+  spawnDeck(modularEcounterSets.bombScare);
+  functions.shuffleArray("VillainDeck")
 }
 
 function getVillainDeckTopCard() {
@@ -202,3 +213,158 @@ les cartes ainsi défaussées.)
 inscrite sur les cartes Identité en jeu.
 -> A faire manuellement
 */
+
+
+const villain = {
+  "rhino": {
+    "name": "Rhino",
+    "deck": "rhino"
+  }
+}
+
+const villainDecks = {
+  "rhino": {
+    "categoriesOrder": [
+      "Villain",
+      "Main Scheme",
+      "Attachment",
+      "Minion",
+      "Treachery",
+      "Side Scheme"
+    ],
+    "Villain": [
+      {
+        "count": 1,
+        "id": "01094"
+      },
+      {
+        "count": 1,
+        "id": "01095"
+      },
+      {
+        "count": 1,
+        "id": "01096"
+      }
+    ],
+    "Main Scheme": [
+      {
+        "count": 1,
+        "id": "01097a"
+      }
+    ],
+    "Attachment": [
+      {
+        "count": 1,
+        "id": "01098"
+      },
+      {
+        "count": 2,
+        "id": "01099"
+      },
+      {
+        "count": 1,
+        "id": "01100"
+      }
+    ],
+    "Minion": [
+      {
+        "count": 2,
+        "id": "01101"
+      },
+      {
+        "count": 1,
+        "id": "01102"
+      },
+      {
+        "count": 1,
+        "id": "01103"
+      }
+    ],
+    "Treachery": [
+      {
+        "count": 2,
+        "id": "01104"
+      },
+      {
+        "count": 2,
+        "id": "01105"
+      },
+      {
+        "count": 3,
+        "id": "01106"
+      }
+    ],
+    "Side Scheme": [
+      {
+        "count": 1,
+        "id": "01107"
+      },
+      {
+        "count": 1,
+        "id": "01108"
+      }
+    ]
+  }
+}
+
+const encounterSets = {
+  standard: {
+    "categoriesOrder": [
+      "Treachery"
+    ],
+    "Treachery": [
+      {
+        "count": 2,
+        "id": "01186"
+      },
+      {
+        "count": 2,
+        "id": "01187"
+      },
+      {
+        "count": 1,
+        "id": "01188"
+      },
+      {
+        "count": 1,
+        "id": "01189"
+      },
+      {
+        "count": 1,
+        "id": "01190"
+      }
+    ]
+  }
+}
+
+const modularEncounterSets = {
+  "bombScare": {
+    "categoriesOrder": [
+      "Side Scheme",
+      "Minion",
+      "Treachery"
+    ],
+    "Side Scheme": [
+      {
+        "count": 1,
+        "id": "01109"
+      }
+    ],
+    "Minion": [
+      {
+        "count": 2,
+        "id": "01110"
+      }
+    ],
+    "Treachery": [
+      {
+        "count": 1,
+        "id": "01111"
+      },
+      {
+        "count": 2,
+        "id": "01112"
+      }
+    ]
+  }
+}
