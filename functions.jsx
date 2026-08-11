@@ -1,4 +1,4 @@
-const { cards, functions, gamedata } = null
+
 
 function spawnDeck(decklist) {
   decklist.categoriesOrder.forEach(cat => {
