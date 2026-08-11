@@ -24,19 +24,19 @@ async function dealEncounter() {
   //const player = gamedata.myId
   const card = getVillainDeckTopCard()
   if (!card) return
-  const cardData = await functions.getCardData(card)?.face?.front ?? {}
+  const cardData = await functions.getCardData(card)
   console.log(cardData)
   if (cardData.type === "Minion") {
     //card.position.playerSide = player
-    functions.moveCard(card, "EngagedEnemies")
+    await functions.moveCard(card, "EngagedEnemies")
   } else if (cardData.type === "Attachment") {
-    functions.moveCard(card, "VillainAttachment")
+    await functions.moveCard(card, "VillainAttachment")
   } else if (cardData.type === "SideScheme") {
-    functions.moveCard(card, "SideScheme")
+    await functions.moveCard(card, "SideScheme")
   } else {
-    functions.moveCard(card, "Stack")
+    await functions.moveCard(card, "Stack")
   }
-  functions.repositionCards()
+  await functions.repositionCards()
 }
 
 const gameData = {
