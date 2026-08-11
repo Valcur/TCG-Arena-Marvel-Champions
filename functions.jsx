@@ -136,6 +136,12 @@ async function iniVilainDeck() {
   /*const card = cards.Villain[0]
 const cardData = await functions.getCardData(card)
 gamedata.villain.lifepoints = cardData.startingLifepoints*/
+
+  const identityCard = cards?.Identity?.[0]
+  if (!identityCard) return
+  const cardData = await functions.getCardData(card)
+  if (!cardData) return
+  await functions.draw(6)
 }
 
 
