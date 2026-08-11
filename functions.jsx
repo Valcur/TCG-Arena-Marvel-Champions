@@ -16,7 +16,7 @@ async function playVilainDeck() {
     gamedata.data.GameplayManager.star = true
     // create trigger effect to stack ? unowned stack effect a voir
   }
-  await functions.moveCard(card, "PlayedCards")
+  await functions.moveCard(card, "Revealed")
   await functions.repositionCards()
 }
 
