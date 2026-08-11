@@ -7,7 +7,7 @@ function getVillainDeckTopCard() {
   return cards.EncounterDeck[cards.EncounterDeck.length - 1]
 }
 
-function playVilainDeck() {
+async function playVilainDeck() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = functions.getCardData(card)
@@ -16,19 +16,17 @@ function playVilainDeck() {
     gamedata.villain.star.value = true
     // create trigger effect to stack ? unowned stack effect a voir
   }
-  functions.moveCard(card, "PlayedCards")
-  functions.repositionCards()
+  await functions.moveCard(card, "PlayedCards")
+  await functions.repositionCards()
 }
 
 async function dealEncounter() {
-  //const player = gamedata.myId
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
-  const type = cardData?.face?.front?.type
+  let type = cardData?.face?.front?.type
   const destination = "Stack"
   if (type == "Minion") {
-    //card.position.playerSide = player
     destination = "EngagedEnemies"
   } else if (type == "Attachment") {
     destination = "VillainAttachments"
