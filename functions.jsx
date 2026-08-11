@@ -26,17 +26,18 @@ async function dealEncounter() {
   if (!card) return
   const cardData = await functions.getCardData(card)
   const type = cardData?.face?.front?.type
-  console.log(cardData, type)
-  if (type === "Minion") {
+  const destination = "Stack"
+  if (type == "Minion") {
     //card.position.playerSide = player
-    await functions.moveCard(card, "EngagedEnemies")
-  } else if (type === "Attachment") {
-    await functions.moveCard(card, "VillainAttachment")
-  } else if (type === "SideScheme") {
-    await functions.moveCard(card, "SideScheme")
-  } else {
-    await functions.moveCard(card, "Stack")
+    destination = "EngagedEnemies"
+  } else if (type == "Attachment") {
+    destination = "VillainAttachment"
+  } else if (type == "SideScheme") {
+    destination = "SideScheme"
   }
+
+  await functions.moveCard(card, destination)
+  console.log(cardData, type, destination)
   await functions.repositionCards()
 }
 
