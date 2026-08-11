@@ -132,7 +132,7 @@ async function spawnDeck(decklist, targetSection) {
   await functions.repositionCards();
 }
 
-function iniVilainDeck() {
+async function iniVilainDeck() {
   // Set starting life
   //const card = cards.Villain[0]
   //const cardData = functions.getCardData(card)
