@@ -11,9 +11,9 @@ async function playVilainDeck() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
-  console.log("yo", cardData.boost)
   game.data.GameplayManager.boost = cardData.boost
   game.data.GameplayManager.star = cardData.star
+  console.log(game, game.data.GameplayManager)
   if (cardData.star) {
 
   }
