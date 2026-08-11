@@ -1,7 +1,7 @@
 
 function getVillainDeckTopCard() {
   console.log(cards)
-  return cards.VillainDeck[0]
+  return cards.EncounterDeck[0]
 }
 
 function playVilainDeck() {
