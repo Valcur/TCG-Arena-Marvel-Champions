@@ -20,11 +20,11 @@ function playVilainDeck() {
   functions.repositionCards()
 }
 
-function dealEncounter() {
+async function dealEncounter() {
   //const player = gamedata.myId
   const card = getVillainDeckTopCard()
   if (!card) return
-  const cardData = functions.getCardData(card)?.face?.front ?? {}
+  const cardData = await functions.getCardData(card)?.face?.front ?? {}
   console.log(functions.getCardData(card), functions.getCardData)
   if (cardData.type === "Minion") {
     //card.position.playerSide = player
