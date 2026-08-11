@@ -2,11 +2,14 @@
 function getVillainDeckTopCard() {
   console.log(cards)
   console.log("EncounterDeck:", cards?.EncounterDeck)
+  const deck = cards?.EncounterDeck
+  if (cards.EncounterDeck.length === O) return null
   return cards.EncounterDeck[0]
 }
 
 function playVilainDeck() {
   const card = getVillainDeckTopCard()
+  if (!card) return
   const cardData = functions.getCardData(card)
   gamedata.villain.boost.value = cardData.boost
   if (cardData.starIcon) {
@@ -20,6 +23,7 @@ function playVilainDeck() {
 function dealEncounter() {
   //const player = gamedata.myId
   const card = getVillainDeckTopCard()
+  if (!card) return
   const cardData = functions.getCardData(card)?.face?.front ?? {}
   if (cardData.type === "Minion") {
     //card.position.playerSide = player
