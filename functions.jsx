@@ -24,8 +24,8 @@ async function dealEncounter() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
-  let type = cardData?.face?.front?.type
-  const destination = "Stack"
+  const type = cardData?.face?.front?.type
+  let destination = "Stack"
   if (type == "Minion") {
     destination = "EngagedEnemies"
   } else if (type == "Attachment") {
