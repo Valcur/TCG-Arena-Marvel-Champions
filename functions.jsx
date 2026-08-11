@@ -120,16 +120,21 @@ function turnEnd() {
   Pass the first player token to the next clockwise player and end the round.*/
 }
 
-async function spawnDeck(decklist, targetSection) {
+async function spawnDeck(decklist) {
   for (const category of decklist.categoriesOrder) {
     const cardsInCategory = decklist[category] || [];
     for (const card of cardsInCategory) {
       for (let i = 0; i < card.count; i++) {
+        let targetSection = 'EncounterDeck'
+        if (category === "Villain") {
+          targetSection = "Villain"
+        } else if (targetSection === "Main Scheme") {
+          targetSection = "MainScheme"
+        }
         await functions.createCard(card.id, targetSection);
       }
     }
   }
-  await functions.repositionCards();
 }
 
 async function iniVilainDeck() {
@@ -150,7 +155,11 @@ async function iniVilainDeck() {
   await functions.repositionCards()*/
   console.log(cards)
 
-  await spawnDeck(villainDecks.rhino, "EncounterDeck");
+  await spawnDeck(villainDecks.rhino);
+  await spawnDeck(encounterSets.standard);
+  await spawnDeck(modularEncounterSets.bombScare);
+  await functions.shuffleSection();
+  await functions.repositionCards();
 }
 
 
