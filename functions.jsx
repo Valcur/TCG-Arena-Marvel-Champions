@@ -31,13 +31,12 @@ async function dealEncounter() {
     //card.position.playerSide = player
     destination = "EngagedEnemies"
   } else if (type == "Attachment") {
-    destination = "VillainAttachment"
+    destination = "VillainAttachments"
   } else if (type == "SideScheme") {
-    destination = "SideScheme"
+    destination = "SideSchemes"
   }
 
   await functions.moveCard(card, destination)
-  console.log(cardData, type, destination)
   await functions.repositionCards()
 }
 
