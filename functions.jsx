@@ -1,10 +1,10 @@
 
 function getVillainDeckTopCard() {
-  console.log(cards)
-  console.log("EncounterDeck:", cards?.EncounterDeck)
+  //console.log(cards)
+  //console.log("EncounterDeck:", cards?.EncounterDeck)
   const deck = cards?.EncounterDeck
   if (cards.EncounterDeck.length === 0) return null
-  return cards.EncounterDeck[0]
+  return cards.EncounterDeck[cards.EncounterDeck.length - 1]
 }
 
 function playVilainDeck() {
@@ -25,6 +25,7 @@ function dealEncounter() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = functions.getCardData(card)?.face?.front ?? {}
+  console.log(cardData)
   if (cardData.type === "Minion") {
     //card.position.playerSide = player
     functions.moveCard(card, "EngagedEnemies")
