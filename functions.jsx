@@ -3,7 +3,7 @@ function getVillainDeckTopCard() {
   console.log(cards)
   console.log("EncounterDeck:", cards?.EncounterDeck)
   const deck = cards?.EncounterDeck
-  if (cards.EncounterDeck.length === O) return null
+  if (cards.EncounterDeck.length === 0) return null
   return cards.EncounterDeck[0]
 }
 
