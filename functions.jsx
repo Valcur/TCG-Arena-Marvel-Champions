@@ -128,7 +128,7 @@ async function spawnDeck(decklist) {
         let targetSection = 'EncounterDeck'
         if (category === "Villain") {
           targetSection = "Villain"
-        } else if (targetSection === "Main Scheme") {
+        } else if (category === "Main Scheme") {
           targetSection = "MainScheme"
         }
         await functions.createCard(card.id, targetSection);
@@ -158,7 +158,7 @@ async function iniVilainDeck() {
   await spawnDeck(villainDecks.rhino);
   await spawnDeck(encounterSets.standard);
   await spawnDeck(modularEncounterSets.bombScare);
-  await functions.shuffleSection();
+  await functions.shuffleSection("VillainDeck");
   await functions.repositionCards();
 }
 
