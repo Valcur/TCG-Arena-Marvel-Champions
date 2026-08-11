@@ -1,23 +1,6 @@
 
-
-function spawnDeck(decklist) {
-  decklist.categoriesOrder.forEach(cat => {
-    decklist[cat]?.forEach(card => {
-      for (let i = 0; i < card.count; i++) {
-        functions.createCard(card.id)
-      }
-    })
-  })
-}
-
-function gameStart() {
-  spawnDeck(villainDecks.rhino);
-  spawnDeck(encounterSets.standard);
-  spawnDeck(modularEcounterSets.bombScare);
-  functions.shuffleArray("VillainDeck")
-}
-
 function getVillainDeckTopCard() {
+  console.log(cards)
   return cards.VillainDeck[0]
 }
 
@@ -34,11 +17,11 @@ function playVilainDeck() {
 }
 
 function dealEncounter() {
-  const player = gamedata.myId
+  //const player = gamedata.myId
   const card = getVillainDeckTopCard()
-  const cardData = functions.getCardData(card)
+  const cardData = functions.getCardData(card)?.face?.front ?? {}
   if (cardData.type === "Minion") {
-    card.position.playerSide = player
+    //card.position.playerSide = player
     functions.moveCard(card, "EngagedEnemies")
   } else if (cardData.type === "Attachment") {
     functions.moveCard(card, "VillainAttachment")
@@ -138,28 +121,15 @@ async function spawnDeck(decklist) {
 }
 
 async function iniVilainDeck() {
-  // Set starting life
-  //const card = cards.Villain[0]
-  //const cardData = functions.getCardData(card)
-  //gamedata.villain.lifepoints = cardData.startingLifepoints
-
-  // wait until all obligations are here
-  // Shuffle obligation card into villain deck
-  //functions.shuffleSection("VillainDeck")
-  //functions.repositionCards()
-   /*const card = cards.Villain[0]
-  const cardData = await functions.getCardData(card)
-  gamedata.villain.lifepoints = cardData.startingLifepoints
-
-  await functions.shuffleSection("VillainDeck")
-  await functions.repositionCards()*/
-  console.log(cards)
-
   await spawnDeck(villainDecks.rhino);
   await spawnDeck(encounterSets.standard);
   await spawnDeck(modularEncounterSets.bombScare);
   await functions.shuffleSection("EncounterDeck");
   await functions.repositionCards();
+
+     /*const card = cards.Villain[0]
+  const cardData = await functions.getCardData(card)
+  gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
 
