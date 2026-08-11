@@ -11,9 +11,10 @@ async function playVilainDeck() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
+  console.log(cardData)
   game.data.GameplayManager.boost = cardData.boost
+  game.data.GameplayManager.star = cardData.starIcon
   if (cardData.starIcon) {
-    game.data.GameplayManager.star = true
     // create trigger effect to stack ? unowned stack effect a voir
   }
   await functions.moveCard(card, "Revealed")
