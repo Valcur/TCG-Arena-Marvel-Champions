@@ -120,6 +120,18 @@ function turnEnd() {
   Pass the first player token to the next clockwise player and end the round.*/
 }
 
+async function spawnDeck(decklist, targetSection) {
+  for (const category of decklist.categoriesOrder) {
+    const cardsInCategory = decklist[category] || [];
+    for (const card of cardsInCategory) {
+      for (let i = 0; i < card.count; i++) {
+        await functions.createCard(card.id, targetSection);
+      }
+    }
+  }
+  await functions.repositionCards();
+}
+
 function iniVilainDeck() {
   // Set starting life
   //const card = cards.Villain[0]
@@ -137,6 +149,8 @@ function iniVilainDeck() {
   await functions.shuffleSection("VillainDeck")
   await functions.repositionCards()*/
   console.log(cards)
+
+  await spawnDeck(villainDecks.rhino, "EncounterDeck");
 }
 
 
