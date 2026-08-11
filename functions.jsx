@@ -122,14 +122,21 @@ function turnEnd() {
 
 function iniVilainDeck() {
   // Set starting life
-  const card = cards.Villain[0]
-  const cardData = functions.getCardData(card)
-  gamedata.villain.lifepoints = cardData.startingLifepoints
+  //const card = cards.Villain[0]
+  //const cardData = functions.getCardData(card)
+  //gamedata.villain.lifepoints = cardData.startingLifepoints
 
   // wait until all obligations are here
   // Shuffle obligation card into villain deck
-  functions.shuffleSection("VillainDeck")
-  functions.repositionCards()
+  //functions.shuffleSection("VillainDeck")
+  //functions.repositionCards()
+   /*const card = cards.Villain[0]
+  const cardData = await functions.getCardData(card)
+  gamedata.villain.lifepoints = cardData.startingLifepoints
+
+  await functions.shuffleSection("VillainDeck")
+  await functions.repositionCards()*/
+  console.log(cards)
 }
 
 
