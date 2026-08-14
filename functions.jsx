@@ -130,7 +130,7 @@ async function allPlayerReady() {
   for (const card of cards.Discard) {
     const cardData = await functions.getCardData(card)
     if (cardData.type === "Obligation") {
-      await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
+      card.owner = "UNOWNED"
       await functions.moveCard(card, "EncounterDeck")
       await functions.repositionCards();
     }
