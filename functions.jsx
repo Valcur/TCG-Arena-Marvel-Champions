@@ -129,8 +129,10 @@ async function allPlayerReady() {
   }
   for (const card of cards.Discard) {
     const cardData = await functions.getCardData(card)
+    console.log(cardData)
     if (cardData.type === "Obligation") {
       await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
+      console.log("gg")
     }
   }
   const identityCard = cards?.Identity?.[0]
