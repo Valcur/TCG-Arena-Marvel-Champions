@@ -122,14 +122,15 @@ gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
 async function sendObligation() {
-        await functions.repositionCards();
+  setTimeout(() => {
     for (const card of cards.Discard) {
-    const cardData = await functions.getCardData(card)
-    if (cardData.type === "Obligation") {
-      await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
-      await functions.moveCard(card, "EncounterDeck")
+      const cardData = await functions.getCardData(card)
+      if (cardData.type === "Obligation") {
+        await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
+        await functions.moveCard(card, "EncounterDeck")
+      }
     }
-  }
+  }, 100)
 }
 
 // all players have picked their deck
