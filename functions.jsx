@@ -13,12 +13,13 @@ async function playVilainDeck() {
   const cardData = await functions.getCardData(card)
   game.data.GameplayManager.boost = cardData.boost
   game.data.GameplayManager.star = cardData.star
-  console.log(game, game.data.GameplayManager)
-  if (cardData.star) {
+  console.log("APRES SET:", JSON.stringify(game.data.GameplayManager))
 
-  }
   await functions.moveCard(card, "Revealed")
+  console.log("APRES MOVECARD:", JSON.stringify(game.data.GameplayManager))
+
   await functions.repositionCards()
+  console.log("APRES REPOSITION:", JSON.stringify(game.data.GameplayManager))
 }
 
 async function dealEncounter() {
