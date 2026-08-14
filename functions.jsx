@@ -115,7 +115,7 @@ async function iniVilainDeck() {
   await spawnDeck(modularEncounterSets.bombScare);
   await functions.shuffleSection("EncounterDeck");
   await functions.repositionCards();
-game.data.GameplayManager.hp = 14 * game.turn.totalPlayers
+  game.data.GameplayManager.hp = 14 * game.turn.totalPlayers
   /*const card = cards.Villain[0]
 const cardData = await functions.getCardData(card)
 gamedata.villain.lifepoints = cardData.startingLifepoints*/
@@ -127,19 +127,18 @@ async function allPlayerReady() {
   if (game.isHost) {
     await iniVilainDeck()
   }
-  cards.Discard.forEach((card) => {
+  for (const card of cards.Discard) {
     const cardData = await functions.getCardData(card)
     if (cardData.type === "Obligation") {
       await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
     }
-  })
+  }
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
   const cardData = await functions.getCardData(identityCard)
   if (!cardData) return
   await functions.draw(cardData.handSize ?? 0)
   await functions.changeCounterValue(0, cardData.health ?? 0)
-  //functions.setPlayerCounter(0, cardData.startLife)
 }
 
 /*
