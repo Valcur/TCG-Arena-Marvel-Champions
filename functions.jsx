@@ -121,19 +121,21 @@ const cardData = await functions.getCardData(card)
 gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
+async function sendObligation() {
+    for (const card of cards.Discard) {
+    const cardData = await functions.getCardData(card)
+    if (cardData.type === "Obligation") {
+      await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
+      await functions.moveCard(card, "EncounterDeck")
+      await functions.repositionCards();
+    }
+  }
+}
 
 // all players have picked their deck
 async function allPlayerReady() {
   if (game.isHost) {
     await iniVilainDeck()
-  }
-  for (const card of cards.Discard) {
-    const cardData = await functions.getCardData(card)
-    if (cardData.type === "Obligation") {
-      card.owner = "UNOWNED"
-      await functions.moveCard(card, "EncounterDeck")
-      await functions.repositionCards();
-    }
   }
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
