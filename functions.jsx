@@ -5,9 +5,9 @@ function getVillainDeckTopCard() {
   const deck = cards?.EncounterDeck
   if (!deck || deck?.length === 0) {
     // shuffle revealed and discard
-    cards?.EncounterDeck = [...cards?.EncounterDiscard, ...cards?.Revealed]
-    cards?.Revealed = []
-    cards?.EncounterDiscard = []
+    cards.EncounterDeck = [...(cards?.EncounterDiscard ?? []), ...(cards?.Revealed ?? [])]
+    cards.Revealed = []
+    cards.EncounterDiscard = []
     await functions.shuffleSection("EncounterDeck");
     await functions.repositionCards();
     return null
