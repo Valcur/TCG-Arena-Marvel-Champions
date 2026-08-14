@@ -139,7 +139,7 @@ gamedata.villain.lifepoints = cardData.startingLifepoints*/
 
 // all players have picked their deck
 async function allPlayerReady() {
-  if (isHost) {
+  if (game.isHost) {
     await iniVilainDeck()
   }
   const identityCard = cards?.Identity?.[0]
