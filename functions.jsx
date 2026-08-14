@@ -141,13 +141,10 @@ gamedata.villain.lifepoints = cardData.startingLifepoints*/
 async function allPlayerReady() {
   if (game.isHost) {
     await iniVilainDeck()
-  } else {
-    await iniVilainDeck()
   }
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
   const cardData = await functions.getCardData(identityCard)
-  console.log(game)
   if (!cardData) return
   await functions.draw(6)
   await functions.changeCounterValue(0, 2)

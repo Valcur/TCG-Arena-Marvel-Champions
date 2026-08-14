@@ -132,6 +132,9 @@ for (const card of cards) {
         pack: card.pack_name,
         boost: card.boost ?? 0,
         star: card.boost_star === true,
+        handSize: card.hand_size ?? 0,
+        health: card.health ?? 0,
+
 
         traits: frontSource.traits
             ? frontSource.traits
