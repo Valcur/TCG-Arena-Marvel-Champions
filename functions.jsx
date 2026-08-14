@@ -3,7 +3,7 @@ function getVillainDeckTopCard() {
   //console.log(cards)
   //console.log("EncounterDeck:", cards?.EncounterDeck)
   const deck = cards?.EncounterDeck
-  if (cards.EncounterDeck.length === 0) return null
+  if (!deck || deck?.length === 0) return null
   return cards.EncounterDeck[cards.EncounterDeck.length - 1]
 }
 
@@ -11,8 +11,8 @@ async function playVilainDeck() {
   const card = getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
-  game.data.GameplayManager.boost = cardData.boost
-  game.data.GameplayManager.star = cardData.star
+  game.data.GameplayData.boost = cardData.boost
+  game.data.GameplayData.star = cardData.star
   await functions.moveCard(card, "Revealed")
   await functions.repositionCards()
 }
@@ -33,19 +33,6 @@ async function dealEncounter() {
 
   await functions.moveCard(card, destination)
   await functions.repositionCards()
-}
-
-const gameData = {
-  villain: {
-    boost: null,
-    star: false,
-    lifepoints: 20,
-  },
-  player: {
-    face: "alterego",
-    totalScheme: 0,
-    totalAttack: 0
-  }
 }
 
 // on cardUpdate
@@ -128,7 +115,7 @@ async function iniVilainDeck() {
   await spawnDeck(modularEncounterSets.bombScare);
   await functions.shuffleSection("EncounterDeck");
   await functions.repositionCards();
-game.data.GameplayManager.hp = 14 * game.turn.totalPlayers
+game.data.GameplayData.hp = 14 * game.turn.totalPlayers
   /*const card = cards.Villain[0]
 const cardData = await functions.getCardData(card)
 gamedata.villain.lifepoints = cardData.startingLifepoints*/
