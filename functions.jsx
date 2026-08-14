@@ -7,7 +7,7 @@ async function getVillainDeckTopCard() {
     // shuffle revealed and discard
     const newEncounterDeck = [...(cards?.EncounterDiscard ?? []), ...(cards?.Revealed ?? [])]
     for (const card of newEncounterDeck) {
-      await functions.moveCard(card, "EncounterDeck")
+      await functions.moveCard(card, "EncounterDeck", { noLogs: true })
     }
     await functions.shuffleSection("EncounterDeck");
     await functions.repositionCards();
