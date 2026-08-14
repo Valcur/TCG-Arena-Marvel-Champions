@@ -148,6 +148,7 @@ async function allPlayerReady() {
   console.log(cardData)
   if (!cardData) return
   await functions.draw(6)
+  await functions.changeCounterValue(0, 2)
   //functions.setPlayerCounter(0, cardData.startLife)
 }
 
