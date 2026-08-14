@@ -122,7 +122,7 @@ gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
 async function sendObligation() {
-  setTimeout(() => {
+  setTimeout(async () => {
     for (const card of cards.Discard) {
       const cardData = await functions.getCardData(card)
       if (cardData.type === "Obligation") {
