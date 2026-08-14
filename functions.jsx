@@ -133,23 +133,22 @@ async function iniVilainDeck() {
 const cardData = await functions.getCardData(card)
 gamedata.villain.lifepoints = cardData.startingLifepoints*/
 
-  const identityCard = cards?.Identity?.[0]
-  if (!identityCard) return
-  const cardData = await functions.getCardData(card)
-  if (!cardData) return
-  await functions.draw(6)
+
 }
 
 
 // all players have picked their deck
 function allPlayerReady() {
   if (isHost) {
-    iniVilainDeck()
+    await iniVilainDeck()
   }
-  const card = cards.Identity
-  const cardData = functions.getCardData(card)
-  functions.draw(cardData.handmax)
-  functions.setPlayerCounter(0, cardData.startLife)
+  const identityCard = cards?.Identity?.[0]
+  if (!identityCard) return
+  const cardData = await functions.getCardData(card)
+  console.log(cardData)
+  if (!cardData) return
+  await functions.draw(6)
+  //functions.setPlayerCounter(0, cardData.startLife)
 }
 
 /*
