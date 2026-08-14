@@ -133,7 +133,7 @@ async function iniVilainDeck() {
 const cardData = await functions.getCardData(card)
 gamedata.villain.lifepoints = cardData.startingLifepoints*/
 
-
+  game.data.GameplayManager.hp = 14 * game.turn.totalPlayers
 }
 
 
@@ -146,8 +146,8 @@ async function allPlayerReady() {
   if (!identityCard) return
   const cardData = await functions.getCardData(identityCard)
   if (!cardData) return
-  await functions.draw(6)
-  await functions.changeCounterValue(0, 2)
+  await functions.draw(cardData.handSize ?? 0)
+  await functions.changeCounterValue(0, cardData.health ?? 0)
   //functions.setPlayerCounter(0, cardData.startLife)
 }
 
