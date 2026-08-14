@@ -144,7 +144,7 @@ async function allPlayerReady() {
   }
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
-  const cardData = await functions.getCardData(card)
+  const cardData = await functions.getCardData(identityCard)
   console.log(cardData)
   if (!cardData) return
   await functions.draw(6)
