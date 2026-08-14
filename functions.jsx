@@ -1,5 +1,5 @@
 
-function getVillainDeckTopCard() {
+async function getVillainDeckTopCard() {
   //console.log(cards)
   //console.log("EncounterDeck:", cards?.EncounterDeck)
   const deck = cards?.EncounterDeck
@@ -16,7 +16,7 @@ function getVillainDeckTopCard() {
 }
 
 async function playVilainDeck() {
-  const card = getVillainDeckTopCard()
+  const card = await getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
   game.data.GameplayManager.boost = cardData.boost
@@ -26,7 +26,7 @@ async function playVilainDeck() {
 }
 
 async function dealEncounter() {
-  const card = getVillainDeckTopCard()
+  const card = await getVillainDeckTopCard()
   if (!card) return
   const cardData = await functions.getCardData(card)
   const type = cardData?.face?.front?.type
