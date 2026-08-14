@@ -27,7 +27,7 @@ async function dealEncounter() {
     destination = "EngagedEnemies"
   } else if (type === "Attachment") {
     destination = "VillainAttachments"
-  } else if (type === "SideScheme") {
+  } else if (type === "Side Scheme") {
     destination = "SideSchemes"
   }
 
@@ -129,10 +129,10 @@ async function allPlayerReady() {
   }
   for (const card of cards.Discard) {
     const cardData = await functions.getCardData(card)
-    console.log(cardData)
     if (cardData.type === "Obligation") {
       await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
-      console.log("gg")
+      await functions.moveCard(card, "EncounterDeck")
+      await functions.repositionCards();
     }
   }
   const identityCard = cards?.Identity?.[0]
