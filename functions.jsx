@@ -5,14 +5,12 @@ async function getVillainDeckTopCard() {
   const deck = cards?.EncounterDeck
   if (!deck || deck?.length === 0) {
     // shuffle revealed and discard
-    console.log(cards?.EncounterDiscard, cards?.Revealed)
-    cards.EncounterDeck = [...(cards?.EncounterDiscard ?? []), ...(cards?.Revealed ?? [])]
-    cards.Revealed = []
-    cards.EncounterDiscard = []
-    console.log(cards?.EncounterDiscard, cards?.Revealed, cards.EncounterDeck)
+    const newEncounterDeck = [...(cards?.EncounterDiscard ?? []), ...(cards?.Revealed ?? [])]
+    for (card of newEncounterDeck) {
+      await functions.moveCard(card, "EncounterDeck")
+    }
     await functions.shuffleSection("EncounterDeck");
     await functions.repositionCards();
-    console.log(cards?.EncounterDiscard, cards?.Revealed, cards.EncounterDeck)
     return null
   }
   return cards.EncounterDeck[cards.EncounterDeck.length - 1]
