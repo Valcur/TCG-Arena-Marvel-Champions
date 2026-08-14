@@ -110,6 +110,9 @@ async function spawnDeck(decklist) {
 }
 
 async function iniVilainDeck() {
+  for (const card of cards.EncounterDeck) {
+    card.owner = "UNOWNED"
+  }
   await spawnDeck(villainDecks.rhino);
   await spawnDeck(encounterSets.standard);
   await spawnDeck(modularEncounterSets.bombScare);
@@ -122,15 +125,7 @@ gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
 async function sendObligation() {
-  setTimeout(async () => {
-    for (const card of cards.Discard) {
-      const cardData = await functions.getCardData(card)
-      if (cardData.type === "Obligation") {
-        await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
-        await functions.moveCard(card, "EncounterDeck")
-      }
-    }
-  }, 100)
+
 }
 
 // all players have picked their deck
