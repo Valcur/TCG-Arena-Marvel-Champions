@@ -127,7 +127,12 @@ async function allPlayerReady() {
   if (game.isHost) {
     await iniVilainDeck()
   }
-  console.log(game)
+  cards.Discard.forEach((card) => {
+    const cardData = await functions.getCardData(card)
+    if (cardData.type === "Obligation") {
+      await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
+    }
+  })
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
   const cardData = await functions.getCardData(identityCard)
