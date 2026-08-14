@@ -122,12 +122,12 @@ gamedata.villain.lifepoints = cardData.startingLifepoints*/
 }
 
 async function sendObligation() {
+        await functions.repositionCards();
     for (const card of cards.Discard) {
     const cardData = await functions.getCardData(card)
     if (cardData.type === "Obligation") {
       await functions.giveCardTo(card, "UNOWNED", "EncounterDeck")
       await functions.moveCard(card, "EncounterDeck")
-      await functions.repositionCards();
     }
   }
 }
