@@ -38,9 +38,7 @@ async function dealEncounter() {
     destination = "VillainAttachments"
   } else if (type === "Side Scheme") {
     destination = "SideSchemes"
-    card.counters[0] = {
-      value: 2
-    }
+    await functions.updateCards([card], { counters: [{value: 2}, {}] })
   }
 
   await functions.moveCard(card, destination)
@@ -168,9 +166,17 @@ async function allPlayerReady() {
   await functions.changeCounterValue(0, cardData.health ?? 0)
 }
 
+async function emptyRevealed() {
+  if (!game.isHost) return
+  
+  for (const card of cards?.Revealed ?? []) {
+      await functions.moveCard(card, "EncounterDiscard", { noLogs: true })
+    }
+    await functions.repositionCards()
+}
+
 async function readyAll() {
   const allCards = [
-    ...(cards?.EngagedEnemies ?? []),
     ...(cards?.Allies ?? []),
     ...(cards?.Supports ?? []),
     ...(cards?.Upgrades ?? []),
