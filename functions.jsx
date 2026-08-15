@@ -184,7 +184,7 @@ async function readyAll() {
 async function processCardUpdate() {
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
-    const enemies = cards?.EngagedEnemies
+    const enemies = cards?.EngagedEnemies ?? []
     const isHero = identityCard.isFlipped
     let total = 0
 
