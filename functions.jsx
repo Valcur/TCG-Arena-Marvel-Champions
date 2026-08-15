@@ -105,6 +105,9 @@ async function spawnDeck(decklist) {
           targetSection = "MainScheme"
         }
         await functions.createCard(card.id, targetSection);
+        if (targetSection === "MainScheme") {
+          await functions.updateCards([card], { isFlipped: true })
+        }
       }
     }
   }
@@ -125,9 +128,6 @@ async function iniVilainDeck() {
 
 // All players have picked their deck
 async function allPlayerReady() {
-  if (game.isHost) {
-    await iniVilainDeck()
-  }
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
   const cardData = await functions.getCardData(identityCard)
