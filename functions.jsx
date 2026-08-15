@@ -168,10 +168,10 @@ async function processCardUpdate() {
     const enemies = cards?.EngagedEnemies ?? []
     const isHero = identityCard.isFlipped
     let total = 0
-    console.log(enemies)
+    console.log(enemies, isHero)
     for (const card of enemies) {
       const cardData = await functions.getCardData(card)
-      total += isHero ? cardData?.attack : cardData?.thwart
+      total += isHero ? cardData?.attack : cardData?.scheme
     }
     console.log("total", total)
 
