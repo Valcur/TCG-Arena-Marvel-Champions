@@ -168,6 +168,25 @@ async function allPlayerReady() {
   await functions.changeCounterValue(0, cardData.health ?? 0)
 }
 
+async function readyAll() {
+  for (const card of cards?.EngagedEnemies) {
+    card.isTapped = false
+  }
+  for (const card of cards?.Allies) {
+    card.isTapped = false
+  }
+  for (const card of cards?.Supports) {
+    card.isTapped = false
+  }
+  for (const card of cards?.Upgrades) {
+    card.isTapped = false
+  }
+  for (const card of cards?.Identity) {
+    card.isTapped = false
+  }
+  await functions.repositionCards()
+}
+
 /*
 FIN DE LA PHASE DES JOUEURS
 Pour mettre fin à la phase des Joueurs, respectez les étapes
