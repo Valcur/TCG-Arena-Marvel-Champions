@@ -169,22 +169,16 @@ async function allPlayerReady() {
 }
 
 async function readyAll() {
-  for (const card of cards?.EngagedEnemies) {
-    card.isTapped = false
-  }
-  for (const card of cards?.Allies) {
-    card.isTapped = false
-  }
-  for (const card of cards?.Supports) {
-    card.isTapped = false
-  }
-  for (const card of cards?.Upgrades) {
-    card.isTapped = false
-  }
-  for (const card of cards?.Identity) {
-    card.isTapped = false
-  }
-  await functions.repositionCards()
+  const allCards = [
+    ...(cards?.EngagedEnemies ?? []),
+    ...(cards?.Allies ?? []),
+    ...(cards?.Supports ?? []),
+    ...(cards?.Upgrades ?? []),
+    ...(cards?.Identity ?? []),
+  ];
+
+  await functions.updateCards(allCards, { isTapped: false });
+  await functions.repositionCards();
 }
 
 /*
