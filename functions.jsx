@@ -104,9 +104,10 @@ async function spawnDeck(decklist) {
         } else if (category === "Main Scheme") {
           targetSection = "MainScheme"
         }
-        await functions.createCard(card.id, targetSection);
+        const newCard = await functions.createCard(card.id, targetSection);
+        await functions.updateCards([newCard], { counters: [{ value: 2 }, {}] })
         if (targetSection === "MainScheme") {
-          await functions.updateCards([card], { isFlipped: true })
+          await functions.updateCards([newCard], { isFlipped: true })
         }
       }
     }
