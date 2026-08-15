@@ -1,832 +1,870 @@
 [
-    {
-        "game": "Star Wars Unlimited",
-        "lastModifiedAt": "2025-10-18T18:26:09.560Z",
-        "deckList": {
-          "categoriesOrder": [
-            "Leader",
-            "Base",
-            "Event",
-            "Unit - Space",
-            "Unit - Ground"
-          ],
-          "Unit - Ground": [
-            {
-              "count": 3,
-              "id": "IBH_57"
-            },
-            {
-              "count": 3,
-              "id": "IBH_63"
-            },
-            {
-              "count": 1,
-              "id": "IBH_76"
-            },
-            {
-              "count": 2,
-              "id": "IBH_100"
-            },
-            {
-              "count": 2,
-              "id": "IBH_64"
-            },
-            {
-              "count": 2,
-              "id": "IBH_56"
-            },
-            {
-              "count": 2,
-              "id": "IBH_68"
-            },
-            {
-              "count": 3,
-              "id": "IBH_101"
-            },
-            {
-              "count": 2,
-              "id": "IBH_69"
-            },
-            {
-              "count": 1,
-              "id": "IBH_99"
-            },
-            {
-              "count": 3,
-              "id": "IBH_103"
-            },
-            {
-              "count": 2,
-              "id": "IBH_60"
-            },
-            {
-              "count": 2,
-              "id": "IBH_82"
-            }
-          ],
-          "Base": [
-            {
-              "count": 1,
-              "id": "IBH_54"
-            }
-          ],
-          "Unit - Space": [
-            {
-              "count": 3,
-              "id": "IBH_78"
-            },
-            {
-              "count": 3,
-              "id": "IBH_58"
-            },
-            {
-              "count": 2,
-              "id": "IBH_79"
-            },
-            {
-              "count": 1,
-              "id": "IBH_72"
-            },
-            {
-              "count": 3,
-              "id": "IBH_75"
-            }
-          ],
-          "Leader": [
-            {
-              "count": 1,
-              "id": "IBH_53"
-            }
-          ],
-          "Sideboard": [],
-          "Event": [
-            {
-              "count": 1,
-              "id": "IBH_95"
-            },
-            {
-              "count": 2,
-              "id": "IBH_61"
-            },
-            {
-              "count": 2,
-              "id": "IBH_66"
-            },
-            {
-              "count": 1,
-              "id": "IBH_104"
-            },
-            {
-              "count": 2,
-              "id": "IBH_59"
-            },
-            {
-              "count": 2,
-              "id": "IBH_102"
-            }
-          ]
+  {
+    "title": "Captain Marvel",
+    "id": "d30673b0-9fe8-4959-95e0-823284a1a899",
+    "cardCount": 46,
+    "createdAt": "2026-08-15T13:55:05.873Z",
+    "lastModifiedAt": "2026-08-15T14:10:48.971Z",
+    "game": "Marvel Champions",
+    "format": [
+      "Hero"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Alter-Ego",
+        "Support",
+        "Upgrade",
+        "Event",
+        "Resource",
+        "Ally",
+        "Nemesis"
+      ],
+      "Alter-Ego": [
+        {
+          "count": 1,
+          "id": "01010a"
+        }
+      ],
+      "Support": [
+        {
+          "count": 1,
+          "id": "01015"
         },
-        "createdAt": "2025-10-18T18:07:15.813Z",
-        "id": "628d5fe7-691f-42f0-893a-57a0c0d973c7",
-        "title": "Darth Vader - Intro Battle: Hoth",
-        "cardCount": 52,
-        "format": [
-          "Premier"
-        ]
-      }, {
-        "cardCount": 52,
-        "title": "Leia - Intro Battle: Hoth",
-        "createdAt": "2025-09-17T12:32:03.999Z",
-        "id": "067b48c1-bddb-4c1a-bfab-6d3a016a672f",
-        "lastModifiedAt": "2025-10-18T18:26:19.404Z",
-        "game": "Star Wars Unlimited",
-        "format": [
-          "Premier"
-        ],
-        "deckList": {
-          "Leader": [
-            {
-              "count": 1,
-              "id": "IBH_1"
-            }
-          ],
-          "Event": [
-            {
-              "count": 1,
-              "id": "IBH_52"
-            },
-            {
-              "count": 1,
-              "id": "IBH_13"
-            },
-            {
-              "count": 2,
-              "id": "IBH_21"
-            },
-            {
-              "count": 2,
-              "id": "IBH_25"
-            },
-            {
-              "count": 2,
-              "id": "IBH_39"
-            },
-            {
-              "count": 2,
-              "id": "IBH_18"
-            }
-          ],
-          "Unit - Ground": [
-            {
-              "count": 3,
-              "id": "IBH_29"
-            },
-            {
-              "count": 3,
-              "id": "IBH_15"
-            },
-            {
-              "count": 3,
-              "id": "IBH_17"
-            },
-            {
-              "count": 2,
-              "id": "IBH_11"
-            },
-            {
-              "count": 1,
-              "id": "IBH_20"
-            },
-            {
-              "count": 2,
-              "id": "IBH_16"
-            },
-            {
-              "count": 3,
-              "id": "IBH_37"
-            },
-            {
-              "count": 2,
-              "id": "IBH_10"
-            },
-            {
-              "count": 2,
-              "id": "IBH_23"
-            },
-            {
-              "count": 3,
-              "id": "IBH_43"
-            },
-            {
-              "count": 2,
-              "id": "IBH_3"
-            },
-            {
-              "count": 2,
-              "id": "IBH_19"
-            }
-          ],
-          "Base": [
-            {
-              "count": 1,
-              "id": "IBH_2"
-            }
-          ],
-          "Sideboard": [],
-          "categoriesOrder": [
-            "Leader",
-            "Base",
-            "Event",
-            "Unit - Ground",
-            "Unit - Space"
-          ],
-          "Unit - Space": [
-            {
-              "count": 3,
-              "id": "IBH_24"
-            },
-            {
-              "count": 1,
-              "id": "IBH_31"
-            },
-            {
-              "count": 3,
-              "id": "IBH_22"
-            },
-            {
-              "count": 3,
-              "id": "IBH_12"
-            },
-            {
-              "count": 2,
-              "id": "IBH_14"
-            }
-          ]
+        {
+          "count": 1,
+          "id": "01073"
+        },
+        {
+          "count": 1,
+          "id": "01091"
+        },
+        {
+          "count": 1,
+          "id": "01092"
         }
-      }, {
-        "title": "Qui-Gon Jinn",
-        "id": "Qui-Gon Jinn",
-        "game": "Star Wars Unlimited",
-        "format": "Premier",
-        "cardCount": 52,
-        "createdAt": "2025-07-03T07:52:32.083Z",
-        "lastModifiedAt": "2025-07-03T08:01:28.415Z",
-        "deckList": {
-            "categoriesOrder": [
-                "Unit - Ground",
-                "Unit - Space",
-                "Event",
-                "Upgrade",
-                "Base",
-                "Leader"
-            ],
-            "Sideboard": [],
-            "Unit - Ground": [
-                {
-                    "count": 1,
-                    "id": "JTL_201"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_190"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_255"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_199"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_196"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_100"
-                },
-                {
-                    "count": 1,
-                    "id": "LOF_249"
-                },
-                {
-                    "count": 1,
-                    "id": "SHD_096"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_111"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_096"
-                },
-                {
-                    "count": 2,
-                    "id": "TWI_193"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_242"
-                },
-                {
-                    "count": 2,
-                    "id": "TWI_217"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_193"
-                }
-            ],
-            "Unit - Space": [
-                {
-                    "count": 2,
-                    "id": "LOF_194"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_099"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_197"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_198"
-                }
-            ],
-            "Event": [
-                {
-                    "count": 2,
-                    "id": "LOF_218"
-                },
-                {
-                    "count": 1,
-                    "id": "LOF_104"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_219"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_227"
-                }
-            ],
-            "Upgrade": [
-                {
-                    "count": 3,
-                    "id": "LOF_201"
-                }
-            ],
-            "Base": [
-                {
-                    "count": 1,
-                    "id": "LOF_023"
-                }
-            ],
-            "Leader": [
-                {
-                    "count": 1,
-                    "id": "LOF_016"
-                }
-            ]
+      ],
+      "Upgrade": [
+        {
+          "count": 1,
+          "id": "01016"
+        },
+        {
+          "count": 2,
+          "id": "01017"
+        },
+        {
+          "count": 2,
+          "id": "01018"
+        },
+        {
+          "count": 2,
+          "id": "01074"
+        },
+        {
+          "count": 1,
+          "id": "01093"
         }
-    },
-    {
-        "title": "Darth Maul",
-        "id": "Darth Maul",
-        "game": "Star Wars Unlimited",
-        "format": "Premier",
-        "cardCount": 52,
-        "createdAt": "2025-07-03T08:01:54.240Z",
-        "lastModifiedAt": "2025-07-03T08:04:11.182Z",
-        "deckList": {
-            "categoriesOrder": [
-                "Unit - Ground",
-                "Unit - Space",
-                "Event",
-                "Upgrade",
-                "Base",
-                "Leader"
-            ],
-            "Sideboard": [],
-            "Unit - Ground": [
-                {
-                    "count": 2,
-                    "id": "LOF_129"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_067"
-                },
-                {
-                    "count": 1,
-                    "id": "TWI_138"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_039"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_231"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_156"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_031"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_229"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_160"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_059"
-                },
-                {
-                    "count": 1,
-                    "id": "LOF_063"
-                },
-                {
-                    "count": 1,
-                    "id": "LOF_038"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_137"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_035"
-                },
-                {
-                    "count": 2,
-                    "id": "LOF_136"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_154"
-                }
-            ],
-            "Unit - Space": [
-                {
-                    "count": 3,
-                    "id": "LOF_233"
-                },
-                {
-                    "count": 3,
-                    "id": "LOF_131"
-                }
-            ],
-            "Event": [
-                {
-                    "count": 3,
-                    "id": "LOF_041"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_139"
-                }
-            ],
-            "Upgrade": [
-                {
-                    "count": 3,
-                    "id": "LOF_140"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_137"
-                },
-                {
-                    "count": 1,
-                    "id": "LOF_138"
-                }
-            ],
-            "Base": [
-                {
-                    "count": 1,
-                    "id": "LOF_021"
-                }
-            ],
-            "Leader": [
-                {
-                    "count": 1,
-                    "id": "LOF_009"
-                }
-            ]
+      ],
+      "Event": [
+        {
+          "count": 3,
+          "id": "01012"
+        },
+        {
+          "count": 3,
+          "id": "01013"
+        },
+        {
+          "count": 2,
+          "id": "01069"
+        },
+        {
+          "count": 2,
+          "id": "01070"
+        },
+        {
+          "count": 2,
+          "id": "01071"
+        },
+        {
+          "count": 1,
+          "id": "01085"
+        },
+        {
+          "count": 1,
+          "id": "01086"
+        },
+        {
+          "count": 1,
+          "id": "01087"
         }
-    },
-    {
-        "title": "Darth Vader",
-        "id": "Darth Vader",
-        "game": "SWU",
-        "format": "Premier",
-        "cardCount": 52,
-        "createdAt": "2025-04-15T17:22:34.991Z",
-        "lastModifiedAt": "2025-04-15T17:27:47.721Z",
-        "deckList": {
-            "categoriesOrder": [
-                "Leader",
-                "Base",
-                "Unit - Ground",
-                "Unit - Space",
-                "Event",
-                "Upgrade"
-            ],
-            "Leader": [
-                {
-                    "count": 1,
-                    "id": "SOR_010"
-                }
-            ],
-            "Base": [
-                {
-                    "count": 1,
-                    "id": "SOR_023"
-                }
-            ],
-            "Unit - Ground": [
-                {
-                    "count": 3,
-                    "id": "SOR_128"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_226"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_129"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_079"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_130"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_227"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_228"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_229"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_230"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_083"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_084"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_232"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_088"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_135"
-                }
-            ],
-            "Unit - Space": [
-                {
-                    "count": 2,
-                    "id": "SOR_225"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_231"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_132"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_086"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_089"
-                }
-            ],
-            "Event": [
-                {
-                    "count": 1,
-                    "id": "SOR_123"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_139"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_233"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_172"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_126"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_234"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_092"
-                }
-            ],
-            "Upgrade": [
-                {
-                    "count": 3,
-                    "id": "SOR_136"
-                }
-            ]
+      ],
+      "Resource": [
+        {
+          "count": 2,
+          "id": "01014"
+        },
+        {
+          "count": 2,
+          "id": "01072"
+        },
+        {
+          "count": 1,
+          "id": "01088"
+        },
+        {
+          "count": 1,
+          "id": "01089"
+        },
+        {
+          "count": 1,
+          "id": "01090"
         }
-    },
-    {
-        "title": "Luke Skywalker",
-        "id": "Luke Skywalker",
-        "game": "SWU",
-        "format": "Premier",
-        "cardCount": 52,
-        "createdAt": "2025-04-15T17:15:36.528Z",
-        "lastModifiedAt": "2025-04-15T17:21:36.937Z",
-        "deckList": {
-            "categoriesOrder": [
-                "Unit - Ground",
-                "Unit - Space",
-                "Event",
-                "Upgrade",
-                "Leader",
-                "Base"
-            ],
-            "Unit - Ground": [
-                {
-                    "count": 1,
-                    "id": "SOR_059"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_236"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_238"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_239"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_189"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_240"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_045"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_063"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_194"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_046"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_242"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_244"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_196"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_048"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_049"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_198"
-                }
-            ],
-            "Unit - Space": [
-                {
-                    "count": 3,
-                    "id": "SOR_237"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_044"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_241"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_066"
-                },
-                {
-                    "count": 1,
-                    "id": "SOR_195"
-                }
-            ],
-            "Event": [
-                {
-                    "count": 1,
-                    "id": "SOR_217"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_074"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_218"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_220"
-                },
-                {
-                    "count": 2,
-                    "id": "SOR_222"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_078"
-                }
-            ],
-            "Upgrade": [
-                {
-                    "count": 1,
-                    "id": "SOR_069"
-                },
-                {
-                    "count": 3,
-                    "id": "SOR_053"
-                }
-            ],
-            "Leader": [
-                {
-                    "count": 1,
-                    "id": "SOR_005"
-                }
-            ],
-            "Base": [
-                {
-                    "count": 1,
-                    "id": "SOR_029"
-                }
-            ]
+      ],
+      "Ally": [
+        {
+          "count": 1,
+          "id": "01011"
+        },
+        {
+          "count": 1,
+          "id": "01066"
+        },
+        {
+          "count": 1,
+          "id": "01067"
+        },
+        {
+          "count": 1,
+          "id": "01068"
+        },
+        {
+          "count": 1,
+          "id": "01083"
+        },
+        {
+          "count": 1,
+          "id": "01084"
         }
+      ],
+      "Nemesis": [
+        {
+          "count": 1,
+          "id": "01177"
+        },
+        {
+          "count": 1,
+          "id": "01176"
+        },
+        {
+          "count": 2,
+          "id": "01178"
+        },
+        {
+          "count": 1,
+          "id": "01179"
+        }
+      ]
     }
+  },
+  {
+    "title": "Spider Man",
+    "id": "03659cb3-22c5-4a49-ab8b-61a4de7c3dd0",
+    "cardCount": 47,
+    "createdAt": "2026-08-15T13:50:36.100Z",
+    "lastModifiedAt": "2026-08-15T13:54:40.215Z",
+    "game": "Marvel Champions",
+    "format": [
+      "Hero"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Alter-Ego",
+        "Support",
+        "Event",
+        "Ally",
+        "Upgrade",
+        "Resource",
+        "Nemesis",
+        "Obligation"
+      ],
+      "Alter-Ego": [
+        {
+          "count": 1,
+          "id": "01001a"
+        }
+      ],
+      "Support": [
+        {
+          "count": 1,
+          "id": "01006"
+        },
+        {
+          "count": 2,
+          "id": "01063"
+        },
+        {
+          "count": 2,
+          "id": "01064"
+        },
+        {
+          "count": 1,
+          "id": "01091"
+        },
+        {
+          "count": 1,
+          "id": "01092"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "01003"
+        },
+        {
+          "count": 2,
+          "id": "01004"
+        },
+        {
+          "count": 3,
+          "id": "01005"
+        },
+        {
+          "count": 2,
+          "id": "01060"
+        },
+        {
+          "count": 2,
+          "id": "01061"
+        },
+        {
+          "count": 1,
+          "id": "01085"
+        },
+        {
+          "count": 1,
+          "id": "01086"
+        },
+        {
+          "count": 1,
+          "id": "01087"
+        }
+      ],
+      "Ally": [
+        {
+          "count": 1,
+          "id": "01002"
+        },
+        {
+          "count": 1,
+          "id": "01058"
+        },
+        {
+          "count": 1,
+          "id": "01059"
+        },
+        {
+          "count": 1,
+          "id": "01083"
+        },
+        {
+          "count": 1,
+          "id": "01084"
+        }
+      ],
+      "Upgrade": [
+        {
+          "count": 2,
+          "id": "01007"
+        },
+        {
+          "count": 2,
+          "id": "01008"
+        },
+        {
+          "count": 2,
+          "id": "01009"
+        },
+        {
+          "count": 2,
+          "id": "01065"
+        },
+        {
+          "count": 1,
+          "id": "01093"
+        }
+      ],
+      "Resource": [
+        {
+          "count": 2,
+          "id": "01062"
+        },
+        {
+          "count": 1,
+          "id": "01088"
+        },
+        {
+          "count": 1,
+          "id": "01089"
+        },
+        {
+          "count": 1,
+          "id": "01090"
+        }
+      ],
+      "Nemesis": [
+        {
+          "count": 1,
+          "id": "01167"
+        },
+        {
+          "count": 1,
+          "id": "01166"
+        },
+        {
+          "count": 1,
+          "id": "01169"
+        },
+        {
+          "count": 2,
+          "id": "01168"
+        }
+      ],
+      "Obligation": [
+        {
+          "count": 1,
+          "id": "01165"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Iron Man",
+    "id": "7ce62f65-da56-41f9-9c2e-24b7de1f5bde",
+    "cardCount": 47,
+    "createdAt": "2026-08-15T13:45:47.793Z",
+    "lastModifiedAt": "2026-08-15T14:14:27.196Z",
+    "game": "Marvel Champions",
+    "format": [
+      "Hero"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Alter-Ego",
+        "Upgrade",
+        "Support",
+        "Event",
+        "Ally",
+        "Resource",
+        "Nemesis",
+        "Obligation"
+      ],
+      "Alter-Ego": [
+        {
+          "count": 1,
+          "id": "01029a"
+        }
+      ],
+      "Upgrade": [
+        {
+          "count": 1,
+          "id": "01035"
+        },
+        {
+          "count": 1,
+          "id": "01036"
+        },
+        {
+          "count": 1,
+          "id": "01037"
+        },
+        {
+          "count": 2,
+          "id": "01038"
+        },
+        {
+          "count": 2,
+          "id": "01039"
+        },
+        {
+          "count": 2,
+          "id": "01057"
+        },
+        {
+          "count": 1,
+          "id": "01093"
+        }
+      ],
+      "Support": [
+        {
+          "count": 1,
+          "id": "01033"
+        },
+        {
+          "count": 1,
+          "id": "01034"
+        },
+        {
+          "count": 2,
+          "id": "01056"
+        },
+        {
+          "count": 1,
+          "id": "01091"
+        },
+        {
+          "count": 1,
+          "id": "01092"
+        }
+      ],
+      "Event": [
+        {
+          "count": 3,
+          "id": "01031"
+        },
+        {
+          "count": 2,
+          "id": "01032"
+        },
+        {
+          "count": 2,
+          "id": "01052"
+        },
+        {
+          "count": 2,
+          "id": "01053"
+        },
+        {
+          "count": 2,
+          "id": "01054"
+        },
+        {
+          "count": 1,
+          "id": "01085"
+        },
+        {
+          "count": 1,
+          "id": "01086"
+        },
+        {
+          "count": 1,
+          "id": "01087"
+        }
+      ],
+      "Ally": [
+        {
+          "count": 1,
+          "id": "01030"
+        },
+        {
+          "count": 1,
+          "id": "01050"
+        },
+        {
+          "count": 1,
+          "id": "01051"
+        },
+        {
+          "count": 1,
+          "id": "01083"
+        },
+        {
+          "count": 1,
+          "id": "01084"
+        }
+      ],
+      "Resource": [
+        {
+          "count": 2,
+          "id": "01055"
+        },
+        {
+          "count": 1,
+          "id": "01088"
+        },
+        {
+          "count": 1,
+          "id": "01089"
+        },
+        {
+          "count": 1,
+          "id": "01090"
+        }
+      ],
+      "Nemesis": [
+        {
+          "count": 1,
+          "id": "01172"
+        },
+        {
+          "count": 1,
+          "id": "01171"
+        },
+        {
+          "count": 2,
+          "id": "01173"
+        },
+        {
+          "count": 1,
+          "id": "01174"
+        }
+      ],
+      "Obligation": [
+        {
+          "count": 1,
+          "id": "01170"
+        }
+      ]
+    }
+  },
+  {
+    "title": "She Hulk",
+    "id": "20dc7cbf-8747-4370-9482-ed97453a728f",
+    "cardCount": 47,
+    "createdAt": "2026-08-15T14:11:37.982Z",
+    "lastModifiedAt": "2026-08-15T14:12:09.504Z",
+    "game": "Marvel Champions",
+    "format": [
+      "Hero"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Alter-Ego",
+        "Upgrade",
+        "Event",
+        "Support",
+        "Ally",
+        "Resource",
+        "Nemesis",
+        "Obligation"
+      ],
+      "Alter-Ego": [
+        {
+          "count": 1,
+          "id": "01019a"
+        }
+      ],
+      "Upgrade": [
+        {
+          "count": 2,
+          "id": "01027"
+        },
+        {
+          "count": 2,
+          "id": "01028"
+        },
+        {
+          "count": 2,
+          "id": "01057"
+        },
+        {
+          "count": 1,
+          "id": "01093"
+        }
+      ],
+      "Event": [
+        {
+          "count": 1,
+          "id": "01021"
+        },
+        {
+          "count": 2,
+          "id": "01022"
+        },
+        {
+          "count": 2,
+          "id": "01023"
+        },
+        {
+          "count": 3,
+          "id": "01024"
+        },
+        {
+          "count": 1,
+          "id": "01025"
+        },
+        {
+          "count": 2,
+          "id": "01052"
+        },
+        {
+          "count": 2,
+          "id": "01053"
+        },
+        {
+          "count": 2,
+          "id": "01054"
+        },
+        {
+          "count": 1,
+          "id": "01085"
+        },
+        {
+          "count": 1,
+          "id": "01086"
+        },
+        {
+          "count": 1,
+          "id": "01087"
+        }
+      ],
+      "Support": [
+        {
+          "count": 1,
+          "id": "01026"
+        },
+        {
+          "count": 2,
+          "id": "01056"
+        },
+        {
+          "count": 1,
+          "id": "01091"
+        },
+        {
+          "count": 1,
+          "id": "01092"
+        }
+      ],
+      "Ally": [
+        {
+          "count": 1,
+          "id": "01020"
+        },
+        {
+          "count": 1,
+          "id": "01050"
+        },
+        {
+          "count": 1,
+          "id": "01051"
+        },
+        {
+          "count": 1,
+          "id": "01083"
+        },
+        {
+          "count": 1,
+          "id": "01084"
+        }
+      ],
+      "Resource": [
+        {
+          "count": 2,
+          "id": "01055"
+        },
+        {
+          "count": 1,
+          "id": "01088"
+        },
+        {
+          "count": 1,
+          "id": "01089"
+        },
+        {
+          "count": 1,
+          "id": "01090"
+        }
+      ],
+      "Nemesis": [
+        {
+          "count": 1,
+          "id": "01162"
+        },
+        {
+          "count": 1,
+          "id": "01161"
+        },
+        {
+          "count": 1,
+          "id": "01163"
+        },
+        {
+          "count": 2,
+          "id": "01164"
+        }
+      ],
+      "Obligation": [
+        {
+          "count": 1,
+          "id": "01160"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Black Panther",
+    "id": "35a9260c-f983-4ba7-9834-90202392b342",
+    "cardCount": 47,
+    "createdAt": "2026-08-15T14:12:39.450Z",
+    "lastModifiedAt": "2026-08-15T14:13:16.801Z",
+    "game": "Marvel Champions",
+    "format": [
+      "Hero"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Alter-Ego",
+        "Event",
+        "Upgrade",
+        "Ally",
+        "Support",
+        "Resource",
+        "Nemesis",
+        "Obligation"
+      ],
+      "Alter-Ego": [
+        {
+          "count": 1,
+          "id": "01040a"
+        }
+      ],
+      "Event": [
+        {
+          "count": 1,
+          "id": "01042"
+        },
+        {
+          "count": 5,
+          "id": "01043a"
+        },
+        {
+          "count": 2,
+          "id": "01077"
+        },
+        {
+          "count": 2,
+          "id": "01078"
+        },
+        {
+          "count": 1,
+          "id": "01085"
+        },
+        {
+          "count": 1,
+          "id": "01086"
+        },
+        {
+          "count": 1,
+          "id": "01087"
+        }
+      ],
+      "Upgrade": [
+        {
+          "count": 1,
+          "id": "01046"
+        },
+        {
+          "count": 1,
+          "id": "01047"
+        },
+        {
+          "count": 1,
+          "id": "01048"
+        },
+        {
+          "count": 1,
+          "id": "01049"
+        },
+        {
+          "count": 2,
+          "id": "01081"
+        },
+        {
+          "count": 2,
+          "id": "01082"
+        },
+        {
+          "count": 1,
+          "id": "01093"
+        }
+      ],
+      "Ally": [
+        {
+          "count": 1,
+          "id": "01041"
+        },
+        {
+          "count": 1,
+          "id": "01075"
+        },
+        {
+          "count": 1,
+          "id": "01076"
+        },
+        {
+          "count": 1,
+          "id": "01083"
+        },
+        {
+          "count": 1,
+          "id": "01084"
+        }
+      ],
+      "Support": [
+        {
+          "count": 1,
+          "id": "01045"
+        },
+        {
+          "count": 2,
+          "id": "01080"
+        },
+        {
+          "count": 1,
+          "id": "01091"
+        },
+        {
+          "count": 1,
+          "id": "01092"
+        }
+      ],
+      "Resource": [
+        {
+          "count": 3,
+          "id": "01044"
+        },
+        {
+          "count": 2,
+          "id": "01079"
+        },
+        {
+          "count": 1,
+          "id": "01088"
+        },
+        {
+          "count": 1,
+          "id": "01089"
+        },
+        {
+          "count": 1,
+          "id": "01090"
+        }
+      ],
+      "Nemesis": [
+        {
+          "count": 1,
+          "id": "01157"
+        },
+        {
+          "count": 1,
+          "id": "01156"
+        },
+        {
+          "count": 1,
+          "id": "01158"
+        },
+        {
+          "count": 2,
+          "id": "01159"
+        }
+      ],
+      "Obligation": [
+        {
+          "count": 1,
+          "id": "01155"
+        }
+      ]
+    }
+  }
 ]
