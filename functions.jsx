@@ -184,14 +184,18 @@ async function readyAll() {
 async function processCardUpdate() {
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
+    const enemies = cards?.EngagedEnemies
+    const isHero = identityCard.isFlipped
+    let total = 0
 
-    if (identityCard.isFlipped) {
-      // Hero face
-      game.data.LocalGameplayData.total = 3
-    } else {
-      // Alter Ego face
-      game.data.LocalGameplayData.total = 5
-    }
+    let total = 0
+    for (const card of enemies) {
+      const cardData = await functions.getCardData(card)
+      total += isHero ? cardData?.attack : cardData?.thwart
+      }
+
+    game.data.LocalGameplayData.total = total
+    game.data.LocalGameplayData.isHero = isHero
   }
 }
 
