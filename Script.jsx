@@ -134,6 +134,8 @@ for (const card of cards) {
         star: card.boost_star === true,
         handSize: card.hand_size ?? 0,
         health: card.health ?? 0,
+        thwart: card.thwart ?? 0,
+        attack: card.attack ?? 0,
 
 
         traits: frontSource.traits

@@ -27,6 +27,8 @@
     "star": false,
     "handSize": 5,
     "health": 10,
+    "thwart": 1,
+    "attack": 2,
     "traits": [
       "Genius"
     ]
@@ -52,6 +54,8 @@
     "star": false,
     "handSize": 0,
     "health": 2,
+    "thwart": 1,
+    "attack": 1,
     "traits": [
       "Hero for Hire"
     ]
@@ -77,6 +81,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Defense",
       "Skill"
@@ -103,6 +109,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Superpower"
     ]
@@ -128,6 +136,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Aerial",
       "Attack",
@@ -155,6 +165,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Persona"
     ]
@@ -180,6 +192,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Item",
       "Tech"
@@ -206,6 +220,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Item",
       "Tech"
@@ -232,6 +248,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -264,6 +282,8 @@
     "star": false,
     "handSize": 5,
     "health": 12,
+    "thwart": 2,
+    "attack": 2,
     "traits": [
       "S",
       "H",
@@ -295,6 +315,8 @@
     "star": false,
     "handSize": 0,
     "health": 2,
+    "thwart": 2,
+    "attack": 2,
     "traits": [
       "Avenger",
       "Spy"
@@ -321,6 +343,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Thwart"
     ]
@@ -346,6 +370,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack",
       "Superpower"
@@ -372,6 +398,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01015": {
@@ -395,6 +423,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location",
       "S",
@@ -426,6 +456,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -452,6 +484,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Superpower"
     ]
@@ -477,6 +511,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Superpower"
     ]
@@ -509,6 +545,8 @@
     "star": false,
     "handSize": 4,
     "health": 15,
+    "thwart": 1,
+    "attack": 3,
     "traits": [
       "Attorney",
       "Gamma"
@@ -535,6 +573,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 2,
+    "attack": 1,
     "traits": [
       "Avenger"
     ]
@@ -560,6 +600,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack",
       "Superpower"
@@ -586,6 +628,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Superpower"
     ]
@@ -611,6 +655,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Skill",
       "Thwart"
@@ -637,6 +683,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Skill"
     ]
@@ -662,6 +710,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01026": {
@@ -685,6 +735,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location"
     ]
@@ -710,6 +762,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Skill"
     ]
@@ -735,6 +789,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Superpower"
     ]
@@ -767,6 +823,8 @@
     "star": false,
     "handSize": 1,
     "health": 9,
+    "thwart": 2,
+    "attack": 1,
     "traits": [
       "Genius"
     ]
@@ -792,6 +850,8 @@
     "star": false,
     "handSize": 0,
     "health": 4,
+    "thwart": 1,
+    "attack": 2,
     "traits": [
       "S",
       "H",
@@ -823,6 +883,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack",
       "Superpower"
@@ -849,6 +911,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack"
     ]
@@ -874,6 +938,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Persona"
     ]
@@ -899,6 +965,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location"
     ]
@@ -924,6 +992,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Item",
       "Tech"
@@ -950,6 +1020,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -976,6 +1048,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1002,6 +1076,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1028,6 +1104,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1061,6 +1139,8 @@
     "star": false,
     "handSize": 5,
     "health": 11,
+    "thwart": 2,
+    "attack": 2,
     "traits": [
       "King",
       "Wakanda"
@@ -1087,6 +1167,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 1,
+    "attack": 1,
     "traits": [
       "Genius",
       "Wakanda"
@@ -1113,6 +1195,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01043a": {
@@ -1136,6 +1220,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Tactic"
     ]
@@ -1161,6 +1247,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Tactic"
     ]
@@ -1186,6 +1274,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Tactic"
     ]
@@ -1211,6 +1301,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Tactic"
     ]
@@ -1236,6 +1328,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01045": {
@@ -1259,6 +1353,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location",
       "Wakanda"
@@ -1285,6 +1381,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1311,6 +1409,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1337,6 +1437,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Black Panther",
       "Skill"
@@ -1363,6 +1465,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor",
       "Black Panther"
@@ -1389,6 +1493,8 @@
     "star": false,
     "handSize": 0,
     "health": 5,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Avenger",
       "Gamma"
@@ -1415,6 +1521,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 1,
+    "attack": 2,
     "traits": [
       "Avenger"
     ]
@@ -1440,6 +1548,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Thwart"
     ]
@@ -1465,6 +1575,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack"
     ]
@@ -1490,6 +1602,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack"
     ]
@@ -1515,6 +1629,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01056": {
@@ -1538,6 +1654,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "S",
       "H",
@@ -1568,6 +1686,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Skill"
     ]
@@ -1593,6 +1713,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 2,
+    "attack": 2,
     "traits": [
       "Defender"
     ]
@@ -1618,6 +1740,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 1,
+    "attack": 2,
     "traits": [
       "Defender"
     ]
@@ -1643,6 +1767,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Thwart"
     ]
@@ -1668,6 +1794,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01062": {
@@ -1691,6 +1819,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01063": {
@@ -1714,6 +1844,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location"
     ]
@@ -1739,6 +1871,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "S",
       "H",
@@ -1769,6 +1903,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Skill"
     ]
@@ -1794,6 +1930,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 1,
+    "attack": 1,
     "traits": [
       "Avenger"
     ]
@@ -1819,6 +1957,8 @@
     "star": false,
     "handSize": 0,
     "health": 2,
+    "thwart": 2,
+    "attack": 1,
     "traits": [
       "S",
       "H",
@@ -1849,6 +1989,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 1,
+    "attack": 2,
     "traits": [
       "Android",
       "Avenger"
@@ -1875,6 +2017,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01070": {
@@ -1898,6 +2042,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Tactic"
     ]
@@ -1923,6 +2069,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01072": {
@@ -1946,6 +2094,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01073": {
@@ -1969,6 +2119,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location",
       "S",
@@ -2000,6 +2152,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -2025,6 +2179,8 @@
     "star": false,
     "handSize": 0,
     "health": 2,
+    "thwart": 2,
+    "attack": 1,
     "traits": [
       "S",
       "H",
@@ -2056,6 +2212,8 @@
     "star": false,
     "handSize": 0,
     "health": 5,
+    "thwart": 1,
+    "attack": 2,
     "traits": [
       "Defender"
     ]
@@ -2081,6 +2239,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack"
     ]
@@ -2106,6 +2266,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01079": {
@@ -2129,6 +2291,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01080": {
@@ -2152,6 +2316,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "S",
       "H",
@@ -2182,6 +2348,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor"
     ]
@@ -2207,6 +2375,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -2232,6 +2402,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 1,
+    "attack": 1,
     "traits": [
       "S",
       "H",
@@ -2263,6 +2435,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 2,
+    "attack": 2,
     "traits": [
       "S",
       "H",
@@ -2294,6 +2468,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Thwart"
     ]
@@ -2319,6 +2495,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01087": {
@@ -2342,6 +2520,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Attack"
     ]
@@ -2367,6 +2547,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01089": {
@@ -2390,6 +2572,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01090": {
@@ -2413,6 +2597,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01091": {
@@ -2436,6 +2622,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Avenger",
       "Location"
@@ -2462,6 +2650,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Location",
       "S",
@@ -2493,6 +2683,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -2518,6 +2710,8 @@
     "star": false,
     "handSize": 0,
     "health": 14,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Brute",
       "Criminal"
@@ -2544,6 +2738,8 @@
     "star": false,
     "handSize": 0,
     "health": 15,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Brute",
       "Criminal"
@@ -2570,6 +2766,8 @@
     "star": false,
     "handSize": 0,
     "health": 16,
+    "thwart": 0,
+    "attack": 4,
     "traits": [
       "Brute",
       "Criminal"
@@ -2603,6 +2801,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01098": {
@@ -2626,6 +2826,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor"
     ]
@@ -2651,6 +2853,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 3,
     "traits": []
   },
   "01100": {
@@ -2674,6 +2878,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Weapon"
     ]
@@ -2699,6 +2905,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Hydra"
     ]
@@ -2724,6 +2932,8 @@
     "star": false,
     "handSize": 0,
     "health": 4,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Criminal",
       "Elite"
@@ -2750,6 +2960,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Criminal"
     ]
@@ -2775,6 +2987,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01105": {
@@ -2798,6 +3012,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01106": {
@@ -2821,6 +3037,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01107": {
@@ -2844,6 +3062,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01108": {
@@ -2867,6 +3087,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01109": {
@@ -2890,6 +3112,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01110": {
@@ -2913,6 +3137,8 @@
     "star": false,
     "handSize": 0,
     "health": 2,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Hydra"
     ]
@@ -2938,6 +3164,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01112": {
@@ -2961,6 +3189,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01113": {
@@ -2984,6 +3214,8 @@
     "star": false,
     "handSize": 0,
     "health": 12,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Masters of Evil"
     ]
@@ -3009,6 +3241,8 @@
     "star": false,
     "handSize": 0,
     "health": 18,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Masters of Evil"
     ]
@@ -3034,6 +3268,8 @@
     "star": false,
     "handSize": 0,
     "health": 22,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Masters of Evil"
     ]
@@ -3066,6 +3302,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01117a": {
@@ -3096,6 +3334,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01118": {
@@ -3119,6 +3359,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Weapon"
     ]
@@ -3144,6 +3386,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -3169,6 +3413,8 @@
     "star": false,
     "handSize": 0,
     "health": 3,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Mercenary"
     ]
@@ -3194,6 +3440,8 @@
     "star": true,
     "handSize": 0,
     "health": 2,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Mercenary"
     ]
@@ -3219,6 +3467,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01123": {
@@ -3242,6 +3492,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01124": {
@@ -3265,6 +3517,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01125": {
@@ -3288,6 +3542,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01126": {
@@ -3311,6 +3567,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01127": {
@@ -3334,6 +3592,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01128": {
@@ -3357,6 +3617,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01129": {
@@ -3380,6 +3642,8 @@
     "star": true,
     "handSize": 0,
     "health": 7,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Elite",
       "Masters of Evil"
@@ -3406,6 +3670,8 @@
     "star": true,
     "handSize": 0,
     "health": 6,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Masters of Evil"
     ]
@@ -3431,6 +3697,8 @@
     "star": true,
     "handSize": 0,
     "health": 6,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Masters of Evil"
     ]
@@ -3456,6 +3724,8 @@
     "star": true,
     "handSize": 0,
     "health": 5,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Masters of Evil"
     ]
@@ -3481,6 +3751,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01134": {
@@ -3504,6 +3776,8 @@
     "star": false,
     "handSize": 0,
     "health": 17,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Android"
     ]
@@ -3529,6 +3803,8 @@
     "star": false,
     "handSize": 0,
     "health": 22,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Android"
     ]
@@ -3554,6 +3830,8 @@
     "star": false,
     "handSize": 0,
     "health": 27,
+    "thwart": 0,
+    "attack": 4,
     "traits": [
       "Android"
     ]
@@ -3586,6 +3864,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01138a": {
@@ -3616,6 +3896,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01139a": {
@@ -3646,6 +3928,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01140": {
@@ -3669,6 +3953,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01141": {
@@ -3692,6 +3978,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Item",
       "Tech"
@@ -3718,6 +4006,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -3743,6 +4033,8 @@
     "star": false,
     "handSize": 0,
     "health": 4,
+    "thwart": 0,
+    "attack": 1,
     "traits": [
       "Drone"
     ]
@@ -3768,6 +4060,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01144a": {
@@ -3791,6 +4085,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01144b": {
@@ -3814,6 +4110,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01144c": {
@@ -3837,6 +4135,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01145": {
@@ -3860,6 +4160,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01146": {
@@ -3883,6 +4185,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01147": {
@@ -3906,6 +4210,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01148": {
@@ -3929,6 +4235,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01149": {
@@ -3952,6 +4260,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01150": {
@@ -3975,6 +4285,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01151": {
@@ -3998,6 +4310,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01152": {
@@ -4021,6 +4335,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Armor"
     ]
@@ -4046,6 +4362,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Weapon"
     ]
@@ -4071,6 +4389,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01155": {
@@ -4094,6 +4414,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01156": {
@@ -4117,6 +4439,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01157": {
@@ -4140,6 +4464,8 @@
     "star": false,
     "handSize": 0,
     "health": 5,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Assassin",
       "Elite",
@@ -4167,6 +4493,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01159": {
@@ -4190,6 +4518,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01160": {
@@ -4213,6 +4543,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01161": {
@@ -4236,6 +4568,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01162": {
@@ -4259,6 +4593,8 @@
     "star": false,
     "handSize": 0,
     "health": 6,
+    "thwart": 0,
+    "attack": -1,
     "traits": [
       "Brute",
       "Elite"
@@ -4285,6 +4621,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Condition"
     ]
@@ -4310,6 +4648,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01165": {
@@ -4333,6 +4673,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01166": {
@@ -4356,6 +4698,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01167": {
@@ -4379,6 +4723,8 @@
     "star": false,
     "handSize": 0,
     "health": 4,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Criminal"
     ]
@@ -4404,6 +4750,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01169": {
@@ -4427,6 +4775,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01170": {
@@ -4450,6 +4800,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01171": {
@@ -4473,6 +4825,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01172": {
@@ -4496,6 +4850,8 @@
     "star": false,
     "handSize": 0,
     "health": 4,
+    "thwart": 0,
+    "attack": 3,
     "traits": []
   },
   "01173": {
@@ -4519,6 +4875,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01174": {
@@ -4542,6 +4900,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01175": {
@@ -4565,6 +4925,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01176": {
@@ -4588,6 +4950,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01177": {
@@ -4611,6 +4975,8 @@
     "star": false,
     "handSize": 0,
     "health": 5,
+    "thwart": 0,
+    "attack": 3,
     "traits": [
       "Elite",
       "Kree"
@@ -4637,6 +5003,8 @@
     "star": true,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01179": {
@@ -4660,6 +5028,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01180": {
@@ -4683,6 +5053,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01181": {
@@ -4706,6 +5078,8 @@
     "star": false,
     "handSize": 0,
     "health": 6,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Elite",
       "Hydra"
@@ -4732,6 +5106,8 @@
     "star": false,
     "handSize": 0,
     "health": 4,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Hydra"
     ]
@@ -4757,6 +5133,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01184": {
@@ -4780,6 +5158,8 @@
     "star": false,
     "handSize": 0,
     "health": 8,
+    "thwart": 0,
+    "attack": 2,
     "traits": [
       "Cyborg",
       "Elite"
@@ -4806,6 +5186,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": [
       "Tech"
     ]
@@ -4831,6 +5213,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01187": {
@@ -4854,6 +5238,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01188": {
@@ -4877,6 +5263,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01189": {
@@ -4900,6 +5288,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01190": {
@@ -4923,6 +5313,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01191": {
@@ -4946,6 +5338,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01192": {
@@ -4969,6 +5363,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   },
   "01193": {
@@ -4992,6 +5388,8 @@
     "star": false,
     "handSize": 0,
     "health": 0,
+    "thwart": 0,
+    "attack": 0,
     "traits": []
   }
 }
