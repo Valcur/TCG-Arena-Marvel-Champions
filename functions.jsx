@@ -188,11 +188,10 @@ async function processCardUpdate() {
     const isHero = identityCard.isFlipped
     let total = 0
 
-    let total = 0
     for (const card of enemies) {
       const cardData = await functions.getCardData(card)
       total += isHero ? cardData?.attack : cardData?.thwart
-      }
+    }
 
     game.data.LocalGameplayData.total = total
     game.data.LocalGameplayData.isHero = isHero
