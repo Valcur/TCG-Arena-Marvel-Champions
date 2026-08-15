@@ -136,6 +136,7 @@ for (const card of cards) {
         health: card.health ?? 0,
         thwart: card.thwart ?? 0,
         attack: card.attack ?? 0,
+        baseThreat: card.base_threat ?? 0,
 
 
         traits: frontSource.traits

@@ -29,6 +29,7 @@
     "health": 10,
     "thwart": 1,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Genius"
     ]
@@ -56,6 +57,7 @@
     "health": 2,
     "thwart": 1,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Hero for Hire"
     ]
@@ -83,6 +85,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Defense",
       "Skill"
@@ -111,6 +114,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Superpower"
     ]
@@ -138,6 +142,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Aerial",
       "Attack",
@@ -167,6 +172,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Persona"
     ]
@@ -194,6 +200,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Item",
       "Tech"
@@ -222,6 +229,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Item",
       "Tech"
@@ -250,6 +258,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -284,6 +293,7 @@
     "health": 12,
     "thwart": 2,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -317,6 +327,7 @@
     "health": 2,
     "thwart": 2,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Avenger",
       "Spy"
@@ -345,6 +356,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Thwart"
     ]
@@ -372,6 +384,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack",
       "Superpower"
@@ -400,6 +413,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01015": {
@@ -425,6 +439,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location",
       "S",
@@ -458,6 +473,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -486,6 +502,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Superpower"
     ]
@@ -513,6 +530,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Superpower"
     ]
@@ -547,6 +565,7 @@
     "health": 15,
     "thwart": 1,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Attorney",
       "Gamma"
@@ -575,6 +594,7 @@
     "health": 3,
     "thwart": 2,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Avenger"
     ]
@@ -602,6 +622,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack",
       "Superpower"
@@ -630,6 +651,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Superpower"
     ]
@@ -657,6 +679,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Skill",
       "Thwart"
@@ -685,6 +708,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Skill"
     ]
@@ -712,6 +736,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01026": {
@@ -737,6 +762,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location"
     ]
@@ -764,6 +790,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Skill"
     ]
@@ -791,6 +818,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Superpower"
     ]
@@ -825,6 +853,7 @@
     "health": 9,
     "thwart": 2,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Genius"
     ]
@@ -852,6 +881,7 @@
     "health": 4,
     "thwart": 1,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -885,6 +915,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack",
       "Superpower"
@@ -913,6 +944,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack"
     ]
@@ -940,6 +972,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Persona"
     ]
@@ -967,6 +1000,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location"
     ]
@@ -994,6 +1028,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Item",
       "Tech"
@@ -1022,6 +1057,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1050,6 +1086,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1078,6 +1115,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1106,6 +1144,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor",
       "Tech"
@@ -1141,6 +1180,7 @@
     "health": 11,
     "thwart": 2,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "King",
       "Wakanda"
@@ -1169,6 +1209,7 @@
     "health": 3,
     "thwart": 1,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Genius",
       "Wakanda"
@@ -1197,6 +1238,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01043a": {
@@ -1222,6 +1264,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Tactic"
     ]
@@ -1249,6 +1292,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Tactic"
     ]
@@ -1276,6 +1320,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Tactic"
     ]
@@ -1303,6 +1348,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Tactic"
     ]
@@ -1330,6 +1376,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01045": {
@@ -1355,6 +1402,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location",
       "Wakanda"
@@ -1383,6 +1431,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1411,6 +1460,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Black Panther",
       "Weapon"
@@ -1439,6 +1489,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Black Panther",
       "Skill"
@@ -1467,6 +1518,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor",
       "Black Panther"
@@ -1495,6 +1547,7 @@
     "health": 5,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Avenger",
       "Gamma"
@@ -1523,6 +1576,7 @@
     "health": 3,
     "thwart": 1,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Avenger"
     ]
@@ -1550,6 +1604,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Thwart"
     ]
@@ -1577,6 +1632,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack"
     ]
@@ -1604,6 +1660,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack"
     ]
@@ -1631,6 +1688,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01056": {
@@ -1656,6 +1714,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -1688,6 +1747,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Skill"
     ]
@@ -1715,6 +1775,7 @@
     "health": 3,
     "thwart": 2,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Defender"
     ]
@@ -1742,6 +1803,7 @@
     "health": 3,
     "thwart": 1,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Defender"
     ]
@@ -1769,6 +1831,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Thwart"
     ]
@@ -1796,6 +1859,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01062": {
@@ -1821,6 +1885,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01063": {
@@ -1846,6 +1911,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location"
     ]
@@ -1873,6 +1939,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -1905,6 +1972,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Skill"
     ]
@@ -1932,6 +2000,7 @@
     "health": 3,
     "thwart": 1,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Avenger"
     ]
@@ -1959,6 +2028,7 @@
     "health": 2,
     "thwart": 2,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -1991,6 +2061,7 @@
     "health": 3,
     "thwart": 1,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Android",
       "Avenger"
@@ -2019,6 +2090,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01070": {
@@ -2044,6 +2116,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Tactic"
     ]
@@ -2071,6 +2144,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01072": {
@@ -2096,6 +2170,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01073": {
@@ -2121,6 +2196,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location",
       "S",
@@ -2154,6 +2230,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -2181,6 +2258,7 @@
     "health": 2,
     "thwart": 2,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -2214,6 +2292,7 @@
     "health": 5,
     "thwart": 1,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Defender"
     ]
@@ -2241,6 +2320,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack"
     ]
@@ -2268,6 +2348,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01079": {
@@ -2293,6 +2374,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01080": {
@@ -2318,6 +2400,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -2350,6 +2433,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor"
     ]
@@ -2377,6 +2461,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -2404,6 +2489,7 @@
     "health": 3,
     "thwart": 1,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -2437,6 +2523,7 @@
     "health": 3,
     "thwart": 2,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "S",
       "H",
@@ -2470,6 +2557,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Thwart"
     ]
@@ -2497,6 +2585,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01087": {
@@ -2522,6 +2611,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Attack"
     ]
@@ -2549,6 +2639,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01089": {
@@ -2574,6 +2665,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01090": {
@@ -2599,6 +2691,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01091": {
@@ -2624,6 +2717,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Avenger",
       "Location"
@@ -2652,6 +2746,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Location",
       "S",
@@ -2685,6 +2780,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -2712,6 +2808,7 @@
     "health": 14,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Brute",
       "Criminal"
@@ -2740,6 +2837,7 @@
     "health": 15,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Brute",
       "Criminal"
@@ -2768,6 +2866,7 @@
     "health": 16,
     "thwart": 0,
     "attack": 4,
+    "baseThreat": 0,
     "traits": [
       "Brute",
       "Criminal"
@@ -2803,6 +2902,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01098": {
@@ -2828,6 +2928,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor"
     ]
@@ -2855,6 +2956,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": []
   },
   "01100": {
@@ -2880,6 +2982,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Weapon"
     ]
@@ -2907,6 +3010,7 @@
     "health": 3,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Hydra"
     ]
@@ -2934,6 +3038,7 @@
     "health": 4,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Criminal",
       "Elite"
@@ -2962,6 +3067,7 @@
     "health": 3,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Criminal"
     ]
@@ -2989,6 +3095,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01105": {
@@ -3014,6 +3121,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01106": {
@@ -3039,6 +3147,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01107": {
@@ -3064,6 +3173,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 2,
     "traits": []
   },
   "01108": {
@@ -3089,6 +3199,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 2,
     "traits": []
   },
   "01109": {
@@ -3114,6 +3225,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 2,
     "traits": []
   },
   "01110": {
@@ -3139,6 +3251,7 @@
     "health": 2,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Hydra"
     ]
@@ -3166,6 +3279,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01112": {
@@ -3191,6 +3305,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01113": {
@@ -3216,6 +3331,7 @@
     "health": 12,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Masters of Evil"
     ]
@@ -3243,6 +3359,7 @@
     "health": 18,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Masters of Evil"
     ]
@@ -3270,6 +3387,7 @@
     "health": 22,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Masters of Evil"
     ]
@@ -3304,6 +3422,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01117a": {
@@ -3336,6 +3455,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01118": {
@@ -3361,6 +3481,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Weapon"
     ]
@@ -3388,6 +3509,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -3415,6 +3537,7 @@
     "health": 3,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Mercenary"
     ]
@@ -3442,6 +3565,7 @@
     "health": 2,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Mercenary"
     ]
@@ -3469,6 +3593,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01123": {
@@ -3494,6 +3619,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01124": {
@@ -3519,6 +3645,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01125": {
@@ -3544,6 +3671,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 2,
     "traits": []
   },
   "01126": {
@@ -3569,6 +3697,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01127": {
@@ -3594,6 +3723,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01128": {
@@ -3619,6 +3749,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01129": {
@@ -3644,6 +3775,7 @@
     "health": 7,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Elite",
       "Masters of Evil"
@@ -3672,6 +3804,7 @@
     "health": 6,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Masters of Evil"
     ]
@@ -3699,6 +3832,7 @@
     "health": 6,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 3,
     "traits": [
       "Masters of Evil"
     ]
@@ -3726,6 +3860,7 @@
     "health": 5,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Masters of Evil"
     ]
@@ -3753,6 +3888,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01134": {
@@ -3778,6 +3914,7 @@
     "health": 17,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Android"
     ]
@@ -3805,6 +3942,7 @@
     "health": 22,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Android"
     ]
@@ -3832,6 +3970,7 @@
     "health": 27,
     "thwart": 0,
     "attack": 4,
+    "baseThreat": 3,
     "traits": [
       "Android"
     ]
@@ -3866,6 +4005,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01138a": {
@@ -3898,6 +4038,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01139a": {
@@ -3930,6 +4071,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01140": {
@@ -3955,6 +4097,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01141": {
@@ -3980,6 +4123,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Item",
       "Tech"
@@ -4008,6 +4152,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -4035,6 +4180,7 @@
     "health": 4,
     "thwart": 0,
     "attack": 1,
+    "baseThreat": 0,
     "traits": [
       "Drone"
     ]
@@ -4062,6 +4208,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01144a": {
@@ -4087,6 +4234,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01144b": {
@@ -4112,6 +4260,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01144c": {
@@ -4137,6 +4286,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01145": {
@@ -4162,6 +4312,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01146": {
@@ -4187,6 +4338,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01147": {
@@ -4212,6 +4364,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01148": {
@@ -4237,6 +4390,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 4,
     "traits": []
   },
   "01149": {
@@ -4262,6 +4416,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01150": {
@@ -4287,6 +4442,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 2,
     "traits": []
   },
   "01151": {
@@ -4312,6 +4468,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01152": {
@@ -4337,6 +4494,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Armor"
     ]
@@ -4364,6 +4522,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Weapon"
     ]
@@ -4391,6 +4550,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01155": {
@@ -4416,6 +4576,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01156": {
@@ -4441,6 +4602,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01157": {
@@ -4466,6 +4628,7 @@
     "health": 5,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Assassin",
       "Elite",
@@ -4495,6 +4658,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01159": {
@@ -4520,6 +4684,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01160": {
@@ -4545,6 +4710,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01161": {
@@ -4570,6 +4736,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01162": {
@@ -4595,6 +4762,7 @@
     "health": 6,
     "thwart": 0,
     "attack": -1,
+    "baseThreat": 0,
     "traits": [
       "Brute",
       "Elite"
@@ -4623,6 +4791,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Condition"
     ]
@@ -4650,6 +4819,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01165": {
@@ -4675,6 +4845,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01166": {
@@ -4700,6 +4871,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01167": {
@@ -4725,6 +4897,7 @@
     "health": 4,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Criminal"
     ]
@@ -4752,6 +4925,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01169": {
@@ -4777,6 +4951,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01170": {
@@ -4802,6 +4977,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01171": {
@@ -4827,6 +5003,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01172": {
@@ -4852,6 +5029,7 @@
     "health": 4,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": []
   },
   "01173": {
@@ -4877,6 +5055,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01174": {
@@ -4902,6 +5081,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01175": {
@@ -4927,6 +5107,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01176": {
@@ -4952,6 +5133,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01177": {
@@ -4977,6 +5159,7 @@
     "health": 5,
     "thwart": 0,
     "attack": 3,
+    "baseThreat": 0,
     "traits": [
       "Elite",
       "Kree"
@@ -5005,6 +5188,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01179": {
@@ -5030,6 +5214,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01180": {
@@ -5055,6 +5240,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 3,
     "traits": []
   },
   "01181": {
@@ -5080,6 +5266,7 @@
     "health": 6,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Elite",
       "Hydra"
@@ -5108,6 +5295,7 @@
     "health": 4,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Hydra"
     ]
@@ -5135,6 +5323,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 8,
     "traits": []
   },
   "01184": {
@@ -5160,6 +5349,7 @@
     "health": 8,
     "thwart": 0,
     "attack": 2,
+    "baseThreat": 0,
     "traits": [
       "Cyborg",
       "Elite"
@@ -5188,6 +5378,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": [
       "Tech"
     ]
@@ -5215,6 +5406,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01187": {
@@ -5240,6 +5432,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01188": {
@@ -5265,6 +5458,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01189": {
@@ -5290,6 +5484,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01190": {
@@ -5315,6 +5510,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01191": {
@@ -5340,6 +5536,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01192": {
@@ -5365,6 +5562,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   },
   "01193": {
@@ -5390,6 +5588,7 @@
     "health": 0,
     "thwart": 0,
     "attack": 0,
+    "baseThreat": 0,
     "traits": []
   }
 }

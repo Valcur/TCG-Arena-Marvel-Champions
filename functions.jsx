@@ -38,7 +38,7 @@ async function dealEncounter() {
     destination = "VillainAttachments"
   } else if (type === "Side Scheme") {
     destination = "SideSchemes"
-    await functions.updateCards([card], { counters: [{ value: 2 }, {}] })
+    await functions.updateCards([card], { counters: [{ value: cardData?.baseThreat * game.turn.totalPlayers }, {}] })
   }
 
   await functions.moveCard(card, destination)
@@ -105,7 +105,6 @@ async function spawnDeck(decklist) {
           targetSection = "MainScheme"
         }
         const newCard = await functions.createCard(card.id, targetSection);
-        await functions.updateCards([newCard], { counters: [{ value: 2 }, {}] })
         if (targetSection === "MainScheme") {
           await functions.updateCards([newCard], { isFlipped: true })
         }
