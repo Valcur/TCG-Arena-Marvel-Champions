@@ -181,6 +181,20 @@ async function readyAll() {
   await functions.repositionCards();
 }
 
+async function processCardUpdate() {
+  if (cards?.Identity?.length > 0) {
+    const identityCard = cards.Identity[0]
+
+    if (Identity.isFlipped) {
+      // Hero face
+      game.data.LocalGameplayData.total = 3
+    } else {
+      // Alter Ego face
+      game.data.LocalGameplayData.total = 5
+    }
+  }
+}
+
 /*
 FIN DE LA PHASE DES JOUEURS
 Pour mettre fin à la phase des Joueurs, respectez les étapes
