@@ -161,18 +161,19 @@ async function readyAll() {
 
 // Card update event
 async function processCardUpdate() {
-  console.log(game.isHost, game , cards)
+  console.log(game.isHost, game , cards, cards?.Identity?.length)
   // Show engaged enemies total
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
     const enemies = cards?.EngagedEnemies ?? []
     const isHero = identityCard.isFlipped
     let total = 0
-
+    console.log(enemies)
     for (const card of enemies) {
       const cardData = await functions.getCardData(card)
       total += isHero ? cardData?.attack : cardData?.thwart
     }
+    console.log("total", total)
 
     game.data.LocalGameplayData.total = total
     game.data.LocalGameplayData.isHero = isHero
