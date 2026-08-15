@@ -185,7 +185,7 @@ async function processCardUpdate() {
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
 
-    if (Identity.isFlipped) {
+    if (identityCard.isFlipped) {
       // Hero face
       game.data.LocalGameplayData.total = 3
     } else {
