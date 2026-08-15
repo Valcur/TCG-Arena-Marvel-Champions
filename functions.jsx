@@ -161,6 +161,7 @@ async function readyAll() {
 
 // Card update event
 async function processCardUpdate() {
+  console.log(game.isHost, game , cards)
   // Show engaged enemies total
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
