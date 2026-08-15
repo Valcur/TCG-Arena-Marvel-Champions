@@ -1,10 +1,8 @@
 
 async function getVillainDeckTopCard() {
-  //console.log(cards)
-  //console.log("EncounterDeck:", cards?.EncounterDeck)
   const deck = cards?.EncounterDeck
   if (!deck || deck?.length === 0) {
-    // shuffle revealed and discard
+    // Shuffle revealed and discard if deck is empty
     const newEncounterDeck = [...(cards?.EncounterDiscard ?? []), ...(cards?.Revealed ?? [])]
     for (const card of newEncounterDeck) {
       await functions.moveCard(card, "EncounterDeck", { noLogs: true })
@@ -16,6 +14,7 @@ async function getVillainDeckTopCard() {
   return cards.EncounterDeck[cards.EncounterDeck.length - 1]
 }
 
+// Play top
 async function playVilainDeck() {
   const card = await getVillainDeckTopCard()
   if (!card) return
@@ -26,6 +25,7 @@ async function playVilainDeck() {
   await functions.repositionCards()
 }
 
+// Deal top to clicking player
 async function dealEncounter() {
   const card = await getVillainDeckTopCard()
   if (!card) return
@@ -38,29 +38,13 @@ async function dealEncounter() {
     destination = "VillainAttachments"
   } else if (type === "Side Scheme") {
     destination = "SideSchemes"
-    await functions.updateCards([card], { counters: [{value: 2}, {}] })
+    await functions.updateCards([card], { counters: [{ value: 2 }, {}] })
   }
 
   await functions.moveCard(card, destination)
   await functions.repositionCards()
 }
 
-// on cardUpdate
-function displayedEngagedEnemiesValue() {
-  const identityCard = card.Identity[0]
-  if (!identityCard) return
-  const face = identityCard.isFlipped ? "hero" : "alterego"
-  // si je suis alterego: j'affiche le total scheme des minions sur moi, attque si je suis en héro
-  if (face !== gameData.player.face) {
-
-    gameData.player.face = face
-    if (face === "hero") {
-
-    } else {
-
-    }
-  }
-}
 
 /*
 NEMESIS SIDE SCHEMES
@@ -75,47 +59,39 @@ Each hero’s nemesis, side scheme, and associated cards
 -> a voir si on automatise
 */
 
-// onCardEnter -> movecard, destintaion == ma section && destintaion !== original
-function addedEngagedEnnemies(card) {
-  const cardData = functions
-}
 
-// onCardLeave -> movecard, original == ma section && destintaion !== original
+/*
+✅ Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme.
+If any acceleration icons or tokens are active, additional threat equal to the number of such icons and tokens is also placed at this time.
+-> manuel, on l'automatise pas
 
-function turnEnd() {
-  /*
-  ✅ Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme.
-  If any acceleration icons or tokens are active, additional threat equal to the number of such icons and tokens is also placed at this time.
-  -> manuel, on l'automatise pas
-
-  The villain activates once per player. For each activation, any minions engaged with that player also activate.
-  Deal one encounter card to each player. Deal one additional card for each hazard symbol on a card in play. 
-  These additional cards are dealt in player order.
-  Players reveal their dealt encounter cards. 
-  The first player reveals each of their encounter cards, one card at a time, resolving each card based on its card type. 
-  Each player repeats this process in player order, until no dealt encounter cards remain.
-  -> bouton play top: montre la carte et affiche le nombre de boos jolimnet ou symbole etoile
-  -> bouton send played cards to discard pour la fin de la phase (ou auto si on peut)
-    -> on vide quand le bouton deal encounter cliqué par tous les joueurs ET stack vide
-          OU au debut du tour en backup
-  -> bouton deal encounter card to the clicking player:
-        - Minion — When a minion is revealed, it enters play
-        engaged with the player who revealed the card. Place
-        the minion near that player to show that it is engaged. -> to engaged enemies of clicking player tapped
-        - Treachery — When a treachery is revealed, resolve its
-        effect and then place it in the encounter discard pile. -> to stack
-        - Attachment — When an attachment is revealed, it
-        enters play attached to the villain. -> nouvelle zone vilain attachement
-        - Side Scheme — When a side scheme is revealed from
-        the encounter deck, it enters play near the main scheme. -> to side schemes
+The villain activates once per player. For each activation, any minions engaged with that player also activate.
+Deal one encounter card to each player. Deal one additional card for each hazard symbol on a card in play. 
+These additional cards are dealt in player order.
+Players reveal their dealt encounter cards. 
+The first player reveals each of their encounter cards, one card at a time, resolving each card based on its card type. 
+Each player repeats this process in player order, until no dealt encounter cards remain.
+-> bouton play top: montre la carte et affiche le nombre de boos jolimnet ou symbole etoile
+-> bouton send played cards to discard pour la fin de la phase (ou auto si on peut)
+  -> on vide quand le bouton deal encounter cliqué par tous les joueurs ET stack vide
+        OU au debut du tour en backup
+-> bouton deal encounter card to the clicking player:
+      - Minion — When a minion is revealed, it enters play
+      engaged with the player who revealed the card. Place
+      the minion near that player to show that it is engaged. -> to engaged enemies of clicking player tapped
+      - Treachery — When a treachery is revealed, resolve its
+      effect and then place it in the encounter discard pile. -> to stack
+      - Attachment — When an attachment is revealed, it
+      enters play attached to the villain. -> nouvelle zone vilain attachement
+      - Side Scheme — When a side scheme is revealed from
+      the encounter deck, it enters play near the main scheme. -> to side schemes
 
 
-  -> si je suis alterego: j'affiche le total scheme des minions sur moi, attque si je suis en héro
+-> si je suis alterego: j'affiche le total scheme des minions sur moi, attque si je suis en héro
 
-  Pass the first player token to the next clockwise player and end the round.
-  -> joueur actif clic sur fin de tour, on vide revealed
-  */
-}
+Pass the first player token to the next clockwise player and end the round.
+-> joueur actif clic sur fin de tour, on vide revealed
+*/
 
 async function spawnDeck(decklist) {
   for (const category of decklist.categoriesOrder) {
@@ -144,16 +120,10 @@ async function iniVilainDeck() {
   await functions.shuffleSection("EncounterDeck");
   await functions.repositionCards();
   game.data.GameplayManager.hp = 14 * game.turn.totalPlayers
-  /*const card = cards.Villain[0]
-const cardData = await functions.getCardData(card)
-gamedata.villain.lifepoints = cardData.startingLifepoints*/
+  // A faire selon les pv sur la carte
 }
 
-async function sendObligation() {
-
-}
-
-// all players have picked their deck
+// All players have picked their deck
 async function allPlayerReady() {
   if (game.isHost) {
     await iniVilainDeck()
@@ -166,15 +136,17 @@ async function allPlayerReady() {
   await functions.changeCounterValue(0, cardData.health ?? 0)
 }
 
+// Villain turn end, empty revealed
 async function emptyRevealed() {
   if (!game.isHost) return
-  
+
   for (const card of cards?.Revealed ?? []) {
-      await functions.moveCard(card, "EncounterDiscard", { noLogs: true })
-    }
-    await functions.repositionCards()
+    await functions.moveCard(card, "EncounterDiscard", { noLogs: true })
+  }
+  await functions.repositionCards()
 }
 
+// Button to untap all your cards when your player turn end
 async function readyAll() {
   const allCards = [
     ...(cards?.Allies ?? []),
@@ -187,7 +159,9 @@ async function readyAll() {
   await functions.repositionCards();
 }
 
+// Card update event
 async function processCardUpdate() {
+  // Show engaged enemies total
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
     const enemies = cards?.EngagedEnemies ?? []
@@ -201,6 +175,15 @@ async function processCardUpdate() {
 
     game.data.LocalGameplayData.total = total
     game.data.LocalGameplayData.isHero = isHero
+  }
+
+  // Handle game start
+  if (game.isHost && !game.data.GameplayManager.isVillainDeckReady) {
+    // We wait for all players obligation cards
+    if (cards?.EncounterDeck?.length === game.turn.totalPlayers) {
+      game.data.GameplayManager.isVillainDeckReady = true
+      await iniVilainDeck()
+    }
   }
 }
 
