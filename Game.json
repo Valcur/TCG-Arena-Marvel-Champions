@@ -1,192 +1,422 @@
 {
-    "name": "Marvel Champions ",
-    "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg",
-    "deckBuilding": {
-        "mainFilters": [],
-        "formats": [
+  "name": "Marvel Champions",
+  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg",
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "set"
+    ],
+    "formats": [
+      {
+        "title": "Hero",
+        "gameplay": "Classic"
+      },
+      {
+        "title": "Bad Guy",
+        "gameplay": "Classic"
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {},
+      "newTurn": {
+        "drawOnStart": false,
+        "drawPerTurn": 0
+      },
+      "draggableTokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "sections": {
+        "sharedZone": {
+          "height": 16,
+          "layout": {
+            "direction": "row",
+            "style": {
+              "alignItems": "end"
+            },
+            "content": [
+              {
+                "section": "EncounterDiscard"
+              },
+              {
+                "section": "EncounterDeck"
+              },
+              {
+                "section": "Villain",
+                "style": {
+                  "width": "12vh"
+                }
+              },
+              {
+                "section": "VillainAttachments",
+                "style": {
+                  "width": "20vh",
+                  "marginBottom": "auto",
+                  "marginTop": "auto"
+                }
+              },
+              {
+                "section": "MainScheme",
+                "style": {
+                  "width": "15vh"
+                }
+              },
+              {
+                "section": "SideSchemes"
+              },
+              {
+                "section": "Revealed",
+                "style": {
+                  "marginRight": "5vh"
+                }
+              },
+              {
+                "section": "GameplayManager"
+              }
+            ]
+          }
+        },
+        "layout": {
+          "direction": "row",
+          "content": [
             {
-                "title": "Hero",
-                "gameplay": "Classic"
+              "section": "LocalGameplayData"
             },
             {
-                "title": "Bad Guy",
-                "gameplay": "Classic"
-            }
-        ]
-    },
-    "gameplay": {
-        "Classic": {
-            "mulligan": {},
-            "newTurn": {
-                "drawOnStart": false,
-                "sharedTurn": true,
-                "firstPlayerTokenName": "Initiative",
-                "drawPerTurn": 2
-            },
-            "draggableTokens": [],
-            "countersStartingValues": [
-                10
-            ],
-            "sections": {
-                "customSections": [
-                    "Ground",
-                    "Space",
-                    "Leader",
-                    "Base",
-                    "Mana",
-                    "Others"
-                ],
-                "layout": {
-                    "direction": "column",
-                    "isSymetricalForOpponents": true,
-                    "content": [
+              "direction": "row",
+              "style": {
+                "maxWidth": "120vh",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "gap": "5vh"
+              },
+              "content": [
+                {
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "EngagedEnemies"
+                    },
+                    {
+                      "direction": "row",
+                      "content": [
                         {
-                            "direction": "row",
-                            "content": [
-                                {
-                                    "section": "EngagedEnnemies",
-                                    "style": {
-                                        "width": "50vh"
-                                    }
-                                },
-                                {
-                                    "section": "Mana"
-                                }
-                            ]
+                          "section": "Nemesis",
+                          "style": {
+                            "width": "14vh"
+                          }
                         },
                         {
-                            "direction": "row",
-                            "content": [
-                                {
-                                    "section": "Identity",
-                                    "style": {
-                                        "width": "15vh"
-                                    }
-                                },
-                                {
-                                    "section": "Allies",
-                                    "style": {
-                                        "width": "35vh"
-                                    }
-                                },
-                                {
-                                    "section": "Upgrades"
-                                },
-                                {
-                                    "section": "Supports"
-                                }
-                            ]
+                          "section": "Identity",
+                          "style": {
+                            "width": "11vh"
+                          }
+                        },
+                        {
+                          "section": "Allies",
+                          "style": {
+                            "width": "35vh"
+                          }
                         }
-                    ]
-                },
-                "categoriesAlreadyOnBoard": [
-                    "Identity"
-                ],
-                "autoPlayFromHand": {
-                    "Unit - Ground": "Ground",
-                    "Unit - Space": "Space",
-                    "Leader": "Leader",
-                    "Base": "Base",
-                    "Event": "Stack",
-                    "Upgrade": "GROUP",
-                    "Credit Token": "Others"
-                },
-                "autoPlayFromStack": {
-                    "Unit - Ground": "Ground",
-                    "Unit - Space": "Space",
-                    "Leader": "Leader",
-                    "Base": "Base",
-                    "Event": "Discard",
-                    "Upgrade": "GROUP",
-                    "Credit Token": "Others"
-                },
-                "sectionsDict": {
-                    "Identity": {
-                        "isHidden": "no",
-                        "height": 15,
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "noQuickActions": true
-                    },
-                    "Allies": {
-                        "isHidden": "no",
-                        "height": 15,
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "noQuickActions": true
-                    },
-                    "Upgrades": {
-                        "isHidden": "no",
-                        "height": 15,
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "noQuickActions": true
-                    },
-                    "Supports": {
-                        "isHidden": "no",
-                        "height": 15,
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "noQuickActions": true
-                    },
-                    "EngagedEnnemies": {
-                        "isHidden": "no",
-                        "height": 15,
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Engaged Ennemies",
-                        "noQuickActions": true
-                    },
-                    "EncounterDeck": {
-                        "height": "15",
-                        "alignment": "Deck",
-                        "opponentAlignment": "START",
-                        "displayedTitle": "Encounter Deck",
-                        "noQuickActions": true
-                    },
-                    "EncounterDiscard": {
-                        "isHidden": "no",
-                        "height": "MEDIUM",
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Encounter Discard",
-                        "noQuickActions": true
-                    },
-                    "MainScheme": {
-                        "isHidden": "no",
-                        "height": "MEDIUM",
-                        "heightReference": "horizontal",
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Main Scheme",
-                        "noQuickActions": true
-                    },
-                    "SideSchemes": {
-                        "isHidden": "no",
-                        "height": "MEDIUM",
-                        "heightReference": "horizontal",
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Side Schemes",
-                        "noQuickActions": true
-                    },
-                    "Villain": {
-                        "isHidden": "no",
-                        "height": "MEDIUM",
-                        "alignment": "CENTER",
-                        "noQuickActions": true
+                      ]
                     }
+                  ]
+                },
+                {
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "Upgrades"
+                    },
+                    {
+                      "section": "Supports"
+                    }
+                  ]
                 }
+              ]
             }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Alter-Ego->Identity",
+          "Obligation->EncounterDeck",
+          "Nemesis->Nemesis"
+        ],
+        "autoPlayFromHand": {
+
+        },
+        "autoPlayFromStack": {
+          "Obligation": "EncounterDiscard",
+          "Treachery": "EncounterDiscard"
+        },
+        "sectionsDict": {
+          "Identity": {
+            "isHidden": "no",
+            "height": 14,
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "keepTappedNewTurn": true
+          },
+          "Nemesis": {
+            "isHidden": "no",
+            "height": 10,
+            "alignment": "CENTER",
+            "noQuickActions": true
+          },
+          "Allies": {
+            "isHidden": "no",
+            "height": 14,
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "keepTappedNewTurn": true
+          },
+          "Upgrades": {
+            "isHidden": "no",
+            "height": 14,
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "keepTappedNewTurn": true
+          },
+          "Supports": {
+            "isHidden": "no",
+            "height": 14,
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "noQuickActions": true,
+            "keepTappedNewTurn": true
+          },
+          "EngagedEnemies": {
+            "isHidden": "no",
+            "height": 15,
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Engaged Enemies",
+            "noQuickActions": true
+          },
+          "EncounterDeck": {
+            "height": 15,
+            "isHidden": "yes",
+            "alignment": "DECK",
+            "displayedTitle": "Encounter Deck"
+          },
+          "EncounterDiscard": {
+            "isHidden": "no",
+            "height": 15,
+            "alignment": "DECK",
+            "displayedTitle": "Encounter Discard",
+          },
+          "MainScheme": {
+            "isHidden": "no",
+            "height": 10,
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Main Scheme",
+            "noQuickActions": true
+          },
+          "SideSchemes": {
+            "isHidden": "no",
+            "height": 10,
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Side Schemes",
+            "noQuickActions": true
+          },
+          "Villain": {
+            "isHidden": "no",
+            "height": 15,
+            "alignment": "CENTER",
+            "noQuickActions": true
+          },
+          "VillainAttachments": {
+            "isHidden": "no",
+            "height": 12,
+            "alignment": "CENTER",
+            "noQuickActions": true,
+            "displayedTitle": "Attachments"
+          },
+          "Revealed": {
+            "isHidden": "no",
+            "height": 15,
+            "alignment": "END",
+            "noQuickActions": true
+          },
+          "GameplayManager": {
+            "type": "custom",
+            "isShared": true,
+            "defaultValue": {
+              "isVillainDeckReady": false,
+              "hp": 0,
+              "scheme": 0,
+              "boost": 0,
+              "star": false
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "className": "position-absolute top-0 start-0 d-flex gap-2 mt-1",
+                "style": {
+                  "zIndex": 3000,
+                  "marginLeft": "56vh"
+                }
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "box-container blurry m-0 p-0 pe-2 align-items-center",
+                    "style": {
+                      "fontSize": "2vh",
+                      "fontWeight": 600
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{game.data.GameplayManager.hp}}",
+                        "type": "number",
+                        "className": "",
+                        "style": {
+                          "width": "4vh",
+                          "backgroundColor": "transparent"
+                        }
+                      },
+                      "onChange": "game.data.GameplayManager.hp = value"
+                    },
+                    "♥",
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "box-container blurry m-0 p-0 pe-2 align-items-center",
+                    "style": {
+                      "fontSize": "2vh",
+                      "fontWeight": 600
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{game.data.GameplayManager.scheme}}",
+                        "type": "number",
+                        "className": "",
+                        "style": {
+                          "width": "4vh",
+                          "backgroundColor": "transparent"
+                        }
+                      },
+                      "onChange": "game.data.GameplayManager.scheme = value"
+                    },
+                    "☣︎",
+                  ]
+                },
+                {
+                  "type": "button",
+                  "children": "Play top",
+                  "onClick": "await playVilainDeck()"
+                },
+                {
+                  "type": "button",
+                  "children": "Deal my encounter",
+                  "onClick": "await dealEncounter()"
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "box-container blurry m-0 p-1 px-2 align-items-center",
+                    "style": {
+                      "fontSize": "2vh",
+                      "fontWeight": 600
+                    }
+                  },
+                  "children": [
+                    "{{ game.data.GameplayManager.star ? '★' : (game.data.GameplayManager.boost + ' ✧' ) }}",
+                  ]
+                }
+              ]
+            }
+          },
+          "LocalGameplayData": {
+            "type": "custom",
+            "defaultValue": {
+              "total": 12,
+              "isHero": false
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "className": "d-flex flex-column position-absolute top-0 start-0 z-1"
+              },
+              "children": [
+                {
+                  "type": "button",
+                  "children": "Ready all",
+                  "onClick": "await readyAll()",
+                  "props": {
+                    "className": ""
+                  }
+                },
+                {
+                  "type": "div",
+                  "children": [
+                    {
+                      "type": "span",
+                      "children": "{{ game.data.LocalGameplayData.total }}"
+                    },
+                    {
+                      "type": "span",
+                      "children": "{{ game.data.LocalGameplayData.isHero ? '♥' : '☣︎' }}"
+                    }
+                  ],
+                  "props": {
+                    "className": "box-container justify-content-between"
+                  }
+                }
+              ]
+            },
+            "events": {
+              "onPlayersReady": "await allPlayerReady()",
+              "onCardUpdate": "await processCardUpdate()",
+              "onNewTurn": "await emptyRevealed()"
+            }
+          }
         }
-    },
-    "defaultRessources": {
-        "backgrounds": [],
-        "decksUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Decks.json"
-    },
-    "customHelp": "Marvel champiosn WIP",
-    "cards": {
-        "dataUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Cards.json",
-        "cardBack": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackHero.jpg"
+      }
     }
+  },
+  "defaultRessources": {
+    "backgrounds": [
+      "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/Backgrounds/spiderman.jpg"
+    ],
+    "decksUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Decks.json"
+  },
+  "scriptsUrls": [
+    "https://valcur.github.io/TCG-Arena-Marvel-Champions/functions.jsx"
+  ],
+  "customHelp": "Marvel champiosn WIP, rules at https://images-cdn.fantasyflightgames.com/filer_public/ab/be/abbef836-d5ef-4241-b2bd-1062df73f367/mvc01_learn_to_play_eng-compressed.pdf",
+  "cards": {
+    "dataUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Cards.json",
+    "cardBack": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackHero.jpg",
+    "cardBackColor": "#203B5F",
+    "extraCardBacks": {
+      "Villain": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Main Scheme": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Attachment": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Obligation": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Side Scheme": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Minion": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Treachery": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg",
+      "Nemesis": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/cardBackVillain.jpg"
+    }
+  }
 }
