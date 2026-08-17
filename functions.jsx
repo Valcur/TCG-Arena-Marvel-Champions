@@ -21,6 +21,7 @@ async function playVilainDeck() {
   const cardData = functions.getCardData(card)
   game.data.GameplayManager.boost = cardData.boost
   game.data.GameplayManager.star = cardData.star
+  game.data.GameplayManager.lastCardId = card.id
   await functions.moveCard(card, "Revealed")
   await functions.repositionCards()
 }
