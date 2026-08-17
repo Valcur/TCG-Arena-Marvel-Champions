@@ -18,7 +18,7 @@ async function getVillainDeckTopCard() {
 async function playVilainDeck() {
   const card = await getVillainDeckTopCard()
   if (!card) return
-  const cardData = await functions.getCardData(card)
+  const cardData = functions.getCardData(card)
   game.data.GameplayManager.boost = cardData.boost
   game.data.GameplayManager.star = cardData.star
   await functions.moveCard(card, "Revealed")
@@ -29,7 +29,7 @@ async function playVilainDeck() {
 async function dealEncounter() {
   const card = await getVillainDeckTopCard()
   if (!card) return
-  const cardData = await functions.getCardData(card)
+  const cardData = functions.getCardData(card)
   const type = cardData?.face?.front?.type
   let destination = "Stack"
   if (type === "Minion") {
@@ -114,9 +114,8 @@ async function spawnDeck(decklist) {
 }
 
 async function iniVilainDeck() {
-  for (const card of cards.EncounterDeck) {
-    card.owner = "UNOWNED"
-  }
+  // Make sure we take players obligation cards
+  await functions.updateCards(cards.EncounterDeck, { owner: "UNOWNED" });
   await spawnDeck(villainDecks.rhino);
   await spawnDeck(encounterSets.standard);
   await spawnDeck(modularEncounterSets.bombScare);
@@ -130,7 +129,7 @@ async function iniVilainDeck() {
 async function allPlayerReady() {
   const identityCard = cards?.Identity?.[0]
   if (!identityCard) return
-  const cardData = await functions.getCardData(identityCard)
+  const cardData = functions.getCardData(identityCard)
   if (!cardData) return
   await functions.draw(cardData.handSize ?? 0)
   await functions.changeCounterValue(0, cardData.health ?? 0)
@@ -170,10 +169,9 @@ async function processCardUpdate() {
     let total = 0
     console.log(enemies, isHero)
     for (const card of enemies) {
-      const cardData = await functions.getCardData(card)
+      const cardData = functions.getCardData(card)
       total += isHero ? cardData?.attack : cardData?.scheme
     }
-    console.log("total", total)
 
     game.data.LocalGameplayData.total = total
     game.data.LocalGameplayData.isHero = isHero

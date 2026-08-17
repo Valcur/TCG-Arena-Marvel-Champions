@@ -1,172 +1,179 @@
 [
-  {
-    "title": "Captain Marvel",
-    "id": "d30673b0-9fe8-4959-95e0-823284a1a899",
-    "cardCount": 46,
-    "createdAt": "2026-08-15T13:55:05.873Z",
-    "lastModifiedAt": "2026-08-15T14:10:48.971Z",
-    "game": "Marvel Champions",
-    "format": [
-      "Hero"
-    ],
-    "deckList": {
-      "categoriesOrder": [
-        "Alter-Ego",
-        "Support",
-        "Upgrade",
-        "Event",
-        "Resource",
-        "Ally",
-        "Nemesis"
+    {
+      "title": "Captain Marvel",
+      "id": "d30673b0-9fe8-4959-95e0-823284a1a899",
+      "cardCount": 47,
+      "createdAt": "2026-08-15T13:55:05.873Z",
+      "lastModifiedAt": "2026-08-17T15:52:56.833Z",
+      "game": "Marvel Champions",
+      "format": [
+        "Hero"
       ],
-      "Alter-Ego": [
-        {
-          "count": 1,
-          "id": "01010a"
-        }
-      ],
-      "Support": [
-        {
-          "count": 1,
-          "id": "01015"
-        },
-        {
-          "count": 1,
-          "id": "01073"
-        },
-        {
-          "count": 1,
-          "id": "01091"
-        },
-        {
-          "count": 1,
-          "id": "01092"
-        }
-      ],
-      "Upgrade": [
-        {
-          "count": 1,
-          "id": "01016"
-        },
-        {
-          "count": 2,
-          "id": "01017"
-        },
-        {
-          "count": 2,
-          "id": "01018"
-        },
-        {
-          "count": 2,
-          "id": "01074"
-        },
-        {
-          "count": 1,
-          "id": "01093"
-        }
-      ],
-      "Event": [
-        {
-          "count": 3,
-          "id": "01012"
-        },
-        {
-          "count": 3,
-          "id": "01013"
-        },
-        {
-          "count": 2,
-          "id": "01069"
-        },
-        {
-          "count": 2,
-          "id": "01070"
-        },
-        {
-          "count": 2,
-          "id": "01071"
-        },
-        {
-          "count": 1,
-          "id": "01085"
-        },
-        {
-          "count": 1,
-          "id": "01086"
-        },
-        {
-          "count": 1,
-          "id": "01087"
-        }
-      ],
-      "Resource": [
-        {
-          "count": 2,
-          "id": "01014"
-        },
-        {
-          "count": 2,
-          "id": "01072"
-        },
-        {
-          "count": 1,
-          "id": "01088"
-        },
-        {
-          "count": 1,
-          "id": "01089"
-        },
-        {
-          "count": 1,
-          "id": "01090"
-        }
-      ],
-      "Ally": [
-        {
-          "count": 1,
-          "id": "01011"
-        },
-        {
-          "count": 1,
-          "id": "01066"
-        },
-        {
-          "count": 1,
-          "id": "01067"
-        },
-        {
-          "count": 1,
-          "id": "01068"
-        },
-        {
-          "count": 1,
-          "id": "01083"
-        },
-        {
-          "count": 1,
-          "id": "01084"
-        }
-      ],
-      "Nemesis": [
-        {
-          "count": 1,
-          "id": "01177"
-        },
-        {
-          "count": 1,
-          "id": "01176"
-        },
-        {
-          "count": 2,
-          "id": "01178"
-        },
-        {
-          "count": 1,
-          "id": "01179"
-        }
-      ]
-    }
-  },
+      "deckList": {
+        "categoriesOrder": [
+          "Alter-Ego",
+          "Support",
+          "Upgrade",
+          "Event",
+          "Resource",
+          "Ally",
+          "Nemesis",
+          "Obligation"
+        ],
+        "Alter-Ego": [
+          {
+            "count": 1,
+            "id": "01010a"
+          }
+        ],
+        "Support": [
+          {
+            "count": 1,
+            "id": "01015"
+          },
+          {
+            "count": 1,
+            "id": "01073"
+          },
+          {
+            "count": 1,
+            "id": "01091"
+          },
+          {
+            "count": 1,
+            "id": "01092"
+          }
+        ],
+        "Upgrade": [
+          {
+            "count": 1,
+            "id": "01016"
+          },
+          {
+            "count": 2,
+            "id": "01017"
+          },
+          {
+            "count": 2,
+            "id": "01018"
+          },
+          {
+            "count": 2,
+            "id": "01074"
+          },
+          {
+            "count": 1,
+            "id": "01093"
+          }
+        ],
+        "Event": [
+          {
+            "count": 3,
+            "id": "01012"
+          },
+          {
+            "count": 3,
+            "id": "01013"
+          },
+          {
+            "count": 2,
+            "id": "01069"
+          },
+          {
+            "count": 2,
+            "id": "01070"
+          },
+          {
+            "count": 2,
+            "id": "01071"
+          },
+          {
+            "count": 1,
+            "id": "01085"
+          },
+          {
+            "count": 1,
+            "id": "01086"
+          },
+          {
+            "count": 1,
+            "id": "01087"
+          }
+        ],
+        "Resource": [
+          {
+            "count": 2,
+            "id": "01014"
+          },
+          {
+            "count": 2,
+            "id": "01072"
+          },
+          {
+            "count": 1,
+            "id": "01088"
+          },
+          {
+            "count": 1,
+            "id": "01089"
+          },
+          {
+            "count": 1,
+            "id": "01090"
+          }
+        ],
+        "Ally": [
+          {
+            "count": 1,
+            "id": "01011"
+          },
+          {
+            "count": 1,
+            "id": "01066"
+          },
+          {
+            "count": 1,
+            "id": "01067"
+          },
+          {
+            "count": 1,
+            "id": "01068"
+          },
+          {
+            "count": 1,
+            "id": "01083"
+          },
+          {
+            "count": 1,
+            "id": "01084"
+          }
+        ],
+        "Nemesis": [
+          {
+            "count": 1,
+            "id": "01177"
+          },
+          {
+            "count": 1,
+            "id": "01176"
+          },
+          {
+            "count": 2,
+            "id": "01178"
+          },
+          {
+            "count": 1,
+            "id": "01179"
+          }
+        ],
+        "Obligation": [
+          {
+            "count": 1,
+            "id": "01175"
+          }
+        ]
+      }
+    },
   {
     "title": "Spider Man",
     "id": "03659cb3-22c5-4a49-ab8b-61a4de7c3dd0",
