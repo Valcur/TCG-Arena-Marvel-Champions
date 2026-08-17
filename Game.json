@@ -25,7 +25,28 @@
         "drawOnStart": false,
         "drawPerTurn": 0
       },
-      "draggableTokens": [],
+      "draggableTokens": [
+        {
+          "id": "acceleration",
+          "name": "Acceleration Token",
+          "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/accelerationToken.png"
+        },
+        {
+          "id": "confused",
+          "name": "Confused Token",
+          "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/confused.png"
+        },
+        {
+          "id": "stunned",
+          "name": "Stunned Token",
+          "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/stunned.png"
+        },
+        {
+          "id": "tough",
+          "name": "Tough Token",
+          "image": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/tough.png"
+        }
+      ],
       "countersStartingValues": [
         0
       ],
@@ -253,6 +274,7 @@
             "isShared": true,
             "defaultValue": {
               "isVillainDeckReady": false,
+              "lastCardId": "no-card-yet-but-it-will-come-for-sure-as-soon-as-the-villain-turn-will-start",
               "hp": 0,
               "scheme": 0,
               "boost": 0,
@@ -333,7 +355,8 @@
                 {
                   "type": "div",
                   "props": {
-                    "className": "box-container blurry m-0 p-1 px-2 align-items-center",
+                    "key": "{{ game.data.GameplayManager.lastCardId }}",
+                    "className": "box-container blurry m-0 p-1 px-2 align-items-center fade-in",
                     "style": {
                       "fontSize": "2vh",
                       "fontWeight": 600
@@ -420,3 +443,4 @@
     }
   }
 }
+
