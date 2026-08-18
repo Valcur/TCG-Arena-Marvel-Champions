@@ -7,7 +7,7 @@ async function getVillainDeckTopCard() {
     await functions.moveCards(newEncounterDeck, "EncounterDeck", { noLogs: true })
     await functions.shuffleSection("EncounterDeck");
     await functions.repositionCards();
-    // Maybe log deck waas shuffled ?
+    // Maybe log deck was shuffled ?
     chatLog("Shuffled the Discard back into the Encounter deck")
     return null
   }
