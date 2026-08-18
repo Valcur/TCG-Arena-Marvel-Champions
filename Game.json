@@ -310,7 +310,7 @@
                       },
                       "onChange": "game.data.GameplayManager.hp = value"
                     },
-                    "♥",
+                    "♥"
                   ]
                 },
                 {
@@ -336,7 +336,7 @@
                       },
                       "onChange": "game.data.GameplayManager.scheme = value"
                     },
-                    "☣︎",
+                    "☣︎"
                   ]
                 },
                 {
@@ -360,7 +360,7 @@
                     }
                   },
                   "children": [
-                    "{{ game.data.GameplayManager.star ? '★' : (game.data.GameplayManager.boost + ' ✧' ) }}",
+                    "{{ game.data.GameplayManager.star ? '★' : (game.data.GameplayManager.boost + ' ✧' ) }}"
                   ]
                 }
               ]
