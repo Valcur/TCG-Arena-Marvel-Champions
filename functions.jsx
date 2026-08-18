@@ -4,11 +4,11 @@ async function getVillainDeckTopCard() {
   if (!deck || deck?.length === 0) {
     // Shuffle revealed and discard if deck is empty
     const newEncounterDeck = [...(cards?.EncounterDiscard ?? []), ...(cards?.Revealed ?? [])]
-    for (const card of newEncounterDeck) {
-      await functions.moveCard(card, "EncounterDeck", { noLogs: true })
-    }
+    await functions.moveCards(newEncounterDeck, "EncounterDeck", { noLogs: true })
     await functions.shuffleSection("EncounterDeck");
     await functions.repositionCards();
+    // Maybe log deck waas shuffled ?
+    chatLog("Shuffled the Discard back into the Encounter deck")
     return null
   }
   return cards.EncounterDeck[cards.EncounterDeck.length - 1]
@@ -140,9 +140,7 @@ async function allPlayerReady() {
 async function emptyRevealed() {
   if (!game.isHost) return
 
-  for (const card of cards?.Revealed ?? []) {
-    await functions.moveCard(card, "EncounterDiscard", { noLogs: true })
-  }
+  await functions.moveCards(cards?.Revealed ?? [], "EncounterDiscard", { noLogs: true })
   await functions.repositionCards()
 }
 
@@ -161,14 +159,12 @@ async function readyAll() {
 
 // Card update event
 async function processCardUpdate() {
-  console.log(game.isHost, game , cards, cards?.Identity?.length)
   // Show engaged enemies total
   if (cards?.Identity?.length > 0) {
     const identityCard = cards.Identity[0]
     const enemies = cards?.EngagedEnemies ?? []
     const isHero = identityCard.isFlipped
     let total = 0
-    console.log(enemies, isHero)
     for (const card of enemies) {
       const cardData = functions.getCardData(card)
       total += isHero ? cardData?.attack : cardData?.scheme
@@ -199,6 +195,7 @@ taille de main).
 2. Tous les joueurs piochent simultanément jusqu’à atteindre leur taille de main.
 3. Tous les joueurs redressent simultanément toutes
 leurs cartes. 
+-> ready all on en fera un truc synchro si aucune carte affecte les tailles de mains
 */
 
 /*
