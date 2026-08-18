@@ -155,7 +155,7 @@ for (const card of cards) {
             image: backImageSrc ? imageBaseUrl + backImageSrc : null,
             isHorizontal: isHorizontal(backSource.type_name),
         };
-
+        finalCard.handSize = frontSource.hand_size ?? 0
         removedLinkedCards[card.linked_card.code] = card.linked_card;
     } else if (card.double_sided) {
         finalCard.face.back = {
