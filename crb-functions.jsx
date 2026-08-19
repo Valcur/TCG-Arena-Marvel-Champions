@@ -3,6 +3,7 @@ async function drawIfNewCookie() {
   const cookie2 = cards?.Cookie2?.length > 0 ? cards.Cookie2[0]?.id : null
   const prevCookie1 = game.data.Scripts.lastCookie1
   const prevCookie2 = game.data.Scripts.lastCookie2
+  console.log(cards, functions, game.data.Scripts)
   let hasChanged = false
   if (cookie1 && cookie1 !== prevCookie1) {
     const cookie1Data = functions.getCardData(cookie1)
