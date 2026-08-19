@@ -4,20 +4,15 @@ async function drawIfNewCookie() {
   const prevCookie1 = game.data.Scripts.lastCookie1
   const prevCookie2 = game.data.Scripts.lastCookie2
   console.log(cards, functions, game.data.Scripts)
-  let hasChanged = false
   if (cookie1 && cookie1 !== prevCookie1) {
     const cookie1Data = functions.getCardData(cookie1)
-    await functions.draw(cookie1Data.HP ?? 2, false, "HP1")
+    console.log(cookie1Data)
+    await functions.draw(cookie1Data?.HP ?? 2, false, "HP1")
     game.data.Scripts.lastCookie1 = cookie1.id
-    hasChanged = true
   }
   if (cookie2 && cookie2 !== prevCookie2) {
     const cookie2Data = functions.getCardData(cookie1)
-    await functions.draw(cookie2Data.HP ?? 2, false, "HP2")
+    await functions.draw(cookie2Data?.HP ?? 2, false, "HP2")
     game.data.Scripts.lastCookie2 = cookie2.id
-    hasChanged = true
-  }
-  if (hasChanged) {
-    await functions.repositionCards()
   }
 }
