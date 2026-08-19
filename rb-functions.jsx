@@ -1,11 +1,9 @@
 async function placeBattlefields() {
-  console.log("yo", game, cards)
-  if (!game.isHost) return
+  const destintation = game.isHost ? "myBF1": "myBF2"
   if (cards?.Battlefields?.length > 0) {
     for (const card of cards?.Battlefields) {
       if (card.owner === game.playerId) {
-          console.log("yo success")
-        await functions.moveCard(card, "myBF2")
+        await functions.moveCard(card, destintation)
       }
     }
     await functions.repositionCards()
