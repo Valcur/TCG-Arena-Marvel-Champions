@@ -7,6 +7,7 @@ async function drawIfNewCookie() {
     const cookie1Data = functions.getCardData(cookie1)
     await functions.draw(cookie1Data?.HP ?? 2, false, "HP1")
     game.data.Scripts.lastCookie1 = cookie1.id
+    console.log(cookie1.id, game.data.Scripts.lastCookie1)
   }
   if (cookie2 && cookie2?.id !== prevCookie2) {
     const cookie2Data = functions.getCardData(cookie1)
