@@ -406,7 +406,7 @@
             },
             "events": {
               "onPlayersReady": "await allPlayerReady()",
-              "onCardUpdate": "await processCardUpdate()",
+              "onCardsUpdate": "await processCardUpdate()",
               "onNewTurn": "await emptyRevealed()"
             }
           }
