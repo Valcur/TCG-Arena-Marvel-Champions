@@ -369,7 +369,7 @@
           "LocalGameplayData": {
             "type": "custom",
             "defaultValue": {
-              "total": 12,
+              "total": 0,
               "isHero": false
             },
             "blueprint": {
